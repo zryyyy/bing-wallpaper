@@ -1,0 +1,26 @@
+# Binaries
+bing-wallpaper
+bing-wallpaper.exe
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Release Archives
+*.zip
+
+# Go environment
+vendor/
+*.out
+*.test
+

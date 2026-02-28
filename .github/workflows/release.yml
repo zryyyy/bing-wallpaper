@@ -1,0 +1,47 @@
+name: Monthly Bing Wallpaper Release
+
+on:
+  schedule:
+    - cron: '0 0 2 * *' # Run at 00:00 UTC on the 2nd of every month
+  workflow_dispatch:
+    inputs:
+      month:
+        description: 'Month to release (YYYY-MM)'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.25'
+
+      - name: Get target month
+        id: month
+        run: |
+          if [ "${{ github.event.inputs.month }}" != "" ]; then
+             echo "TARGET_MONTH=${{ github.event.inputs.month }}" >> $GITHUB_ENV
+          else
+             # Get last month dynamically
+             echo "TARGET_MONTH=$(date -d "last month" +%Y-%m)" >> $GITHUB_ENV
+          fi
+
+      - name: Run Release Packager
+        run: go run main.go -action release -month ${{ env.TARGET_MONTH }}
+
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ env.TARGET_MONTH }}
+          name: ${{ env.TARGET_MONTH }} Bing Wallpapers
+          files: ${{ env.TARGET_MONTH }}.zip
+          body: "Bing wallpapers for ${{ env.TARGET_MONTH }}."
