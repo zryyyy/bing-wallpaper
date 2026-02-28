@@ -76,7 +76,10 @@
       <img src="https://www.bing.com//th?id=OHR.OloupenaFalls_ZH-CN2980118660_UHD.jpg" alt="奥洛乌佩纳瀑布, 莫洛凯岛, 夏威夷, 美国 (© Andrew Aylett/Getty Images)" /><br>
       2026-02-27 <a href="https://www.bing.com//th?id=OHR.OloupenaFalls_ZH-CN2980118660_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com//th?id=OHR.BalearesDay_ZH-CN5024902433_UHD.jpg" alt="伊维萨岛, 巴利阿里群岛, 西班牙 (© tokar/Shutterstock)" /><br>
+      2026-02-28 <a href="https://www.bing.com//th?id=OHR.BalearesDay_ZH-CN5024902433_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
