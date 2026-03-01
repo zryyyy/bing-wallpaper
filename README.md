@@ -47,3 +47,13 @@ This repository includes two built-in GitHub Actions workflows to keep the archi
 
 1. **Daily Update (`daily.yml`)**: Runs automatically at 00:30 UTC every day. It executes the `update` action, commits the new JSON metadata and generated markdown files, and pushes them directly to the repository.
 2. **Monthly Release (`release.yml`)**: Runs automatically at 00:00 UTC on the 2nd of every month. It executes the `release` action, packages the previous month's wallpapers into a ZIP file, and publishes a new GitHub Release containing the archive.
+
+## Acknowledgments
+
+This project was inspired by and references the following excellent websites and open-source projects:
+
+* [WallpaperHub](https://www.wallpaperhub.app/)
+* [Bing Wallpaper Gallery](https://bingwallpaper.anerg.com/)
+* [niumoo/bing-wallpaper](https://github.com/niumoo/bing-wallpaper)
+* [myseil/BingWallpaper](https://github.com/myseil/BingWallpaper)
+* [npanuhin/Bing-Wallpaper-Archive](https://github.com/npanuhin/Bing-Wallpaper-Archive)
