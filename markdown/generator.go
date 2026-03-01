@@ -16,7 +16,7 @@ func GenerateMarkdown(baseDir string, month string) error {
 		Filename string
 		Title    string
 	}{
-		{"en-WW", "README.md", month},
+		{"en-SG", "README.md", month},
 		{"zh-CN", "README-zh.md", month},
 	}
 

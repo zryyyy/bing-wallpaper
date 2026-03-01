@@ -47,7 +47,7 @@ func FetchWallpapers(market string) ([]Wallpaper, error) {
 	for _, img := range bingResp.Images {
 		wallpapers = append(wallpapers, Wallpaper{
 			Date:      img.StartDate,
-			URL:       fmt.Sprintf("https://www.bing.com/%s_UHD.jpg", img.URLBase),
+			URL:       fmt.Sprintf("https://www.bing.com%s_UHD.jpg", img.URLBase),
 			Copyright: img.Copyright,
 		})
 	}

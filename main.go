@@ -17,7 +17,7 @@ func main() {
 	month := flag.String("month", "", "Month to release (e.g. YYYY-MM), defaults to last month")
 	flag.Parse()
 
-	markets := []string{"zh-CN", "en-GB", "en-US", "en-WW", "ja-JP"}
+	markets := []string{"zh-CN", "en-GB", "en-US", "ja-JP", "en-SG"} // Use en-SG as ROW
 	baseDir := "img"
 
 	if *action == "update" {
