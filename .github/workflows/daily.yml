@@ -28,4 +28,4 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add img/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update Bing Wallpapers" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update Bing Wallpapers" && git push)

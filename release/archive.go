@@ -13,7 +13,7 @@ import (
 )
 
 func PackageMonth(month string, outputZip string, baseDir string) error {
-	markets := []string{"zh-CN", "en-GB", "en-US", "en-WW", "ja-JP"}
+	markets := []string{"zh-CN", "en-GB", "en-US", "ja-JP", "en-SG"}
 
 	zipFile, err := os.Create(outputZip)
 	if err != nil {
