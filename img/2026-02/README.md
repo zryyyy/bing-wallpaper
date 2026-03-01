@@ -45,40 +45,40 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://www.bing.com//th?id=OHR.TetonFox_EN-GB1287383886_UHD.jpg" alt="Red fox, Grand Teton National Park, Wyoming, United States (© Radomir Jakubowski/naturepl.com)" /><br>
-      2026-02-21 <a href="https://www.bing.com//th?id=OHR.TetonFox_EN-GB1287383886_UHD.jpg">Download</a>
+      <img src="https://www.bing.com//th?id=OHR.TetonFox_EN-US2616700325_UHD.jpg" alt="Red fox standing in snowfall, Grand Teton National Park, Wyoming (© Radomir Jakubowski/naturepl.com)" /><br>
+      2026-02-21 <a href="https://www.bing.com//th?id=OHR.TetonFox_EN-US2616700325_UHD.jpg">Download</a>
     </td>
     <td align="center">
-      <img src="https://www.bing.com//th?id=OHR.MamTorSunrise_EN-GB1525919580_UHD.jpg" alt="The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images)" /><br>
-      2026-02-22 <a href="https://www.bing.com//th?id=OHR.MamTorSunrise_EN-GB1525919580_UHD.jpg">Download</a>
+      <img src="https://www.bing.com//th?id=OHR.MamTorSunrise_EN-US2655534073_UHD.jpg" alt="The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images)" /><br>
+      2026-02-22 <a href="https://www.bing.com//th?id=OHR.MamTorSunrise_EN-US2655534073_UHD.jpg">Download</a>
     </td>
     <td align="center">
-      <img src="https://www.bing.com//th?id=OHR.BavariaEgret_EN-GB1955700244_UHD.jpg" alt="Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com)" /><br>
-      2026-02-23 <a href="https://www.bing.com//th?id=OHR.BavariaEgret_EN-GB1955700244_UHD.jpg">Download</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://www.bing.com//th?id=OHR.TulumLilies_EN-GB2782201800_UHD.jpg" alt="Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)" /><br>
-      2026-02-24 <a href="https://www.bing.com//th?id=OHR.TulumLilies_EN-GB2782201800_UHD.jpg">Download</a>
-    </td>
-    <td align="center">
-      <img src="https://www.bing.com//th?id=OHR.MendenhallCave_EN-GB3238548442_UHD.jpg" alt="Ice cave in the Mendenhall Glacier, Alaska, United States (© Designpics/Adobe Stock)" /><br>
-      2026-02-25 <a href="https://www.bing.com//th?id=OHR.MendenhallCave_EN-GB3238548442_UHD.jpg">Download</a>
-    </td>
-    <td align="center">
-      <img src="https://www.bing.com//th?id=OHR.GrandSunset_EN-GB4172876731_UHD.jpg" alt="Grand Canyon and the Colorado River, Arizona, United States (© Matt Anderson Photography/Getty Images)" /><br>
-      2026-02-26 <a href="https://www.bing.com//th?id=OHR.GrandSunset_EN-GB4172876731_UHD.jpg">Download</a>
+      <img src="https://www.bing.com//th?id=OHR.BavariaEgret_EN-US2697995103_UHD.jpg" alt="Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com)" /><br>
+      2026-02-23 <a href="https://www.bing.com//th?id=OHR.BavariaEgret_EN-US2697995103_UHD.jpg">Download</a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://www.bing.com//th?id=OHR.ArcitcCub_EN-GB4371536451_UHD.jpg" alt="Polar bear cub, Arctic National Wildlife Refuge, Alaska, United States (© Steven Kazlowski/naturepl.com)" /><br>
-      2026-02-27 <a href="https://www.bing.com//th?id=OHR.ArcitcCub_EN-GB4371536451_UHD.jpg">Download</a>
+      <img src="https://www.bing.com//th?id=OHR.TulumLilies_EN-US2766347819_UHD.jpg" alt="Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)" /><br>
+      2026-02-24 <a href="https://www.bing.com//th?id=OHR.TulumLilies_EN-US2766347819_UHD.jpg">Download</a>
     </td>
     <td align="center">
-      <img src="https://www.bing.com//th?id=OHR.OloupenaFalls_EN-GB4616495104_UHD.jpg" alt="Olo'upena Falls, island of Moloka'i, Hawaii, United States (© Andrew Aylett/Getty Images)" /><br>
-      2026-02-28 <a href="https://www.bing.com//th?id=OHR.OloupenaFalls_EN-GB4616495104_UHD.jpg">Download</a>
+      <img src="https://www.bing.com//th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg" alt="Ice cave in the Mendenhall Glacier, Alaska (© Designpics/Adobe Stock)" /><br>
+      2026-02-25 <a href="https://www.bing.com//th?id=OHR.MendenhallCave_EN-US2807496139_UHD.jpg">Download</a>
+    </td>
+    <td align="center">
+      <img src="https://www.bing.com//th?id=OHR.GrandSunset_EN-US2473517741_UHD.jpg" alt="Grand Canyon and the Colorado River, Arizona (© Matt Anderson Photography/Getty Images)" /><br>
+      2026-02-26 <a href="https://www.bing.com//th?id=OHR.GrandSunset_EN-US2473517741_UHD.jpg">Download</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com//th?id=OHR.ArcitcCub_EN-US2529097123_UHD.jpg" alt="Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska (© Steven Kazlowski/naturepl.com)" /><br>
+      2026-02-27 <a href="https://www.bing.com//th?id=OHR.ArcitcCub_EN-US2529097123_UHD.jpg">Download</a>
+    </td>
+    <td align="center">
+      <img src="https://www.bing.com//th?id=OHR.OloupenaFalls_EN-US2862358887_UHD.jpg" alt="Olo'upena Falls, island of Moloka'i, Hawaii (© Andrew Aylett/Getty Images)" /><br>
+      2026-02-28 <a href="https://www.bing.com//th?id=OHR.OloupenaFalls_EN-US2862358887_UHD.jpg">Download</a>
     </td>
     <td></td>
   </tr>
