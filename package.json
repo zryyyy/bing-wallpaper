@@ -18,12 +18,15 @@
     "postinstall": "git config core.hooksPath .githooks"
   },
   "dependencies": {
+    "lucide-react": "^0.576.0",
+    "motion": "^12.34.5",
     "react": "^19.2.4",
     "react-dom": "^19.2.4"
   },
   "devDependencies": {
     "@biomejs/biome": "^2.4.5",
     "@tailwindcss/vite": "^4.2.1",
+    "@types/node": "^25.3.3",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^5.1.4",
