@@ -6,7 +6,10 @@
       <img src="https://www.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_UHD.jpg" alt="苏梅岛的港口和长尾船, 泰国 (© Foto2rich/Shutterstock)" /><br>
       2026-03-01 <a href="https://www.bing.com/th?id=OHR.SamuiThailand_ZH-CN3323790951_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.LanternFestivalY26_ZH-CN9186685796_UHD.jpg" alt="元宵节期间悬挂的宫灯，北京自贡灯会现场，北京，中国 (© Grisha Bruev/Shutterstock)" /><br>
+      2026-03-02 <a href="https://www.bing.com/th?id=OHR.LanternFestivalY26_ZH-CN9186685796_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
