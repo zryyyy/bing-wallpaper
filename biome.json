@@ -29,7 +29,12 @@
         "noUnusedVariables": "error"
       },
       "suspicious": {
-        "noConsole": "error",
+        "noConsole": {
+          "level": "error",
+          "options": {
+            "allow": ["error", "warn"]
+          }
+        },
         "noExplicitAny": "error"
       },
       "style": {
