@@ -6,6 +6,9 @@ import Hero from '@/components/Hero.tsx';
 import ImageModal from '@/components/ImageModal.tsx';
 import type { CountryCode, Wallpaper } from '@/types.ts';
 
+const API_BASE_URL =
+  'https://raw.githubusercontent.com/zryyyy/bing-wallpaper/refs/heads/master/img';
+
 function App() {
   const [country, setCountry] = useState<CountryCode>('en-US');
   const [wallpapers, setWallpapers] = useState<Wallpaper[]>([]);
@@ -16,9 +19,7 @@ function App() {
   useEffect(() => {
     const fetchWallpapers = async () => {
       setLoading(true);
-      const response = await fetch(
-        `https://raw.githubusercontent.com/zryyyy/bing-wallpaper/refs/heads/master/img/${country}.json`,
-      );
+      const response = await fetch(`${API_BASE_URL}/${country}.json`);
 
       if (!response.ok) {
         throw new Error('Failed to fetch wallpapers');
