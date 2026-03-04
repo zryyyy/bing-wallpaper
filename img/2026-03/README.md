@@ -10,6 +10,9 @@
       <img src="https://www.bing.com/th?id=OHR.SamuiThailand_ROW4256574976_UHD.jpg" alt="Harbour and longtail boats at Ko Samui, Thailand (© Foto2rich/Shutterstock)" /><br>
       2026-03-02 <a href="https://www.bing.com/th?id=OHR.SamuiThailand_ROW4256574976_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BabyElephant_ROW4423597871_UHD.jpg" alt="African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)" /><br>
+      2026-03-03 <a href="https://www.bing.com/th?id=OHR.BabyElephant_ROW4423597871_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

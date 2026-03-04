@@ -10,6 +10,9 @@
       <img src="https://www.bing.com/th?id=OHR.LanternFestivalY26_ZH-CN9186685796_UHD.jpg" alt="元宵节期间悬挂的宫灯，北京自贡灯会现场，北京，中国 (© Grisha Bruev/Shutterstock)" /><br>
       2026-03-02 <a href="https://www.bing.com/th?id=OHR.LanternFestivalY26_ZH-CN9186685796_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.RilaCrocuses_ZH-CN3650360951_UHD.jpg" alt="紫番红花, 里拉七湖, 保加利亚 (© Maya Karkalicheva/Getty Images)" /><br>
+      2026-03-03 <a href="https://www.bing.com/th?id=OHR.RilaCrocuses_ZH-CN3650360951_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
