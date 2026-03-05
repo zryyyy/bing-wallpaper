@@ -2,6 +2,12 @@
 
 An automated tool and archive for fetching, storing, and releasing daily Bing wallpapers from multiple markets. Powered by Go and GitHub Actions.
 
+## [Frontend](https://zryyyy.github.io/bing-wallpaper/)
+
+[Source Code](https://github.com/zryyyy/bing-wallpaper/tree/frontend)
+
+![Frontend Screenshot](./assets/screenshot.png)
+
 ## Features
 
 * **Multi-Market Support**: Fetches daily UHD wallpapers from Bing for various regions: `zh-CN`, `en-GB`, `en-US`, `en-WW`, and `ja-JP`.
