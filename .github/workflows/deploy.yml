@@ -3,6 +3,8 @@ name: Deploy content to Pages
 on:
   push:
     branches: ['frontend']
+    paths-ignore:
+      - 'README.md'
   workflow_dispatch:
 
 permissions:
