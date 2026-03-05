@@ -15,4 +15,12 @@
       2026-03-03 <a href="https://www.bing.com/th?id=OHR.BabyElephant_ROW4423597871_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.RilaCrocuses_ROW4635215657_UHD.jpg" alt="Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)" /><br>
+      2026-03-04 <a href="https://www.bing.com/th?id=OHR.RilaCrocuses_ROW4635215657_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

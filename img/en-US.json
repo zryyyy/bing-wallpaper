@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260202",
-    "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg",
-    "copyright": "Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)"
-  },
-  {
     "date": "20260203",
     "url": "https://www.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg",
     "copyright": "Emerald Bay and Fannette Island, Lake Tahoe, California (© Bill Stevenson/Cavan Images)"
@@ -148,5 +143,10 @@
     "date": "20260303",
     "url": "https://www.bing.com/th?id=OHR.BabyElephant_EN-US3103670102_UHD.jpg",
     "copyright": "African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)"
+  },
+  {
+    "date": "20260304",
+    "url": "https://www.bing.com/th?id=OHR.RilaCrocuses_EN-US3179110237_UHD.jpg",
+    "copyright": "Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)"
   }
 ]

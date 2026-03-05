@@ -15,4 +15,12 @@
       2026-03-03 <a href="https://www.bing.com/th?id=OHR.RilaCrocuses_ZH-CN3650360951_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_UHD.jpg" alt="格雷梅的傍晚, 卡帕多西亚, 土耳其 (© ONNAJA/Getty Images)" /><br>
+      2026-03-04 <a href="https://www.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
