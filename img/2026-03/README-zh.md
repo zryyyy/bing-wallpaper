@@ -20,7 +20,10 @@
       <img src="https://www.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_UHD.jpg" alt="格雷梅的傍晚, 卡帕多西亚, 土耳其 (© ONNAJA/Getty Images)" /><br>
       2026-03-04 <a href="https://www.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_UHD.jpg" alt="波浪住宅楼, 瓦埃勒, 丹麦 (© Frank Bach/Alamy)" /><br>
+      2026-03-05 <a href="https://www.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
