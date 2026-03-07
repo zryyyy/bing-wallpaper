@@ -24,6 +24,9 @@
       <img src="https://www.bing.com/th?id=OHR.GoremeTwilight_ROW5000170185_UHD.jpg" alt="Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images)" /><br>
       2026-03-05 <a href="https://www.bing.com/th?id=OHR.GoremeTwilight_ROW5000170185_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.WaveDenmark_ROW5073761456_UHD.jpg" alt="The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)" /><br>
+      2026-03-06 <a href="https://www.bing.com/th?id=OHR.WaveDenmark_ROW5073761456_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

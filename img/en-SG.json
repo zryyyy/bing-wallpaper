@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260204",
-    "url": "https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_ROW3059488270_UHD.jpg",
-    "copyright": "Red kite in snow (© Carl Mckie/500px/Getty Images)"
-  },
-  {
     "date": "20260205",
     "url": "https://www.bing.com/th?id=OHR.MaltaSalt_ROW3900508445_UHD.jpg",
     "copyright": "Salt evaporation ponds on the island of Gozo, Malta (© Marius Roman/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260305",
     "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_ROW5000170185_UHD.jpg",
     "copyright": "Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images)"
+  },
+  {
+    "date": "20260306",
+    "url": "https://www.bing.com/th?id=OHR.WaveDenmark_ROW5073761456_UHD.jpg",
+    "copyright": "The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)"
   }
 ]

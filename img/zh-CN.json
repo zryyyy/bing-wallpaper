@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260204",
-    "url": "https://www.bing.com/th?id=OHR.MaltaSalt_ZH-CN7025158187_UHD.jpg",
-    "copyright": "戈佐岛上的盐田, 马耳他 (© Marius Roman/Getty Images)"
-  },
-  {
     "date": "20260205",
     "url": "https://www.bing.com/th?id=OHR.GiauPass_ZH-CN3901214501_UHD.jpg",
     "copyright": "贾乌山口的拉古塞拉峰, 在科尔蒂纳丹佩佐附近, 意大利 (© Tomasz Podolski/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260305",
     "url": "https://www.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_UHD.jpg",
     "copyright": "波浪住宅楼, 瓦埃勒, 丹麦 (© Frank Bach/Alamy)"
+  },
+  {
+    "date": "20260306",
+    "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_UHD.jpg",
+    "copyright": "布罗肯峰的日出, 哈尔茨国家公园, 德国 (© imageBROKER/AVTG/Getty Images)"
   }
 ]

@@ -24,6 +24,9 @@
       <img src="https://www.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_UHD.jpg" alt="波浪住宅楼, 瓦埃勒, 丹麦 (© Frank Bach/Alamy)" /><br>
       2026-03-05 <a href="https://www.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_UHD.jpg" alt="布罗肯峰的日出, 哈尔茨国家公园, 德国 (© imageBROKER/AVTG/Getty Images)" /><br>
+      2026-03-06 <a href="https://www.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
