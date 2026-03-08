@@ -29,4 +29,12 @@
       2026-03-06 <a href="https://www.bing.com/th?id=OHR.BrockenSunrise_ZH-CN4930790850_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg" alt="乌尔姆市政厅的天文钟, 德国 (© Tomekbudujedomek/Getty Images)" /><br>
+      2026-03-07 <a href="https://www.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

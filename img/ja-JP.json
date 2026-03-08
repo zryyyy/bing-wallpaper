@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260205",
-    "url": "https://www.bing.com/th?id=OHR.GiauPass_JA-JP8605769992_UHD.jpg",
-    "copyright": "ラ・グセラ峰, イタリア (© Tomasz Podolski/Getty Images)"
-  },
-  {
     "date": "20260206",
     "url": "https://www.bing.com/th?id=OHR.SapporoSnowFestival2026_JA-JP9875467944_UHD.jpg",
     "copyright": "大通公園, 札幌市 (© Reuters/Kimimasa Mayama)"
@@ -148,5 +143,10 @@
     "date": "20260306",
     "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_JA-JP0540053898_UHD.jpg",
     "copyright": "ブロッケン山, ドイツ (© imageBROKER/AVTG/Getty Images)"
+  },
+  {
+    "date": "20260307",
+    "url": "https://www.bing.com/th?id=OHR.UlmClock_JA-JP3640087811_UHD.jpg",
+    "copyright": "ウルム市庁舎の天文時計, ドイツ (© Tomekbudujedomek/Getty Images)"
   }
 ]

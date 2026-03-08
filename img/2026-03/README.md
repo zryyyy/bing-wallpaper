@@ -29,4 +29,12 @@
       2026-03-06 <a href="https://www.bing.com/th?id=OHR.WaveDenmark_ROW5073761456_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.OwlonGuard_ROW4856156035_UHD.jpg" alt="Snowy owl near the Canadian Rockies, Canada (© www.harshadventure.com/Getty Images)" /><br>
+      2026-03-07 <a href="https://www.bing.com/th?id=OHR.OwlonGuard_ROW4856156035_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

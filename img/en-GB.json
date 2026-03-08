@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260206",
-    "url": "https://www.bing.com/th?id=OHR.GiauPass_EN-GB8439205435_UHD.jpg",
-    "copyright": "Ra Gusela peak at Giau Pass, near Cortina d'Ampezzo, Italy (© Tomasz Podolski/Getty Images)"
-  },
-  {
     "date": "20260207",
     "url": "https://www.bing.com/th?id=OHR.SalarUyuni_EN-GB6291060813_UHD.jpg",
     "copyright": "Salar de Uyuni salt flats in Bolivia (© Abstract Aerial Art/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260307",
     "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_EN-GB9355519414_UHD.jpg",
     "copyright": "The Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)"
+  },
+  {
+    "date": "20260308",
+    "url": "https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-GB6516927034_UHD.jpg",
+    "copyright": "Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon, United States (© Eric Vogt/Tandem Stills + Motion)"
   }
 ]
