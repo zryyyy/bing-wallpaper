@@ -34,7 +34,10 @@
       <img src="https://www.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg" alt="乌尔姆市政厅的天文钟, 德国 (© Tomekbudujedomek/Getty Images)" /><br>
       2026-03-07 <a href="https://www.bing.com/th?id=OHR.UlmClock_ZH-CN9282560066_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.NappingSeal_ZH-CN9424683964_UHD.jpg" alt="在海滩上睡觉的灰海豹, 奥克尼群岛, 苏格兰 (© Andrew Mason/Minden Pictures)" /><br>
+      2026-03-08 <a href="https://www.bing.com/th?id=OHR.NappingSeal_ZH-CN9424683964_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

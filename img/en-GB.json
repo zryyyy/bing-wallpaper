@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260207",
-    "url": "https://www.bing.com/th?id=OHR.SalarUyuni_EN-GB6291060813_UHD.jpg",
-    "copyright": "Salar de Uyuni salt flats in Bolivia (© Abstract Aerial Art/Getty Images)"
-  },
-  {
     "date": "20260208",
     "url": "https://www.bing.com/th?id=OHR.CorfuGreece_EN-GB6599547326_UHD.jpg",
     "copyright": "Corfu, Greece (© whitewizzard/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260308",
     "url": "https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-GB6516927034_UHD.jpg",
     "copyright": "Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon, United States (© Eric Vogt/Tandem Stills + Motion)"
+  },
+  {
+    "date": "20260309",
+    "url": "https://www.bing.com/th?id=OHR.NappingSeal_EN-GB6694764610_UHD.jpg",
+    "copyright": "Grey seal sleeping on the beach, Orkney Islands, Scotland (© Andrew Mason/Minden Pictures)"
   }
 ]
