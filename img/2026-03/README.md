@@ -38,6 +38,9 @@
       <img src="https://www.bing.com/th?id=OHR.BrockenSunrise_ROW5181265545_UHD.jpg" alt="Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)" /><br>
       2026-03-08 <a href="https://www.bing.com/th?id=OHR.BrockenSunrise_ROW5181265545_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.NappingSeal_ROW2198134616_UHD.jpg" alt="Grey seal sleeping on the beach, Orkney Islands, Scotland (© Andrew Mason/Minden Pictures)" /><br>
+      2026-03-09 <a href="https://www.bing.com/th?id=OHR.NappingSeal_ROW2198134616_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
