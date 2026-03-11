@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260208",
-    "url": "https://www.bing.com/th?id=OHR.CorfuGreece_EN-US4606019833_UHD.jpg",
-    "copyright": "Corfu at night, Greece (© whitewizzard/Getty Images)"
-  },
-  {
     "date": "20260209",
     "url": "https://www.bing.com/th?id=OHR.LeopardCat_EN-US4669057608_UHD.jpg",
     "copyright": "Amur leopard cat, Russia (© Valeriy Maleev/naturepl.com)"
@@ -148,5 +143,10 @@
     "date": "20260309",
     "url": "https://www.bing.com/th?id=OHR.NappingSeal_EN-US6764325041_UHD.jpg",
     "copyright": "Gray seal sleeping on the beach, Orkney Islands, Scotland (© Andrew Mason/Minden Pictures)"
+  },
+  {
+    "date": "20260310",
+    "url": "https://www.bing.com/th?id=OHR.SpringIceland_EN-US6846318257_UHD.jpg",
+    "copyright": "Geothermal blue pool Bláhver at Hveravellir, Iceland (© Juan Maria Coy Vergara/Getty Images)"
   }
 ]

@@ -43,4 +43,12 @@
       2026-03-09 <a href="https://www.bing.com/th?id=OHR.NappingSeal_ROW2198134616_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SpringIceland_ROW2538267892_UHD.jpg" alt="Geothermal blue pool Bláhver at Hveravellir, Iceland (© Juan Maria Coy Vergara/Getty Images)" /><br>
+      2026-03-10 <a href="https://www.bing.com/th?id=OHR.SpringIceland_ROW2538267892_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

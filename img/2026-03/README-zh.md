@@ -43,4 +43,12 @@
       2026-03-09 <a href="https://www.bing.com/th?id=OHR.SpringIceland_ZH-CN9545282898_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_UHD.jpg" alt="盛开的桃树, 谢萨, 穆尔西亚, 西班牙 (© Juan Maria Coy Vergara/Getty Images)" /><br>
+      2026-03-10 <a href="https://www.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
