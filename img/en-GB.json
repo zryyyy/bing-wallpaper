@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260210",
-    "url": "https://www.bing.com/th?id=OHR.IbizaIslets_EN-GB7236526241_UHD.jpg",
-    "copyright": "Islets of Es Vedrà and Es Vedranell, Ibiza, Spain (© L. Apolli/Getty Images)"
-  },
-  {
     "date": "20260211",
     "url": "https://www.bing.com/th?id=OHR.BadwaterFlats_EN-GB7497288557_UHD.jpg",
     "copyright": "Salt flats in Badwater Basin, Death Valley National Park, California, USA (© Jim Patterson/TANDEM Stills + Motion)"
@@ -148,5 +143,10 @@
     "date": "20260311",
     "url": "https://www.bing.com/th?id=OHR.PeachBloom_EN-GB7084568493_UHD.jpg",
     "copyright": "Peach trees in bloom, Cieza, Murcia, Spain (© Juan Maria Coy Vergara/Getty Images)"
+  },
+  {
+    "date": "20260312",
+    "url": "https://www.bing.com/th?id=OHR.SunbitternEcuador_EN-GB7250985153_UHD.jpg",
+    "copyright": "Juvenile sunbittern displaying at nest, Ecuador (© Andy Rouse/naturepl.com)"
   }
 ]

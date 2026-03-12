@@ -48,7 +48,10 @@
       <img src="https://www.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_UHD.jpg" alt="盛开的桃树, 谢萨, 穆尔西亚, 西班牙 (© Juan Maria Coy Vergara/Getty Images)" /><br>
       2026-03-10 <a href="https://www.bing.com/th?id=OHR.PeachBloom_ZH-CN9660251274_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_UHD.jpg" alt="幼年日鳽在巢穴附近展示求偶行为, 厄瓜多尔 (© Andy Rouse/naturepl.com)" /><br>
+      2026-03-11 <a href="https://www.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
