@@ -52,6 +52,9 @@
       <img src="https://www.bing.com/th?id=OHR.PeachBloom_ROW2817467939_UHD.jpg" alt="Peach trees in bloom, Cieza, Murcia, Spain (© Juan Maria Coy Vergara/Getty Images)" /><br>
       2026-03-11 <a href="https://www.bing.com/th?id=OHR.PeachBloom_ROW2817467939_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SunbitternEcuador_ROW2999974301_UHD.jpg" alt="Juvenile sunbittern displaying at nest, Ecuador (© Andy Rouse/naturepl.com)" /><br>
+      2026-03-12 <a href="https://www.bing.com/th?id=OHR.SunbitternEcuador_ROW2999974301_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

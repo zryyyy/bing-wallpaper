@@ -52,6 +52,9 @@
       <img src="https://www.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_UHD.jpg" alt="幼年日鳽在巢穴附近展示求偶行为, 厄瓜多尔 (© Andy Rouse/naturepl.com)" /><br>
       2026-03-11 <a href="https://www.bing.com/th?id=OHR.SunbitternEcuador_ZH-CN9772788253_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_UHD.jpg" alt="邦港圣母教堂拱顶，莱萨布勒多洛讷，法国 (© Helmut Meyer zur Capellen/Alamy)" /><br>
+      2026-03-12 <a href="https://www.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
