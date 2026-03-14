@@ -57,4 +57,12 @@
       2026-03-12 <a href="https://www.bing.com/th?id=OHR.SunbitternEcuador_ROW2999974301_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SwanHesse_ROW3213322861_UHD.jpg" alt="Mute swan with chicks, Hesse, Germany (© Wilfried Martin/Getty Images)" /><br>
+      2026-03-13 <a href="https://www.bing.com/th?id=OHR.SwanHesse_ROW3213322861_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

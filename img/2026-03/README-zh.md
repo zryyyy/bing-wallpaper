@@ -57,4 +57,12 @@
       2026-03-12 <a href="https://www.bing.com/th?id=OHR.VendeeVaults_ZH-CN9885568795_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_UHD.jpg" alt="兰扬石门，位于英格兰康沃尔郡的一座兰扬新石器时代石棚墓，英国 (© Helen Hotson/Alamy)" /><br>
+      2026-03-13 <a href="https://www.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
