@@ -62,7 +62,10 @@
       <img src="https://www.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_UHD.jpg" alt="兰扬石门，位于英格兰康沃尔郡的一座兰扬新石器时代石棚墓，英国 (© Helen Hotson/Alamy)" /><br>
       2026-03-13 <a href="https://www.bing.com/th?id=OHR.CornwallDolmen_ZH-CN0045468799_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.PacificRimNP_ZH-CN0350089584_UHD.jpg" alt="太平洋沿岸国家公园保护区，温哥华岛，加拿大 (© EmilyNorton/Getty Images)" /><br>
+      2026-03-14 <a href="https://www.bing.com/th?id=OHR.PacificRimNP_ZH-CN0350089584_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

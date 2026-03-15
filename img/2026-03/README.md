@@ -62,7 +62,10 @@
       <img src="https://www.bing.com/th?id=OHR.SwanHesse_ROW3213322861_UHD.jpg" alt="Mute swan with chicks, Hesse, Germany (© Wilfried Martin/Getty Images)" /><br>
       2026-03-13 <a href="https://www.bing.com/th?id=OHR.SwanHesse_ROW3213322861_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.CornwallDolmen_ROW3459140266_UHD.jpg" alt="Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)" /><br>
+      2026-03-14 <a href="https://www.bing.com/th?id=OHR.CornwallDolmen_ROW3459140266_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
