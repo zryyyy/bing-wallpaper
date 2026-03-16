@@ -66,6 +66,9 @@
       <img src="https://www.bing.com/th?id=OHR.CornwallDolmen_ROW3459140266_UHD.jpg" alt="Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)" /><br>
       2026-03-14 <a href="https://www.bing.com/th?id=OHR.CornwallDolmen_ROW3459140266_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.PacificRimNP_ROW9181043528_UHD.jpg" alt="Pacific Rim National Park Reserve, Vancouver Island, Canada (© EmilyNorton/Getty Images)" /><br>
+      2026-03-15 <a href="https://www.bing.com/th?id=OHR.PacificRimNP_ROW9181043528_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

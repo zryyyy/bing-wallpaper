@@ -66,6 +66,9 @@
       <img src="https://www.bing.com/th?id=OHR.PacificRimNP_ZH-CN0350089584_UHD.jpg" alt="太平洋沿岸国家公园保护区，温哥华岛，加拿大 (© EmilyNorton/Getty Images)" /><br>
       2026-03-14 <a href="https://www.bing.com/th?id=OHR.PacificRimNP_ZH-CN0350089584_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.PandaForest_ZH-CN0545156080_UHD.jpg" alt="正在吃竹子的大熊猫，中国 (© Entwicklungsknecht/Getty Images)" /><br>
+      2026-03-15 <a href="https://www.bing.com/th?id=OHR.PandaForest_ZH-CN0545156080_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
