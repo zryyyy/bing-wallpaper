@@ -71,4 +71,12 @@
       2026-03-15 <a href="https://www.bing.com/th?id=OHR.PacificRimNP_ROW9181043528_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AnivRio_ROW3862828341_UHD.jpg" alt="Cable car and Sugarloaf Mountain, Rio de Janeiro, Brazil (© f11photo/Shutterstock)" /><br>
+      2026-03-16 <a href="https://www.bing.com/th?id=OHR.AnivRio_ROW3862828341_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

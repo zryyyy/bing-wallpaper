@@ -71,4 +71,12 @@
       2026-03-15 <a href="https://www.bing.com/th?id=OHR.PandaForest_ZH-CN0545156080_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_UHD.jpg" alt="艾利赫格里安南环形堡，多内加尔，爱尔兰 (© Lukassek/Getty Images)" /><br>
+      2026-03-16 <a href="https://www.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
