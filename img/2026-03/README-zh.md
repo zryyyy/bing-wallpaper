@@ -76,7 +76,10 @@
       <img src="https://www.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_UHD.jpg" alt="艾利赫格里安南环形堡，多内加尔，爱尔兰 (© Lukassek/Getty Images)" /><br>
       2026-03-16 <a href="https://www.bing.com/th?id=OHR.DonegalFort_ZH-CN0718842170_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.PortlandBlossoms_ZH-CN0814501668_UHD.jpg" alt="汤姆·麦考尔滨水公园的樱花，波特兰，俄勒冈州，美国 (© Eric Vogt/Tandem Stills + Motion)" /><br>
+      2026-03-17 <a href="https://www.bing.com/th?id=OHR.PortlandBlossoms_ZH-CN0814501668_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
