@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260216",
-    "url": "https://www.bing.com/th?id=OHR.PresidentsDay_EN-US6598155144_UHD.jpg",
-    "copyright": "Lincoln Memorial, Washington, DC (© Westend61/Getty Images)"
-  },
-  {
     "date": "20260217",
     "url": "https://www.bing.com/th?id=OHR.NewYearLantern_EN-US6665128229_UHD.jpg",
     "copyright": "Red lanterns celebrating Chinese New Year (© Gins Wang/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260317",
     "url": "https://www.bing.com/th?id=OHR.DonegalFort_EN-US7529893132_UHD.jpg",
     "copyright": "Grianan of Aileach ring fort, Donegal, Ireland (© aluxum/Getty Images)"
+  },
+  {
+    "date": "20260318",
+    "url": "https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_UHD.jpg",
+    "copyright": "Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon (© Eric Vogt/Tandem Stills + Motion)"
   }
 ]

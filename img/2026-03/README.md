@@ -80,6 +80,9 @@
       <img src="https://www.bing.com/th?id=OHR.DonegalFort_ROW4126307625_UHD.jpg" alt="Grianan of Aileach ring fort, Donegal, Ireland (© Lukassek/Getty Images)" /><br>
       2026-03-17 <a href="https://www.bing.com/th?id=OHR.DonegalFort_ROW4126307625_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.PortlandBlossoms_ROW4378783991_UHD.jpg" alt="Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon, USA (© Eric Vogt/Tandem Stills + Motion)" /><br>
+      2026-03-18 <a href="https://www.bing.com/th?id=OHR.PortlandBlossoms_ROW4378783991_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260217",
-    "url": "https://www.bing.com/th?id=OHR.NewYearLantern_EN-GB0911837862_UHD.jpg",
-    "copyright": "Red lanterns celebrating Chinese New Year (© Gins Wang/Getty Images)"
-  },
-  {
     "date": "20260218",
     "url": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_EN-GB1150597463_UHD.jpg",
     "copyright": "Przewalski's horses (© Nemyrivskyi Viacheslav/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260318",
     "url": "https://www.bing.com/th?id=OHR.PacificRimNP_EN-GB7806112812_UHD.jpg",
     "copyright": "Pacific Rim National Park Reserve, Vancouver Island, Canada (© EmilyNorton/Getty Images)"
+  },
+  {
+    "date": "20260319",
+    "url": "https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-GB9662090948_UHD.jpg",
+    "copyright": "Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)"
   }
 ]

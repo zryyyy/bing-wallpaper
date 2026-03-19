@@ -80,6 +80,9 @@
       <img src="https://www.bing.com/th?id=OHR.PortlandBlossoms_ZH-CN0814501668_UHD.jpg" alt="汤姆·麦考尔滨水公园的樱花，波特兰，俄勒冈州，美国 (© Eric Vogt/Tandem Stills + Motion)" /><br>
       2026-03-17 <a href="https://www.bing.com/th?id=OHR.PortlandBlossoms_ZH-CN0814501668_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.EchidnaAustralia_ZH-CN0913792118_UHD.jpg" alt="澳洲针鼹，阿德莱德山，澳大利亚 (© Etienne Littlefair/naturepl.com)" /><br>
+      2026-03-18 <a href="https://www.bing.com/th?id=OHR.EchidnaAustralia_ZH-CN0913792118_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
