@@ -85,4 +85,12 @@
       2026-03-18 <a href="https://www.bing.com/th?id=OHR.PortlandBlossoms_ROW4378783991_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.EchidnaAustralia_ROW4548583116_UHD.jpg" alt="Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)" /><br>
+      2026-03-19 <a href="https://www.bing.com/th?id=OHR.EchidnaAustralia_ROW4548583116_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

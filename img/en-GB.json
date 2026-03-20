@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260218",
-    "url": "https://www.bing.com/th?id=OHR.PrzewalskisHorse_EN-GB1150597463_UHD.jpg",
-    "copyright": "Przewalski's horses (© Nemyrivskyi Viacheslav/Getty Images)"
-  },
-  {
     "date": "20260219",
     "url": "https://www.bing.com/th?id=OHR.DragonsEyeRock_EN-GB1409400272_UHD.jpg",
     "copyright": "The Dragon's Eye rock formation at Uttakleiv Beach, Norway (© reisegraf/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260319",
     "url": "https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-GB9662090948_UHD.jpg",
     "copyright": "Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)"
+  },
+  {
+    "date": "20260320",
+    "url": "https://www.bing.com/th?id=OHR.SpringSnowdrops_EN-GB6031515717_UHD.jpg",
+    "copyright": "Snowdrops in spring (© klagyivik/Getty Images)"
   }
 ]
