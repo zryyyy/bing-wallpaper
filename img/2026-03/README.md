@@ -94,6 +94,9 @@
       <img src="https://www.bing.com/th?id=OHR.SpringSnowdrops_ROW7920205293_UHD.jpg" alt="Snowdrops in spring (© klagyivik/Getty Images)" /><br>
       2026-03-20 <a href="https://www.bing.com/th?id=OHR.SpringSnowdrops_ROW7920205293_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.LeteaForest_ROW4397618654_UHD.jpg" alt="Letea Forest, Danube Delta, Romania (© Wild Wonders of Europe/Widstrand/Nature Picture Library)" /><br>
+      2026-03-21 <a href="https://www.bing.com/th?id=OHR.LeteaForest_ROW4397618654_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

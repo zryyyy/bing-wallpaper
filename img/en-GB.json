@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260220",
-    "url": "https://www.bing.com/th?id=OHR.AdamsFirefall_EN-GB5806562123_UHD.jpg",
-    "copyright": "Horsetail Fall, Yosemite National Park, California, United States (© Jorge Villalba/Getty Images)"
-  },
-  {
     "date": "20260221",
     "url": "https://www.bing.com/th?id=OHR.TetonFox_EN-GB1287383886_UHD.jpg",
     "copyright": "Red fox, Grand Teton National Park, Wyoming, United States (© Radomir Jakubowski/naturepl.com)"
@@ -148,5 +143,10 @@
     "date": "20260321",
     "url": "https://www.bing.com/th?id=OHR.LeteaForest_EN-GB4037759034_UHD.jpg",
     "copyright": "Letea Forest, Danube Delta, Romania (© Wild Wonders of Europe/Widstrand/Nature Picture Library)"
+  },
+  {
+    "date": "20260322",
+    "url": "https://www.bing.com/th?id=OHR.TanganyikaWater_EN-GB4227251929_UHD.jpg",
+    "copyright": "Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)"
   }
 ]

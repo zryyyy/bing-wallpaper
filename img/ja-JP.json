@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260219",
-    "url": "https://www.bing.com/th?id=OHR.AdamsFirefall_JA-JP8340862281_UHD.jpg",
-    "copyright": "ホーステール滝, 米国 カリフォルニア州 (© Jorge Villalba/Getty Images)"
-  },
-  {
     "date": "20260220",
     "url": "https://www.bing.com/th?id=OHR.TetonFox_JA-JP8453720368_UHD.jpg",
     "copyright": "アカギツネ, 米国 ワイオミング州 (© Radomir Jakubowski/naturepl.com)"
@@ -148,5 +143,10 @@
     "date": "20260320",
     "url": "https://www.bing.com/th?id=OHR.LeteaForest_JA-JP1668119659_UHD.jpg",
     "copyright": "レテア森林, ルーマニア (© Wild Wonders of Europe/Widstrand/Nature Picture Library)"
+  },
+  {
+    "date": "20260321",
+    "url": "https://www.bing.com/th?id=OHR.TanganyikaWater_JA-JP1905215650_UHD.jpg",
+    "copyright": "タンガニーカ湖, タンザニア (© BEST-BACKGROUNDS/NASA/Shutterstock)"
   }
 ]

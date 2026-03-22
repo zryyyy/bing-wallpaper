@@ -94,6 +94,9 @@
       <img src="https://www.bing.com/th?id=OHR.LeteaForest_ZH-CN4153496399_UHD.jpg" alt="莱泰亚森林，多瑙河三角洲，罗马尼亚 (© Wild Wonders of Europe/Widstrand/Nature Picture Library)" /><br>
       2026-03-20 <a href="https://www.bing.com/th?id=OHR.LeteaForest_ZH-CN4153496399_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.TanganyikaWater_ZH-CN4884850067_UHD.jpg" alt="坦噶尼喀湖，非洲 (© BEST-BACKGROUNDS/NASA/Shutterstock)" /><br>
+      2026-03-21 <a href="https://www.bing.com/th?id=OHR.TanganyikaWater_ZH-CN4884850067_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
