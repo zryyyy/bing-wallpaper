@@ -99,4 +99,12 @@
       2026-03-21 <a href="https://www.bing.com/th?id=OHR.TanganyikaWater_ZH-CN4884850067_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SonoranStorm_ZH-CN0579792563_UHD.jpg" alt="坦噶尼喀湖，非洲 (© BEST-BACKGROUNDS/NASA/Shutterstock)" /><br>
+      2026-03-22 <a href="https://www.bing.com/th?id=OHR.SonoranStorm_ZH-CN0579792563_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

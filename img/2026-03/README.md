@@ -99,4 +99,12 @@
       2026-03-21 <a href="https://www.bing.com/th?id=OHR.LeteaForest_ROW4397618654_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.TanganyikaWater_ROW4763595612_UHD.jpg" alt="Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)" /><br>
+      2026-03-22 <a href="https://www.bing.com/th?id=OHR.TanganyikaWater_ROW4763595612_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
