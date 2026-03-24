@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260221",
-    "url": "https://www.bing.com/th?id=OHR.TetonFox_EN-US2616700325_UHD.jpg",
-    "copyright": "Red fox standing in snowfall, Grand Teton National Park, Wyoming (© Radomir Jakubowski/naturepl.com)"
-  },
-  {
     "date": "20260222",
     "url": "https://www.bing.com/th?id=OHR.MamTorSunrise_EN-US2655534073_UHD.jpg",
     "copyright": "The hill of Mam Tor, Derbyshire, England (© john finney photography/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260322",
     "url": "https://www.bing.com/th?id=OHR.TanganyikaWater_EN-US5685685365_UHD.jpg",
     "copyright": "Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)"
+  },
+  {
+    "date": "20260323",
+    "url": "https://www.bing.com/th?id=OHR.SonoranStorm_EN-US5792303901_UHD.jpg",
+    "copyright": "Lightning storm over saguaro cacti, Sonoran Desert, Arizona (© Jack Dykinga/Nature Picture Library)"
   }
 ]

@@ -104,7 +104,10 @@
       <img src="https://www.bing.com/th?id=OHR.TanganyikaWater_ROW4763595612_UHD.jpg" alt="Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)" /><br>
       2026-03-22 <a href="https://www.bing.com/th?id=OHR.TanganyikaWater_ROW4763595612_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SonoranStorm_ROW5466478182_UHD.jpg" alt="Lightning storm over saguaro cacti, Sonoran Desert, Arizona, United States (© Jack Dykinga/Nature Picture Library)" /><br>
+      2026-03-23 <a href="https://www.bing.com/th?id=OHR.SonoranStorm_ROW5466478182_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
