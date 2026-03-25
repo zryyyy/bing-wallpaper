@@ -108,6 +108,9 @@
       <img src="https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_UHD.jpg" alt="东湖樱花园的樱花，武汉，中国 (© Zhang Qiao/VCG/Getty Images)" /><br>
       2026-03-23 <a href="https://www.bing.com/th?id=OHR.WuhanCherryBlossom_ZH-CN1031985926_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_UHD.jpg" alt="淡水泉中的幼年海牛，水晶河，佛罗里达州，美国 (© Gregory Sweeney/Getty Images)" /><br>
+      2026-03-24 <a href="https://www.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

@@ -108,6 +108,9 @@
       <img src="https://www.bing.com/th?id=OHR.SonoranStorm_ROW5466478182_UHD.jpg" alt="Lightning storm over saguaro cacti, Sonoran Desert, Arizona, United States (© Jack Dykinga/Nature Picture Library)" /><br>
       2026-03-23 <a href="https://www.bing.com/th?id=OHR.SonoranStorm_ROW5466478182_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.KoenigsseeFog_ROW4902303534_UHD.jpg" alt="Königssee Lake, Bavaria, Germany (© EyeEm Mobile GmbH/Getty Images)" /><br>
+      2026-03-24 <a href="https://www.bing.com/th?id=OHR.KoenigsseeFog_ROW4902303534_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
