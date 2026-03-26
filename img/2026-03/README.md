@@ -113,4 +113,12 @@
       2026-03-24 <a href="https://www.bing.com/th?id=OHR.KoenigsseeFog_ROW4902303534_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ManateeSpring_ROW7760366755_UHD.jpg" alt="Juvenile manatees in a freshwater spring, Crystal River, Florida, United States (© Gregory Sweeney/Getty Images)" /><br>
+      2026-03-25 <a href="https://www.bing.com/th?id=OHR.ManateeSpring_ROW7760366755_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

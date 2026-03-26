@@ -113,4 +113,12 @@
       2026-03-24 <a href="https://www.bing.com/th?id=OHR.ManateeSpring_ZH-CN5252847120_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_UHD.jpg" alt="洛根溪吊桥，西海岸步道，加拿大 (© Tandem Stock/Adobe Stock)" /><br>
+      2026-03-25 <a href="https://www.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

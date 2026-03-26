@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260223",
-    "url": "https://www.bing.com/th?id=OHR.BavariaEgret_EN-US2697995103_UHD.jpg",
-    "copyright": "Great white egret, Upper Bavaria, Germany (© Konrad Wothe/naturepl.com)"
-  },
-  {
     "date": "20260224",
     "url": "https://www.bing.com/th?id=OHR.TulumLilies_EN-US2766347819_UHD.jpg",
     "copyright": "Water lilies at Grand Cenote, Tulum, Mexico (© Christian Vizl/Tandem Stills + Motion)"
@@ -148,5 +143,10 @@
     "date": "20260324",
     "url": "https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-US5963967452_UHD.jpg",
     "copyright": "Cherry blossoms at East Lake Cherry Blossom Park, Wuhan, China (© Zhang Qiao/VCG/Getty Images)"
+  },
+  {
+    "date": "20260325",
+    "url": "https://www.bing.com/th?id=OHR.ManateeSpring_EN-US1203685327_UHD.jpg",
+    "copyright": "Juvenile manatees in a freshwater spring, Crystal River, Florida (© Gregory Sweeney/Getty Images)"
   }
 ]
