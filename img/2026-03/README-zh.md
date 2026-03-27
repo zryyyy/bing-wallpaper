@@ -118,7 +118,10 @@
       <img src="https://www.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_UHD.jpg" alt="洛根溪吊桥，西海岸步道，加拿大 (© Tandem Stock/Adobe Stock)" /><br>
       2026-03-25 <a href="https://www.bing.com/th?id=OHR.LoganCreek_ZH-CN5372283365_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_UHD.jpg" alt="纽约市的无线电城音乐厅, 美国 (© Clarence Holmes Photography/Alamy)" /><br>
+      2026-03-26 <a href="https://www.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

@@ -118,7 +118,10 @@
       <img src="https://www.bing.com/th?id=OHR.ManateeSpring_ROW7760366755_UHD.jpg" alt="Juvenile manatees in a freshwater spring, Crystal River, Florida, United States (© Gregory Sweeney/Getty Images)" /><br>
       2026-03-25 <a href="https://www.bing.com/th?id=OHR.ManateeSpring_ROW7760366755_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.LoganCreek_ROW8107496948_UHD.jpg" alt="Logan Creek Suspension Bridge, West Coast Trail, British Columbia, Canada (© Tandem Stock/Adobe Stock)" /><br>
+      2026-03-26 <a href="https://www.bing.com/th?id=OHR.LoganCreek_ROW8107496948_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
