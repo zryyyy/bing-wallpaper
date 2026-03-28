@@ -122,6 +122,9 @@
       <img src="https://www.bing.com/th?id=OHR.LoganCreek_ROW8107496948_UHD.jpg" alt="Logan Creek Suspension Bridge, West Coast Trail, British Columbia, Canada (© Tandem Stock/Adobe Stock)" /><br>
       2026-03-26 <a href="https://www.bing.com/th?id=OHR.LoganCreek_ROW8107496948_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AuroraIsland_ROW4443502358_UHD.jpg" alt="Aurora over Spirit Island on Maligne Lake, Jasper National Park, Alberta, Canada (© Mumemories/Getty Images)" /><br>
+      2026-03-27 <a href="https://www.bing.com/th?id=OHR.AuroraIsland_ROW4443502358_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

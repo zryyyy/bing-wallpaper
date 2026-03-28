@@ -122,6 +122,9 @@
       <img src="https://www.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_UHD.jpg" alt="纽约市的无线电城音乐厅, 美国 (© Clarence Holmes Photography/Alamy)" /><br>
       2026-03-26 <a href="https://www.bing.com/th?id=OHR.RadioCityHall_ZH-CN5492649461_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.CapeBuffalo_ZH-CN5591123662_UHD.jpg" alt="非洲水牛, 恩戈罗恩戈罗火山口, 坦桑尼亚 (© jesuss8/500px/Getty Images)" /><br>
+      2026-03-27 <a href="https://www.bing.com/th?id=OHR.CapeBuffalo_ZH-CN5591123662_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
