@@ -127,4 +127,12 @@
       2026-03-27 <a href="https://www.bing.com/th?id=OHR.AuroraIsland_ROW4443502358_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.CapeBuffalo_ROW0708366233_UHD.jpg" alt="African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)" /><br>
+      2026-03-28 <a href="https://www.bing.com/th?id=OHR.CapeBuffalo_ROW0708366233_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

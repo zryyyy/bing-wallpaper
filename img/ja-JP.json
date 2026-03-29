@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260226",
-    "url": "https://www.bing.com/th?id=OHR.ArcitcCub_JA-JP8771161198_UHD.jpg",
-    "copyright": "ホッキョクグマの子, 米国 アラスカ州 (© Steven Kazlowski/naturepl.com)"
-  },
-  {
     "date": "20260227",
     "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_JA-JP0587758979_UHD.jpg",
     "copyright": "オロウペナ滝, 米国 ハワイ州 (© Andrew Aylett/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260327",
     "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_JA-JP4477954927_UHD.jpg",
     "copyright": "アフリカスイギュウ, タンザニア (© jesuss8/500px/Getty Images)"
+  },
+  {
+    "date": "20260328",
+    "url": "https://www.bing.com/th?id=OHR.PeggysLighthouse_JA-JP4636734313_UHD.jpg",
+    "copyright": "ペギーズ・ポイント灯台, カナダ (© Prashanth Bala/Shutterstock)"
   }
 ]

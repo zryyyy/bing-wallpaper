@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260226",
-    "url": "https://www.bing.com/th?id=OHR.ArcitcCub_ZH-CN2725049760_UHD.jpg",
-    "copyright": "北极熊幼崽走过浮冰, 北极国家野生动物保护区, 阿拉斯加州, 美国 (© Steven Kazlowski/naturepl.com)"
-  },
-  {
     "date": "20260227",
     "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_ZH-CN2980118660_UHD.jpg",
     "copyright": "奥洛乌佩纳瀑布, 莫洛凯岛, 夏威夷, 美国 (© Andrew Aylett/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260327",
     "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_ZH-CN5591123662_UHD.jpg",
     "copyright": "非洲水牛, 恩戈罗恩戈罗火山口, 坦桑尼亚 (© jesuss8/500px/Getty Images)"
+  },
+  {
+    "date": "20260328",
+    "url": "https://www.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_UHD.jpg",
+    "copyright": "佩吉角灯塔, 大西洋海岸, 新斯科舍省, 加拿大 (© Prashanth Bala/Shutterstock)"
   }
 ]

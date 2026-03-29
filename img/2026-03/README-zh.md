@@ -127,4 +127,12 @@
       2026-03-27 <a href="https://www.bing.com/th?id=OHR.CapeBuffalo_ZH-CN5591123662_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_UHD.jpg" alt="佩吉角灯塔, 大西洋海岸, 新斯科舍省, 加拿大 (© Prashanth Bala/Shutterstock)" /><br>
+      2026-03-28 <a href="https://www.bing.com/th?id=OHR.PeggysLighthouse_ZH-CN5730463973_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
