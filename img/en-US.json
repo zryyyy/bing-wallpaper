@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260227",
-    "url": "https://www.bing.com/th?id=OHR.ArcitcCub_EN-US2529097123_UHD.jpg",
-    "copyright": "Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska (© Steven Kazlowski/naturepl.com)"
-  },
-  {
     "date": "20260228",
     "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_EN-US2862358887_UHD.jpg",
     "copyright": "Olo'upena Falls, island of Moloka'i, Hawaii (© Andrew Aylett/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260328",
     "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_EN-US6304011521_UHD.jpg",
     "copyright": "African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)"
+  },
+  {
+    "date": "20260329",
+    "url": "https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-US6365734559_UHD.jpg",
+    "copyright": "Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)"
   }
 ]

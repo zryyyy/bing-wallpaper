@@ -132,7 +132,10 @@
       <img src="https://www.bing.com/th?id=OHR.CapeBuffalo_ROW0708366233_UHD.jpg" alt="African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)" /><br>
       2026-03-28 <a href="https://www.bing.com/th?id=OHR.CapeBuffalo_ROW0708366233_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.PeggysLighthouse_ROW0925207018_UHD.jpg" alt="Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)" /><br>
+      2026-03-29 <a href="https://www.bing.com/th?id=OHR.PeggysLighthouse_ROW0925207018_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
