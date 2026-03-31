@@ -136,6 +136,9 @@
       <img src="https://www.bing.com/th?id=OHR.IndiaCranes_ZH-CN5871338482_UHD.jpg" alt="蓑羽鹤, 印度 (© Axel Gomille/Nature Picture Library)" /><br>
       2026-03-29 <a href="https://www.bing.com/th?id=OHR.IndiaCranes_ZH-CN5871338482_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg" alt="天堂洞, 峰牙-格邦国家公园, 越南 (© Pakawat Thongcharoen/Getty Images)" /><br>
+      2026-03-30 <a href="https://www.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

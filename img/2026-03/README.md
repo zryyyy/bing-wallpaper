@@ -136,6 +136,9 @@
       <img src="https://www.bing.com/th?id=OHR.PeggysLighthouse_ROW0925207018_UHD.jpg" alt="Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)" /><br>
       2026-03-29 <a href="https://www.bing.com/th?id=OHR.PeggysLighthouse_ROW0925207018_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.IndiaCranes_ROW7826149929_UHD.jpg" alt="Demoiselle cranes, India (© Axel Gomille/Nature Picture Library)" /><br>
+      2026-03-30 <a href="https://www.bing.com/th?id=OHR.IndiaCranes_ROW7826149929_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
