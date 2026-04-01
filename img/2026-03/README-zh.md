@@ -141,4 +141,12 @@
       2026-03-30 <a href="https://www.bing.com/th?id=OHR.ParadiseCave_ZH-CN6371627729_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg" alt="粉色牵牛花里的日本树蛙 (© Tetsuya Tanooka/Getty Images)" /><br>
+      2026-03-31 <a href="https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
