@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260302",
-    "url": "https://www.bing.com/th?id=OHR.SamuiThailand_EN-US3008233136_UHD.jpg",
-    "copyright": "Harbor and longtail boats at Ko Samui, Thailand (© Foto2rich/Shutterstock)"
-  },
-  {
     "date": "20260303",
     "url": "https://www.bing.com/th?id=OHR.BabyElephant_EN-US3103670102_UHD.jpg",
     "copyright": "African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)"
@@ -148,5 +143,10 @@
     "date": "20260331",
     "url": "https://www.bing.com/th?id=OHR.ParadiseCave_EN-US6470755729_UHD.jpg",
     "copyright": "Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam (© Pakawat Thongcharoen/Getty Images)"
+  },
+  {
+    "date": "20260401",
+    "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_EN-US6527297660_UHD.jpg",
+    "copyright": "Japanese tree frog in a pink morning glory (© Tetsuya Tanooka/Getty Images)"
   }
 ]
