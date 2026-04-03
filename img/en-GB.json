@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260303",
-    "url": "https://www.bing.com/th?id=OHR.BabyElephant_EN-GB6477641376_UHD.jpg",
-    "copyright": "African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)"
-  },
-  {
     "date": "20260304",
     "url": "https://www.bing.com/th?id=OHR.RilaCrocuses_EN-GB6687558312_UHD.jpg",
     "copyright": "Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260401",
     "url": "https://www.bing.com/th?id=OHR.WildflowerValley_EN-GB6670488836_UHD.jpg",
     "copyright": "Wildflower bloom, Central Valley, California, United States (© Jeff Lewis/Tandem Stills + Motion)"
+  },
+  {
+    "date": "20260402",
+    "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_EN-GB4782396202_UHD.jpg",
+    "copyright": "Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)"
   }
 ]
