@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260304",
-    "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_ZH-CN3731931947_UHD.jpg",
-    "copyright": "格雷梅的傍晚, 卡帕多西亚, 土耳其 (© ONNAJA/Getty Images)"
-  },
-  {
     "date": "20260305",
     "url": "https://www.bing.com/th?id=OHR.WaveDenmark_ZH-CN8825888678_UHD.jpg",
     "copyright": "波浪住宅楼, 瓦埃勒, 丹麦 (© Frank Bach/Alamy)"
@@ -148,5 +143,10 @@
     "date": "20260402",
     "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_UHD.jpg",
     "copyright": "阿姆布鲁大桥，阿姆斯特丹，荷兰 (© Alexander Spatari/Getty Images)"
+  },
+  {
+    "date": "20260403",
+    "url": "https://www.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_UHD.jpg",
+    "copyright": "求偶展示场上对峙的雄性黑琴鸡，爱沙尼亚 (© Sven Zacek/Nature Picture Library)"
   }
 ]

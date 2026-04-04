@@ -10,6 +10,9 @@
       <img src="https://www.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_UHD.jpg" alt="阿姆布鲁大桥，阿姆斯特丹，荷兰 (© Alexander Spatari/Getty Images)" /><br>
       2026-04-02 <a href="https://www.bing.com/th?id=OHR.ArmbrugBridge_ZH-CN4600005169_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_UHD.jpg" alt="求偶展示场上对峙的雄性黑琴鸡，爱沙尼亚 (© Sven Zacek/Nature Picture Library)" /><br>
+      2026-04-03 <a href="https://www.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

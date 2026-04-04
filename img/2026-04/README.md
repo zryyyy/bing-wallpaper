@@ -10,6 +10,9 @@
       <img src="https://www.bing.com/th?id=OHR.WildflowerValley_ROW2763453477_UHD.jpg" alt="Wildflower bloom, Central Valley, California, United States (© Jeff Lewis/Tandem Stills + Motion)" /><br>
       2026-04-02 <a href="https://www.bing.com/th?id=OHR.WildflowerValley_ROW2763453477_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ArmbrugBridge_ROW0384861076_UHD.jpg" alt="Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)" /><br>
+      2026-04-03 <a href="https://www.bing.com/th?id=OHR.ArmbrugBridge_ROW0384861076_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

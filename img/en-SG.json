@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260304",
-    "url": "https://www.bing.com/th?id=OHR.RilaCrocuses_ROW4635215657_UHD.jpg",
-    "copyright": "Purple crocus flowers, Seven Rila Lakes, Bulgaria (© Maya Karkalicheva/Getty Images)"
-  },
-  {
     "date": "20260305",
     "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_ROW5000170185_UHD.jpg",
     "copyright": "Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260402",
     "url": "https://www.bing.com/th?id=OHR.WildflowerValley_ROW2763453477_UHD.jpg",
     "copyright": "Wildflower bloom, Central Valley, California, United States (© Jeff Lewis/Tandem Stills + Motion)"
+  },
+  {
+    "date": "20260403",
+    "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_ROW0384861076_UHD.jpg",
+    "copyright": "Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)"
   }
 ]
