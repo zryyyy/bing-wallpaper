@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260305",
-    "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_EN-GB6866115691_UHD.jpg",
-    "copyright": "Evening over Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images)"
-  },
-  {
     "date": "20260306",
     "url": "https://www.bing.com/th?id=OHR.WaveDenmark_EN-GB5644835999_UHD.jpg",
     "copyright": "The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)"
@@ -148,5 +143,10 @@
     "date": "20260403",
     "url": "https://www.bing.com/th?id=OHR.NPFortnight2026_EN-GB6135344631_UHD.jpg",
     "copyright": "Dolbadarn Castle, Llanberis, Snowdonia National Park, Wales (© Allan Hartley/Alamy)"
+  },
+  {
+    "date": "20260404",
+    "url": "https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-GB6303335759_UHD.jpg",
+    "copyright": "Colourful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)"
   }
 ]

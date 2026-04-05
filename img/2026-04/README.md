@@ -15,4 +15,12 @@
       2026-04-03 <a href="https://www.bing.com/th?id=OHR.ArmbrugBridge_ROW0384861076_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.GrouseGuff_ROW0536575976_UHD.jpg" alt="Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)" /><br>
+      2026-04-04 <a href="https://www.bing.com/th?id=OHR.GrouseGuff_ROW0536575976_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

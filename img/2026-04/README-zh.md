@@ -15,4 +15,12 @@
       2026-04-03 <a href="https://www.bing.com/th?id=OHR.GrouseGuff_ZH-CN2647001885_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SpringSnowdrops_ZH-CN2933051747_UHD.jpg" alt="春天的雪钟花 (© klagyivik/Getty Images)" /><br>
+      2026-04-04 <a href="https://www.bing.com/th?id=OHR.SpringSnowdrops_ZH-CN2933051747_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

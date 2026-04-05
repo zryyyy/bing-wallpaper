@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260305",
-    "url": "https://www.bing.com/th?id=OHR.GoremeTwilight_ROW5000170185_UHD.jpg",
-    "copyright": "Göreme, Cappadocia, Türkiye (© ONNAJA/Getty Images)"
-  },
-  {
     "date": "20260306",
     "url": "https://www.bing.com/th?id=OHR.WaveDenmark_ROW5073761456_UHD.jpg",
     "copyright": "The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)"
@@ -148,5 +143,10 @@
     "date": "20260403",
     "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_ROW0384861076_UHD.jpg",
     "copyright": "Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)"
+  },
+  {
+    "date": "20260404",
+    "url": "https://www.bing.com/th?id=OHR.GrouseGuff_ROW0536575976_UHD.jpg",
+    "copyright": "Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)"
   }
 ]
