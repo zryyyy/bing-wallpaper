@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260306",
-    "url": "https://www.bing.com/th?id=OHR.WaveDenmark_EN-GB5644835999_UHD.jpg",
-    "copyright": "The Wave residential building, Vejle, Denmark (© Frank Bach/Alamy)"
-  },
-  {
     "date": "20260307",
     "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_EN-GB9355519414_UHD.jpg",
     "copyright": "The Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)"
@@ -116,8 +111,8 @@
   },
   {
     "date": "20260329",
-    "url": "https://www.bing.com/th?id=OHR.BSTStarts2026_EN-GB5752947353_UHD.jpg",
-    "copyright": "Liberty Clock, London, England (© Dukas/Universal Images Group/Getty Images)"
+    "url": "https://www.bing.com/th?id=OHR.IndiaCranes_EN-GB3610624769_UHD.jpg",
+    "copyright": "Demoiselle cranes, India (© Axel Gomille/Nature Picture Library)"
   },
   {
     "date": "20260330",
@@ -148,5 +143,10 @@
     "date": "20260404",
     "url": "https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-GB6303335759_UHD.jpg",
     "copyright": "Colourful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)"
+  },
+  {
+    "date": "20260405",
+    "url": "https://www.bing.com/th?id=OHR.CastleBlossoms_EN-GB6482644898_UHD.jpg",
+    "copyright": "Hirosaki Castle with cherry blossoms, Hirosaki, Japan (© Glenn Waters/Getty Images)"
   }
 ]

@@ -20,7 +20,10 @@
       <img src="https://www.bing.com/th?id=OHR.GrouseGuff_ROW0536575976_UHD.jpg" alt="Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)" /><br>
       2026-04-04 <a href="https://www.bing.com/th?id=OHR.GrouseGuff_ROW0536575976_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.LacGentau_ROW3338740451_UHD.jpg" alt="Lake Gentau in the French Pyrenees, Pyrénées-Atlantiques, France (© MICHAUX Stéphane/Hemis.fr/Alamy)" /><br>
+      2026-04-05 <a href="https://www.bing.com/th?id=OHR.LacGentau_ROW3338740451_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

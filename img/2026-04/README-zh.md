@@ -20,7 +20,10 @@
       <img src="https://www.bing.com/th?id=OHR.SpringSnowdrops_ZH-CN2933051747_UHD.jpg" alt="春天的雪钟花 (© klagyivik/Getty Images)" /><br>
       2026-04-04 <a href="https://www.bing.com/th?id=OHR.SpringSnowdrops_ZH-CN2933051747_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.CastleBlossoms_ZH-CN3064288127_UHD.jpg" alt="樱花盛开的弘前城，弘前，日本 (© Glenn Waters/Getty Images)" /><br>
+      2026-04-05 <a href="https://www.bing.com/th?id=OHR.CastleBlossoms_ZH-CN3064288127_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
