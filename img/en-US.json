@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260307",
-    "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_EN-US8849518575_UHD.jpg",
-    "copyright": "Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)"
-  },
-  {
     "date": "20260308",
     "url": "https://www.bing.com/th?id=OHR.UlmClock_EN-US6692804943_UHD.jpg",
     "copyright": "Astronomical clock at Town Hall of the City of Ulm, Germany (© Tomekbudujedomek/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260405",
     "url": "https://www.bing.com/th?id=OHR.LithuaniaEggs_EN-US5074250791_UHD.jpg",
     "copyright": "Colorful handmade wooden Easter eggs, Vilnius, Lithuania (© maximkabb/Getty Images)"
+  },
+  {
+    "date": "20260406",
+    "url": "https://www.bing.com/th?id=OHR.CastleBlossoms_EN-US6202844131_UHD.jpg",
+    "copyright": "Hirosaki Castle with cherry blossoms, Hirosaki, Japan (© Glenn Waters/Getty Images)"
   }
 ]

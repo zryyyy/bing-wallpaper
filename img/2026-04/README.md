@@ -24,6 +24,9 @@
       <img src="https://www.bing.com/th?id=OHR.LacGentau_ROW3338740451_UHD.jpg" alt="Lake Gentau in the French Pyrenees, Pyrénées-Atlantiques, France (© MICHAUX Stéphane/Hemis.fr/Alamy)" /><br>
       2026-04-05 <a href="https://www.bing.com/th?id=OHR.LacGentau_ROW3338740451_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.CastleBlossoms_ROW0945099429_UHD.jpg" alt="Hirosaki Castle with cherry blossoms, Hirosaki, Japan (© Glenn Waters/Getty Images)" /><br>
+      2026-04-06 <a href="https://www.bing.com/th?id=OHR.CastleBlossoms_ROW0945099429_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
