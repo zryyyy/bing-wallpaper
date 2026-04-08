@@ -29,4 +29,12 @@
       2026-04-06 <a href="https://www.bing.com/th?id=OHR.CastleBlossoms_ROW0945099429_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BeaverPortrait_ROW1082400008_UHD.jpg" alt="Beaver, Germany (© Andyworks/Getty Images)" /><br>
+      2026-04-07 <a href="https://www.bing.com/th?id=OHR.BeaverPortrait_ROW1082400008_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

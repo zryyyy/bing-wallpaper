@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260308",
-    "url": "https://www.bing.com/th?id=OHR.BrockenSunrise_ROW5181265545_UHD.jpg",
-    "copyright": "Sunrise on the Brocken, Harz National Park, Germany (© imageBROKER/AVTG/Getty Images)"
-  },
-  {
     "date": "20260309",
     "url": "https://www.bing.com/th?id=OHR.NappingSeal_ROW2198134616_UHD.jpg",
     "copyright": "Grey seal sleeping on the beach, Orkney Islands, Scotland (© Andrew Mason/Minden Pictures)"
@@ -148,5 +143,10 @@
     "date": "20260406",
     "url": "https://www.bing.com/th?id=OHR.CastleBlossoms_ROW0945099429_UHD.jpg",
     "copyright": "Hirosaki Castle with cherry blossoms, Hirosaki, Japan (© Glenn Waters/Getty Images)"
+  },
+  {
+    "date": "20260407",
+    "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_ROW1082400008_UHD.jpg",
+    "copyright": "Beaver, Germany (© Andyworks/Getty Images)"
   }
 ]

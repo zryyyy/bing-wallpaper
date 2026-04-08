@@ -29,4 +29,12 @@
       2026-04-06 <a href="https://www.bing.com/th?id=OHR.BeaverPortrait_ZH-CN4700069789_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SeattleSunrise_ZH-CN2884575647_UHD.jpg" alt="西雅图，华盛顿州，美国 (© Jim Patterson/Tandem Stills + Motion)" /><br>
+      2026-04-07 <a href="https://www.bing.com/th?id=OHR.SeattleSunrise_ZH-CN2884575647_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
