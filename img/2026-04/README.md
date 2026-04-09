@@ -34,7 +34,10 @@
       <img src="https://www.bing.com/th?id=OHR.BeaverPortrait_ROW1082400008_UHD.jpg" alt="Beaver, Germany (© Andyworks/Getty Images)" /><br>
       2026-04-07 <a href="https://www.bing.com/th?id=OHR.BeaverPortrait_ROW1082400008_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SeattleSunrise_ROW1229095485_UHD.jpg" alt="Seattle, Washington, United States (© Jim Patterson/Tandem Stills + Motion)" /><br>
+      2026-04-08 <a href="https://www.bing.com/th?id=OHR.SeattleSunrise_ROW1229095485_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
