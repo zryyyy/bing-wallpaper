@@ -38,6 +38,9 @@
       <img src="https://www.bing.com/th?id=OHR.SeattleSunrise_ROW1229095485_UHD.jpg" alt="Seattle, Washington, United States (© Jim Patterson/Tandem Stills + Motion)" /><br>
       2026-04-08 <a href="https://www.bing.com/th?id=OHR.SeattleSunrise_ROW1229095485_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.WalesWaterfall_ROW4607856907_UHD.jpg" alt="Sgwd yr Eira waterfall, Bannau Brycheiniog National Park, Wales (© Guy Edwardes/Nature Picture Library)" /><br>
+      2026-04-09 <a href="https://www.bing.com/th?id=OHR.WalesWaterfall_ROW4607856907_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
