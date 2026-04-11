@@ -43,4 +43,12 @@
       2026-04-09 <a href="https://www.bing.com/th?id=OHR.WalesWaterfall_ROW4607856907_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.FoxSiblings_ROW1554598734_UHD.jpg" alt="Two young red foxes at Karula National Park, Estonia (© Sven Zacek/Nature Picture Library)" /><br>
+      2026-04-10 <a href="https://www.bing.com/th?id=OHR.FoxSiblings_ROW1554598734_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
