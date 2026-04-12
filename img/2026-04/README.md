@@ -48,7 +48,10 @@
       <img src="https://www.bing.com/th?id=OHR.FoxSiblings_ROW1554598734_UHD.jpg" alt="Two young red foxes at Karula National Park, Estonia (© Sven Zacek/Nature Picture Library)" /><br>
       2026-04-10 <a href="https://www.bing.com/th?id=OHR.FoxSiblings_ROW1554598734_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.PlayaPapagayo_ROW1699824695_UHD.jpg" alt="Papagayo Beach, Lanzarote, Canary Islands, Spain (© Gavin Hellier/Getty Images)" /><br>
+      2026-04-11 <a href="https://www.bing.com/th?id=OHR.PlayaPapagayo_ROW1699824695_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

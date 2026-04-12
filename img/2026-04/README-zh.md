@@ -48,7 +48,10 @@
       <img src="https://www.bing.com/th?id=OHR.PlayaPapagayo_ZH-CN7708804019_UHD.jpg" alt="帕帕加约海滩, 兰萨罗特, 加那利群岛, 西班牙 (© Gavin Hellier/Getty Images)" /><br>
       2026-04-10 <a href="https://www.bing.com/th?id=OHR.PlayaPapagayo_ZH-CN7708804019_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_UHD.jpg" alt="城市灯光在下方划过, 拍摄于国际空间站 (© NASA)" /><br>
+      2026-04-11 <a href="https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
