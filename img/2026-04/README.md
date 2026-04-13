@@ -52,6 +52,9 @@
       <img src="https://www.bing.com/th?id=OHR.PlayaPapagayo_ROW1699824695_UHD.jpg" alt="Papagayo Beach, Lanzarote, Canary Islands, Spain (© Gavin Hellier/Getty Images)" /><br>
       2026-04-11 <a href="https://www.bing.com/th?id=OHR.PlayaPapagayo_ROW1699824695_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SpaceTrails_ROW1837084616_UHD.jpg" alt="City lights streak below, taken from the International Space Station (© NASA)" /><br>
+      2026-04-12 <a href="https://www.bing.com/th?id=OHR.SpaceTrails_ROW1837084616_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

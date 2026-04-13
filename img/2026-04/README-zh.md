@@ -52,6 +52,9 @@
       <img src="https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_UHD.jpg" alt="城市灯光在下方划过, 拍摄于国际空间站 (© NASA)" /><br>
       2026-04-11 <a href="https://www.bing.com/th?id=OHR.SpaceTrails_ZH-CN8377463217_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BorregoStars_ZH-CN8915519147_UHD.jpg" alt="安扎-博雷戈沙漠州立公园上空的银河, 加利福尼亚州, 美国 (© Kevin Key/Slworking)/Getty Images)" /><br>
+      2026-04-12 <a href="https://www.bing.com/th?id=OHR.BorregoStars_ZH-CN8915519147_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260313",
-    "url": "https://www.bing.com/th?id=OHR.VendeeVaults_EN-GB7453353937_UHD.jpg",
-    "copyright": "Vaults of the Church of Notre Dame de Bon-Port, Les Sables-d'Olonne, France (© Helmut Meyer zur Capellen/Alamy)"
-  },
-  {
     "date": "20260314",
     "url": "https://www.bing.com/th?id=OHR.CornwallDolmen_EN-GB7624290325_UHD.jpg",
     "copyright": "Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)"
@@ -148,5 +143,10 @@
     "date": "20260411",
     "url": "https://www.bing.com/th?id=OHR.SpaceTrails_EN-GB7928814675_UHD.jpg",
     "copyright": "City lights streak below, taken from the International Space Station (© NASA)"
+  },
+  {
+    "date": "20260412",
+    "url": "https://www.bing.com/th?id=OHR.BorregoStars_EN-GB8139506405_UHD.jpg",
+    "copyright": "Milky Way over Anza-Borrego Desert State Park, California, United States (© Kevin Key/Slworking)/Getty Images)"
   }
 ]
