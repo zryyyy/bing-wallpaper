@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260314",
-    "url": "https://www.bing.com/th?id=OHR.CornwallDolmen_ROW3459140266_UHD.jpg",
-    "copyright": "Lanyon Quoit, a Neolithic dolmen in Cornwall, England (© Helen Hotson/Alamy)"
-  },
-  {
     "date": "20260315",
     "url": "https://www.bing.com/th?id=OHR.PacificRimNP_ROW9181043528_UHD.jpg",
     "copyright": "Pacific Rim National Park Reserve, Vancouver Island, Canada (© EmilyNorton/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260412",
     "url": "https://www.bing.com/th?id=OHR.SpaceTrails_ROW1837084616_UHD.jpg",
     "copyright": "City lights streak below, taken from the International Space Station (© NASA)"
+  },
+  {
+    "date": "20260413",
+    "url": "https://www.bing.com/th?id=OHR.BorregoStars_ROW1985712263_UHD.jpg",
+    "copyright": "Milky Way over Anza-Borrego Desert State Park, California, United States (© Kevin Key/Slworking)/Getty Images)"
   }
 ]

@@ -57,4 +57,12 @@
       2026-04-12 <a href="https://www.bing.com/th?id=OHR.BorregoStars_ZH-CN8915519147_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.OcellarisClownfish_ZH-CN9362948727_UHD.jpg" alt="海葵中的普通小丑鱼, 拉贾安帕特群岛, 印度尼西亚 (© Magnus Lundgren/Nature Picture Library)" /><br>
+      2026-04-13 <a href="https://www.bing.com/th?id=OHR.OcellarisClownfish_ZH-CN9362948727_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

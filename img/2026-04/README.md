@@ -57,4 +57,12 @@
       2026-04-12 <a href="https://www.bing.com/th?id=OHR.SpaceTrails_ROW1837084616_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BorregoStars_ROW1985712263_UHD.jpg" alt="Milky Way over Anza-Borrego Desert State Park, California, United States (© Kevin Key/Slworking)/Getty Images)" /><br>
+      2026-04-13 <a href="https://www.bing.com/th?id=OHR.BorregoStars_ROW1985712263_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
