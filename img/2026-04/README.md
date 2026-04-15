@@ -62,7 +62,10 @@
       <img src="https://www.bing.com/th?id=OHR.BorregoStars_ROW1985712263_UHD.jpg" alt="Milky Way over Anza-Borrego Desert State Park, California, United States (© Kevin Key/Slworking)/Getty Images)" /><br>
       2026-04-13 <a href="https://www.bing.com/th?id=OHR.BorregoStars_ROW1985712263_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.OcellarisClownfish_ROW2121702907_UHD.jpg" alt="Common clownfish in a sea anemone, Raja Ampat Islands, Indonesia (© Magnus Lundgren/Nature Picture Library)" /><br>
+      2026-04-14 <a href="https://www.bing.com/th?id=OHR.OcellarisClownfish_ROW2121702907_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

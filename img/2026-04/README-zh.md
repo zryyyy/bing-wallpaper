@@ -62,7 +62,10 @@
       <img src="https://www.bing.com/th?id=OHR.OcellarisClownfish_ZH-CN9362948727_UHD.jpg" alt="海葵中的普通小丑鱼, 拉贾安帕特群岛, 印度尼西亚 (© Magnus Lundgren/Nature Picture Library)" /><br>
       2026-04-13 <a href="https://www.bing.com/th?id=OHR.OcellarisClownfish_ZH-CN9362948727_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.VanGoghFields_ZH-CN3495668941_UHD.jpg" alt="光之采石场的文森特·梵高展览, 莱博德普罗旺斯, 法国 (© Patrick Aventurier/Getty Images)" /><br>
+      2026-04-14 <a href="https://www.bing.com/th?id=OHR.VanGoghFields_ZH-CN3495668941_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
