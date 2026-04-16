@@ -66,6 +66,9 @@
       <img src="https://www.bing.com/th?id=OHR.OcellarisClownfish_ROW2121702907_UHD.jpg" alt="Common clownfish in a sea anemone, Raja Ampat Islands, Indonesia (© Magnus Lundgren/Nature Picture Library)" /><br>
       2026-04-14 <a href="https://www.bing.com/th?id=OHR.OcellarisClownfish_ROW2121702907_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AlbertaSnowMts_ROW3394188074_UHD.jpg" alt="Pine trees reflected in the Forgetmenot Pond in Kananaskis Country, Alberta, Canada (© chinaface/Getty images)" /><br>
+      2026-04-15 <a href="https://www.bing.com/th?id=OHR.AlbertaSnowMts_ROW3394188074_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
