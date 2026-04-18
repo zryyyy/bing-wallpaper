@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260318",
-    "url": "https://www.bing.com/th?id=OHR.EchidnaAustralia_JA-JP8184314558_UHD.jpg",
-    "copyright": "ハリモグラ, オーストラリア (© Etienne Littlefair/naturepl.com)"
-  },
-  {
     "date": "20260319",
     "url": "https://www.bing.com/th?id=OHR.SpringSnowdrops_JA-JP8554533353_UHD.jpg",
     "copyright": "スノードロップ花 (© klagyivik/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260416",
     "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_JA-JP9261315523_UHD.jpg",
     "copyright": "ハイイロオオコウモリ, オーストラリア (© Doug Gimesy/Nature Picture Library)"
+  },
+  {
+    "date": "20260417",
+    "url": "https://www.bing.com/th?id=OHR.MaoiStatues_JA-JP0155278246_UHD.jpg",
+    "copyright": "モアイ像, チリ (© Gavin Hellier/Alamy)"
   }
 ]

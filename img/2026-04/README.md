@@ -76,7 +76,10 @@
       <img src="https://www.bing.com/th?id=OHR.SkagitTulips_ROW2420005352_UHD.jpg" alt="Skagit Valley Tulip Fields, Washington, United States (© Alan Majchrowicz/Getty Images)" /><br>
       2026-04-16 <a href="https://www.bing.com/th?id=OHR.SkagitTulips_ROW2420005352_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.FlyingFoxMom_ROW6773514789_UHD.jpg" alt="Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)" /><br>
+      2026-04-17 <a href="https://www.bing.com/th?id=OHR.FlyingFoxMom_ROW6773514789_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

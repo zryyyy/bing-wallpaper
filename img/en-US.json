@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260318",
-    "url": "https://www.bing.com/th?id=OHR.PortlandBlossoms_EN-US7604107803_UHD.jpg",
-    "copyright": "Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon (© Eric Vogt/Tandem Stills + Motion)"
-  },
-  {
     "date": "20260319",
     "url": "https://www.bing.com/th?id=OHR.EchidnaAustralia_EN-US7660451296_UHD.jpg",
     "copyright": "Short-beaked echidna, Adelaide Hills, Australia (© Etienne Littlefair/naturepl.com)"
@@ -148,5 +143,10 @@
     "date": "20260416",
     "url": "https://www.bing.com/th?id=OHR.SkagitTulips_EN-US8944602365_UHD.jpg",
     "copyright": "Skagit Valley Tulip Fields, Washington (© Alan Majchrowicz/Getty Images)"
+  },
+  {
+    "date": "20260417",
+    "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_EN-US0502464388_UHD.jpg",
+    "copyright": "Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)"
   }
 ]

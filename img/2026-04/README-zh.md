@@ -76,7 +76,10 @@
       <img src="https://www.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_UHD.jpg" alt="灰头狐蝠母亲携幼崽，雅拉湾国家公园，澳大利亚 (© Doug Gimesy/Nature Picture Library)" /><br>
       2026-04-16 <a href="https://www.bing.com/th?id=OHR.FlyingFoxMom_ZH-CN2913012516_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MaoiStatues_ZH-CN3219447748_UHD.jpg" alt="摩艾石像采石场，拉诺拉拉库，复活节岛，智利 (© Gavin Hellier/Alamy)" /><br>
+      2026-04-17 <a href="https://www.bing.com/th?id=OHR.MaoiStatues_ZH-CN3219447748_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
