@@ -80,6 +80,9 @@
       <img src="https://www.bing.com/th?id=OHR.FlyingFoxMom_ROW6773514789_UHD.jpg" alt="Grey-headed flying fox carrying her pup, Yarra Bend Park, Australia (© Doug Gimesy/Nature Picture Library)" /><br>
       2026-04-17 <a href="https://www.bing.com/th?id=OHR.FlyingFoxMom_ROW6773514789_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ToscanaSpring_ROW0859656735_UHD.jpg" alt="Rolling hills of Tuscany, Italy (© Andyworks/Getty Images)" /><br>
+      2026-04-18 <a href="https://www.bing.com/th?id=OHR.ToscanaSpring_ROW0859656735_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

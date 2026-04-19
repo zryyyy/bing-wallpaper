@@ -80,6 +80,9 @@
       <img src="https://www.bing.com/th?id=OHR.MaoiStatues_ZH-CN3219447748_UHD.jpg" alt="摩艾石像采石场，拉诺拉拉库，复活节岛，智利 (© Gavin Hellier/Alamy)" /><br>
       2026-04-17 <a href="https://www.bing.com/th?id=OHR.MaoiStatues_ZH-CN3219447748_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.TranBA_ZH-CN3467060262_UHD.jpg" alt="镜面海滩，塞古罗港，巴伊亚州，巴西 (© Marcelo Nacinovic/Getty Images)" /><br>
+      2026-04-18 <a href="https://www.bing.com/th?id=OHR.TranBA_ZH-CN3467060262_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
