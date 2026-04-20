@@ -85,4 +85,12 @@
       2026-04-18 <a href="https://www.bing.com/th?id=OHR.TranBA_ZH-CN3467060262_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SunsetKiva_ZH-CN3978606378_UHD.jpg" alt="夕阳下的峡谷地国家公园，莫阿布，犹他州，美国 (© Jason Hatfield/Tandem Stills + Motion)" /><br>
+      2026-04-19 <a href="https://www.bing.com/th?id=OHR.SunsetKiva_ZH-CN3978606378_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

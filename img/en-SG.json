@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260320",
-    "url": "https://www.bing.com/th?id=OHR.SpringSnowdrops_ROW7920205293_UHD.jpg",
-    "copyright": "Snowdrops in spring (© klagyivik/Getty Images)"
-  },
-  {
     "date": "20260321",
     "url": "https://www.bing.com/th?id=OHR.LeteaForest_ROW4397618654_UHD.jpg",
     "copyright": "Letea Forest, Danube Delta, Romania (© Wild Wonders of Europe/Widstrand/Nature Picture Library)"
@@ -148,5 +143,10 @@
     "date": "20260418",
     "url": "https://www.bing.com/th?id=OHR.ToscanaSpring_ROW0859656735_UHD.jpg",
     "copyright": "Rolling hills of Tuscany, Italy (© Andyworks/Getty Images)"
+  },
+  {
+    "date": "20260419",
+    "url": "https://www.bing.com/th?id=OHR.TranBA_ROW7860007942_UHD.jpg",
+    "copyright": "Mirror Beach, Porto Seguro, Bahia, Brazil (© Marcelo Nacinovic/Getty Images)"
   }
 ]

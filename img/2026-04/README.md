@@ -85,4 +85,12 @@
       2026-04-18 <a href="https://www.bing.com/th?id=OHR.ToscanaSpring_ROW0859656735_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.TranBA_ROW7860007942_UHD.jpg" alt="Mirror Beach, Porto Seguro, Bahia, Brazil (© Marcelo Nacinovic/Getty Images)" /><br>
+      2026-04-19 <a href="https://www.bing.com/th?id=OHR.TranBA_ROW7860007942_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
