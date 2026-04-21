@@ -90,7 +90,10 @@
       <img src="https://www.bing.com/th?id=OHR.TranBA_ROW7860007942_UHD.jpg" alt="Mirror Beach, Porto Seguro, Bahia, Brazil (© Marcelo Nacinovic/Getty Images)" /><br>
       2026-04-19 <a href="https://www.bing.com/th?id=OHR.TranBA_ROW7860007942_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SunsetKiva_ROW8130256678_UHD.jpg" alt="Sunset in Canyonlands National Park, Moab, Utah, United States (© Jason Hatfield/Tandem Stills + Motion)" /><br>
+      2026-04-20 <a href="https://www.bing.com/th?id=OHR.SunsetKiva_ROW8130256678_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

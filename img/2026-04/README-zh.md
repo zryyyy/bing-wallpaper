@@ -90,7 +90,10 @@
       <img src="https://www.bing.com/th?id=OHR.SunsetKiva_ZH-CN3978606378_UHD.jpg" alt="夕阳下的峡谷地国家公园，莫阿布，犹他州，美国 (© Jason Hatfield/Tandem Stills + Motion)" /><br>
       2026-04-19 <a href="https://www.bing.com/th?id=OHR.SunsetKiva_ZH-CN3978606378_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SpringHedgehog_ZH-CN5232922916_UHD.jpg" alt="西欧刺猬，法国 (© Klein & Hubert/Nature Picture Library)" /><br>
+      2026-04-20 <a href="https://www.bing.com/th?id=OHR.SpringHedgehog_ZH-CN5232922916_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
