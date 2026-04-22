@@ -94,6 +94,9 @@
       <img src="https://www.bing.com/th?id=OHR.SunsetKiva_ROW8130256678_UHD.jpg" alt="Sunset in Canyonlands National Park, Moab, Utah, United States (© Jason Hatfield/Tandem Stills + Motion)" /><br>
       2026-04-20 <a href="https://www.bing.com/th?id=OHR.SunsetKiva_ROW8130256678_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SpringHedgehog_ROW8347906365_UHD.jpg" alt="European hedgehog, France (© Klein & Hubert/Nature Picture Library)" /><br>
+      2026-04-21 <a href="https://www.bing.com/th?id=OHR.SpringHedgehog_ROW8347906365_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

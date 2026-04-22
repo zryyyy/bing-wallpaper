@@ -94,6 +94,9 @@
       <img src="https://www.bing.com/th?id=OHR.SpringHedgehog_ZH-CN5232922916_UHD.jpg" alt="西欧刺猬，法国 (© Klein & Hubert/Nature Picture Library)" /><br>
       2026-04-20 <a href="https://www.bing.com/th?id=OHR.SpringHedgehog_ZH-CN5232922916_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.TartuEstonia_ZH-CN5477370206_UHD.jpg" alt="阿拉姆-佩德亚自然保护区，塔尔图县，爱沙尼亚 (© Sven Zacek/Nature Picture Library)" /><br>
+      2026-04-21 <a href="https://www.bing.com/th?id=OHR.TartuEstonia_ZH-CN5477370206_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

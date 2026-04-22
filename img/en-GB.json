@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260322",
-    "url": "https://www.bing.com/th?id=OHR.TanganyikaWater_EN-GB4227251929_UHD.jpg",
-    "copyright": "Lake Tanganyika, Africa (© BEST-BACKGROUNDS/NASA/Shutterstock)"
-  },
-  {
     "date": "20260323",
     "url": "https://www.bing.com/th?id=OHR.SonoranStorm_EN-GB4374217480_UHD.jpg",
     "copyright": "Lightning storm over saguaro cacti, Sonoran Desert, Arizona, United States (© Jack Dykinga/Nature Picture Library)"
@@ -148,5 +143,10 @@
     "date": "20260420",
     "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_EN-GB3383384255_UHD.jpg",
     "copyright": "European hedgehog, France (© Klein \u0026 Hubert/Nature Picture Library)"
+  },
+  {
+    "date": "20260421",
+    "url": "https://www.bing.com/th?id=OHR.TartuEstonia_EN-GB3828067814_UHD.jpg",
+    "copyright": "Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)"
   }
 ]
