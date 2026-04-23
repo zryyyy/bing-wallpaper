@@ -99,4 +99,12 @@
       2026-04-21 <a href="https://www.bing.com/th?id=OHR.TartuEstonia_ZH-CN5477370206_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_UHD.jpg" alt="安妮·海瑟薇的小屋与花园，埃文河畔斯特拉特，英格兰 (© David Steele/Shutterstock)" /><br>
+      2026-04-22 <a href="https://www.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

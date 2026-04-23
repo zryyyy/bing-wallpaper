@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260323",
-    "url": "https://www.bing.com/th?id=OHR.SonoranStorm_EN-GB4374217480_UHD.jpg",
-    "copyright": "Lightning storm over saguaro cacti, Sonoran Desert, Arizona, United States (© Jack Dykinga/Nature Picture Library)"
-  },
-  {
     "date": "20260324",
     "url": "https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-GB4535197537_UHD.jpg",
     "copyright": "Cherry blossoms at East Lake Cherry Blossom Park, Wuhan, China (© Zhang Qiao/VCG/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260421",
     "url": "https://www.bing.com/th?id=OHR.TartuEstonia_EN-GB3828067814_UHD.jpg",
     "copyright": "Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)"
+  },
+  {
+    "date": "20260422",
+    "url": "https://www.bing.com/th?id=OHR.StGeorgeDay2026_EN-GB4338835487_UHD.jpg",
+    "copyright": "Windsor Castle, Berkshire, England (© Mistervlad/Shutterstock)"
   }
 ]

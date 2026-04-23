@@ -99,4 +99,12 @@
       2026-04-21 <a href="https://www.bing.com/th?id=OHR.SpringHedgehog_ROW8347906365_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.TartuEstonia_ROW8518008837_UHD.jpg" alt="Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)" /><br>
+      2026-04-22 <a href="https://www.bing.com/th?id=OHR.TartuEstonia_ROW8518008837_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
