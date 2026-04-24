@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260324",
-    "url": "https://www.bing.com/th?id=OHR.WuhanCherryBlossom_EN-GB4535197537_UHD.jpg",
-    "copyright": "Cherry blossoms at East Lake Cherry Blossom Park, Wuhan, China (© Zhang Qiao/VCG/Getty Images)"
-  },
-  {
     "date": "20260325",
     "url": "https://www.bing.com/th?id=OHR.ManateeSpring_EN-GB4677992725_UHD.jpg",
     "copyright": "Juvenile manatees in a freshwater spring, Crystal River, Florida, United States (© Gregory Sweeney/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260422",
     "url": "https://www.bing.com/th?id=OHR.StGeorgeDay2026_EN-GB4338835487_UHD.jpg",
     "copyright": "Windsor Castle, Berkshire, England (© Mistervlad/Shutterstock)"
+  },
+  {
+    "date": "20260423",
+    "url": "https://www.bing.com/th?id=OHR.SlashPine_EN-GB4733846763_UHD.jpg",
+    "copyright": "Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida, United States (© Mary Liz Austin/Alamy)"
   }
 ]

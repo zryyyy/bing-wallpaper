@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260324",
-    "url": "https://www.bing.com/th?id=OHR.KoenigsseeFog_ROW4902303534_UHD.jpg",
-    "copyright": "Königssee Lake, Bavaria, Germany (© EyeEm Mobile GmbH/Getty Images)"
-  },
-  {
     "date": "20260325",
     "url": "https://www.bing.com/th?id=OHR.ManateeSpring_ROW7760366755_UHD.jpg",
     "copyright": "Juvenile manatees in a freshwater spring, Crystal River, Florida, United States (© Gregory Sweeney/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260422",
     "url": "https://www.bing.com/th?id=OHR.TartuEstonia_ROW8518008837_UHD.jpg",
     "copyright": "Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)"
+  },
+  {
+    "date": "20260423",
+    "url": "https://www.bing.com/th?id=OHR.ChiffchaffSpring_ROW0928406195_UHD.jpg",
+    "copyright": "Common chiffchaff, Germany (© Andyworks/Getty Images)"
   }
 ]
