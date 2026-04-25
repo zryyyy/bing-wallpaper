@@ -108,6 +108,9 @@
       <img src="https://www.bing.com/th?id=OHR.SlashPine_ZH-CN5629388290_UHD.jpg" alt="湿地松和锯棕榈组成的森林吊床, 大沼泽地国家公园, 佛罗里达, 美国 (© Mary Liz Austin/Alamy)" /><br>
       2026-04-23 <a href="https://www.bing.com/th?id=OHR.SlashPine_ZH-CN5629388290_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.GalapagosPenguins_ZH-CN5791845489_UHD.jpg" alt="加拉帕戈斯企鹅游泳, 加拉帕戈斯群岛, 厄瓜多尔 (© Henley Spiers/Nature Picture Library)" /><br>
+      2026-04-24 <a href="https://www.bing.com/th?id=OHR.GalapagosPenguins_ZH-CN5791845489_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260325",
-    "url": "https://www.bing.com/th?id=OHR.ManateeSpring_EN-GB4677992725_UHD.jpg",
-    "copyright": "Juvenile manatees in a freshwater spring, Crystal River, Florida, United States (© Gregory Sweeney/Getty Images)"
-  },
-  {
     "date": "20260326",
     "url": "https://www.bing.com/th?id=OHR.LoganCreek_EN-GB4805516529_UHD.jpg",
     "copyright": "Logan Creek Suspension Bridge, West Coast Trail, Canada (© Tandem Stock/Adobe Stock)"
@@ -148,5 +143,10 @@
     "date": "20260423",
     "url": "https://www.bing.com/th?id=OHR.SlashPine_EN-GB4733846763_UHD.jpg",
     "copyright": "Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida, United States (© Mary Liz Austin/Alamy)"
+  },
+  {
+    "date": "20260424",
+    "url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_EN-GB4960104210_UHD.jpg",
+    "copyright": "Galápagos penguins swimming, Galápagos Islands, Ecuador (© Henley Spiers/Nature Picture Library)"
   }
 ]

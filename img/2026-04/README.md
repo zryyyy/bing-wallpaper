@@ -108,6 +108,9 @@
       <img src="https://www.bing.com/th?id=OHR.ChiffchaffSpring_ROW0928406195_UHD.jpg" alt="Common chiffchaff, Germany (© Andyworks/Getty Images)" /><br>
       2026-04-23 <a href="https://www.bing.com/th?id=OHR.ChiffchaffSpring_ROW0928406195_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SlashPine_ROW9169451135_UHD.jpg" alt="Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida, United States (© Mary Liz Austin/Alamy)" /><br>
+      2026-04-24 <a href="https://www.bing.com/th?id=OHR.SlashPine_ROW9169451135_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
