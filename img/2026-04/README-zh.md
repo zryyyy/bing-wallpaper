@@ -113,4 +113,12 @@
       2026-04-24 <a href="https://www.bing.com/th?id=OHR.GalapagosPenguins_ZH-CN5791845489_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AppleBlossoms_ZH-CN5887711928_UHD.jpg" alt="粉红色的苹果花, 阿维拉海滩, 加利福尼亚州, 美国 (© Mimi Ditchie Photography/Getty Images)" /><br>
+      2026-04-25 <a href="https://www.bing.com/th?id=OHR.AppleBlossoms_ZH-CN5887711928_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

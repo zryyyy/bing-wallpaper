@@ -113,4 +113,12 @@
       2026-04-24 <a href="https://www.bing.com/th?id=OHR.SlashPine_ROW9169451135_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.GalapagosPenguins_ROW9365376155_UHD.jpg" alt="Galápagos penguins swimming, Galápagos Islands, Ecuador (© Henley Spiers/Nature Picture Library)" /><br>
+      2026-04-25 <a href="https://www.bing.com/th?id=OHR.GalapagosPenguins_ROW9365376155_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
