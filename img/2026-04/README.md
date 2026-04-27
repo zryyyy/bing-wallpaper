@@ -118,7 +118,10 @@
       <img src="https://www.bing.com/th?id=OHR.GalapagosPenguins_ROW9365376155_UHD.jpg" alt="Galápagos penguins swimming, Galápagos Islands, Ecuador (© Henley Spiers/Nature Picture Library)" /><br>
       2026-04-25 <a href="https://www.bing.com/th?id=OHR.GalapagosPenguins_ROW9365376155_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AppleBlossoms_ROW9623403964_UHD.jpg" alt="Pink apple blossoms, Avila Beach, California, United States (© Mimi Ditchie Photography/Getty Images)" /><br>
+      2026-04-26 <a href="https://www.bing.com/th?id=OHR.AppleBlossoms_ROW9623403964_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
