@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260328",
-    "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_EN-GB5085555398_UHD.jpg",
-    "copyright": "African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)"
-  },
-  {
     "date": "20260329",
     "url": "https://www.bing.com/th?id=OHR.IndiaCranes_EN-GB3610624769_UHD.jpg",
     "copyright": "Demoiselle cranes, India (© Axel Gomille/Nature Picture Library)"
@@ -148,5 +143,10 @@
     "date": "20260426",
     "url": "https://www.bing.com/th?id=OHR.MilanGalleria_EN-GB6160485704_UHD.jpg",
     "copyright": "The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images)"
+  },
+  {
+    "date": "20260427",
+    "url": "https://www.bing.com/th?id=OHR.AndeanBear_EN-GB6464683386_UHD.jpg",
+    "copyright": "Spectacled bear resting in tree, Ecuador (© Andy Rouse/Nature Picture Library)"
   }
 ]

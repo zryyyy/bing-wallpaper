@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260328",
-    "url": "https://www.bing.com/th?id=OHR.CapeBuffalo_ROW0708366233_UHD.jpg",
-    "copyright": "African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)"
-  },
-  {
     "date": "20260329",
     "url": "https://www.bing.com/th?id=OHR.PeggysLighthouse_ROW0925207018_UHD.jpg",
     "copyright": "Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)"
@@ -148,5 +143,10 @@
     "date": "20260426",
     "url": "https://www.bing.com/th?id=OHR.AppleBlossoms_ROW9623403964_UHD.jpg",
     "copyright": "Pink apple blossoms, Avila Beach, California, United States (© Mimi Ditchie Photography/Getty Images)"
+  },
+  {
+    "date": "20260427",
+    "url": "https://www.bing.com/th?id=OHR.MilanGalleria_ROW9826130780_UHD.jpg",
+    "copyright": "The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images)"
   }
 ]

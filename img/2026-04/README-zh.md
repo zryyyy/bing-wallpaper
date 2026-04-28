@@ -122,6 +122,9 @@
       <img src="https://www.bing.com/th?id=OHR.MilanGalleria_ZH-CN6060869879_UHD.jpg" alt="维托里奥·埃马努埃莱二世拱廊的玻璃穹顶, 米兰, 意大利 (© PhillipMinnis/Getty Images)" /><br>
       2026-04-26 <a href="https://www.bing.com/th?id=OHR.MilanGalleria_ZH-CN6060869879_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AndeanBear_ZH-CN6152330738_UHD.jpg" alt="眼镜熊在树上休息, 厄瓜多尔 (© Andy Rouse/Nature Picture Library)" /><br>
+      2026-04-27 <a href="https://www.bing.com/th?id=OHR.AndeanBear_ZH-CN6152330738_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

@@ -122,6 +122,9 @@
       <img src="https://www.bing.com/th?id=OHR.AppleBlossoms_ROW9623403964_UHD.jpg" alt="Pink apple blossoms, Avila Beach, California, United States (© Mimi Ditchie Photography/Getty Images)" /><br>
       2026-04-26 <a href="https://www.bing.com/th?id=OHR.AppleBlossoms_ROW9623403964_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MilanGalleria_ROW9826130780_UHD.jpg" alt="The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images)" /><br>
+      2026-04-27 <a href="https://www.bing.com/th?id=OHR.MilanGalleria_ROW9826130780_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
