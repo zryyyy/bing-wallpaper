@@ -127,4 +127,12 @@
       2026-04-27 <a href="https://www.bing.com/th?id=OHR.MilanGalleria_ROW9826130780_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AndeanBear_ROW0128606931_UHD.jpg" alt="Spectacled bear resting in tree, Ecuador (© Andy Rouse/Nature Picture Library)" /><br>
+      2026-04-28 <a href="https://www.bing.com/th?id=OHR.AndeanBear_ROW0128606931_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

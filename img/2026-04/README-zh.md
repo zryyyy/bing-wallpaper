@@ -127,4 +127,12 @@
       2026-04-27 <a href="https://www.bing.com/th?id=OHR.AndeanBear_ZH-CN6152330738_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_UHD.jpg" alt="塔霍河岸边的贝伦塔, 里斯本, 葡萄牙 (© f9photos/Getty Images)" /><br>
+      2026-04-28 <a href="https://www.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
