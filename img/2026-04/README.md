@@ -132,7 +132,10 @@
       <img src="https://www.bing.com/th?id=OHR.AndeanBear_ROW0128606931_UHD.jpg" alt="Spectacled bear resting in tree, Ecuador (© Andy Rouse/Nature Picture Library)" /><br>
       2026-04-28 <a href="https://www.bing.com/th?id=OHR.AndeanBear_ROW0128606931_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BelemTowerBank_ROW0291299958_UHD.jpg" alt="Belém Tower on the bank of the Tagus River, Lisbon, Portugal (© f9photos/Getty Images)" /><br>
+      2026-04-29 <a href="https://www.bing.com/th?id=OHR.BelemTowerBank_ROW0291299958_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

@@ -132,7 +132,10 @@
       <img src="https://www.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_UHD.jpg" alt="塔霍河岸边的贝伦塔, 里斯本, 葡萄牙 (© f9photos/Getty Images)" /><br>
       2026-04-28 <a href="https://www.bing.com/th?id=OHR.BelemTowerBank_ZH-CN6235906597_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_UHD.jpg" alt="葡萄风信子和郁金香, 库肯霍夫花园, 利塞, 荷兰 (© Martin Ruegner/Getty Images)" /><br>
+      2026-04-29 <a href="https://www.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
