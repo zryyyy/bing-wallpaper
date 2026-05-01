@@ -136,6 +136,9 @@
       <img src="https://www.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_UHD.jpg" alt="葡萄风信子和郁金香, 库肯霍夫花园, 利塞, 荷兰 (© Martin Ruegner/Getty Images)" /><br>
       2026-04-29 <a href="https://www.bing.com/th?id=OHR.DutchTulips_ZH-CN6394892537_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_UHD.jpg" alt="中国的长城 (© aphotostory/Getty Images)" /><br>
+      2026-04-30 <a href="https://www.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
