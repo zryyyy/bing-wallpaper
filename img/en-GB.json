@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260401",
-    "url": "https://www.bing.com/th?id=OHR.WildflowerValley_EN-GB6670488836_UHD.jpg",
-    "copyright": "Wildflower bloom, Central Valley, California, United States (© Jeff Lewis/Tandem Stills + Motion)"
-  },
-  {
     "date": "20260402",
     "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_EN-GB4782396202_UHD.jpg",
     "copyright": "Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260430",
     "url": "https://www.bing.com/th?id=OHR.BrightonFestival2026_EN-GB4224499383_UHD.jpg",
     "copyright": "A merry-go-round in Brighton, England (© Alisia Luther/Shutterstock)"
+  },
+  {
+    "date": "20260501",
+    "url": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-GB4656440500_UHD.jpg",
+    "copyright": "Tŵr Mawr Lighthouse, Ynys Llanddwyn, Anglesey, Wales (© Lukas Bischoff/Getty Images)"
   }
 ]
