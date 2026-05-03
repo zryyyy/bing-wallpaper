@@ -6,7 +6,10 @@
       <img src="https://www.bing.com/th?id=OHR.GreenJasper_ZH-CN3030401138_UHD.jpg" alt="阿尔伯塔省贾斯珀国家公园中的小型湖泊与湿地，加拿大 (© Don White/Getty Images)" /><br>
       2026-05-01 <a href="https://www.bing.com/th?id=OHR.GreenJasper_ZH-CN3030401138_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MasaiLeopard_ZH-CN3406483238_UHD.jpg" alt="萨瓦纳草原的树上睡觉的豹子，马赛马拉国家保护区，肯尼亚 (© Klein & Hubert/Nature Picture Library)" /><br>
+      2026-05-02 <a href="https://www.bing.com/th?id=OHR.MasaiLeopard_ZH-CN3406483238_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
