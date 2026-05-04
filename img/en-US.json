@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260403",
-    "url": "https://www.bing.com/th?id=OHR.ArmbrugBridge_EN-US3302230248_UHD.jpg",
-    "copyright": "Armbrug bridge, Amsterdam, Netherlands (© Alexander Spatari/Getty Images)"
-  },
-  {
     "date": "20260404",
     "url": "https://www.bing.com/th?id=OHR.GrouseGuff_EN-US4212457538_UHD.jpg",
     "copyright": "Black grouse males facing off on a lekking site, Estonia (© Sven Zacek/Nature Picture Library)"
@@ -148,5 +143,10 @@
     "date": "20260502",
     "url": "https://www.bing.com/th?id=OHR.GreenJasper_EN-US0253969334_UHD.jpg",
     "copyright": "Small lake and marsh in Jasper National Park in Alberta, Canada (© Don White/Getty Images)"
+  },
+  {
+    "date": "20260503",
+    "url": "https://www.bing.com/th?id=OHR.MasaiLeopard_EN-US0388943780_UHD.jpg",
+    "copyright": "Leopard sleeping in a tree in savanna, Masai Mara National Reserve, Kenya (© Klein \u0026 Hubert/Nature Picture Library)"
   }
 ]
