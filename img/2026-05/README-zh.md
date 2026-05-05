@@ -15,4 +15,12 @@
       2026-05-03 <a href="https://www.bing.com/th?id=OHR.KsarOuledSoltane_ZH-CN3569810663_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617_UHD.jpg" alt="莲花与莲花植株 (© real444/Getty Images)" /><br>
+      2026-05-04 <a href="https://www.bing.com/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

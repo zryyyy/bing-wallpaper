@@ -15,4 +15,12 @@
       2026-05-03 <a href="https://www.bing.com/th?id=OHR.MasaiLeopard_ROW2641665263_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.KsarOuledSoltane_ROW9968378030_UHD.jpg" alt="Ksar Ouled Soltane, Tataouine district in southern Tunisia (© Dark_Eni/Getty Images Plus)" /><br>
+      2026-05-04 <a href="https://www.bing.com/th?id=OHR.KsarOuledSoltane_ROW9968378030_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
