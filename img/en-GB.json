@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260405",
-    "url": "https://www.bing.com/th?id=OHR.CastleBlossoms_EN-GB6482644898_UHD.jpg",
-    "copyright": "Hirosaki Castle with cherry blossoms, Hirosaki, Japan (© Glenn Waters/Getty Images)"
-  },
-  {
     "date": "20260406",
     "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_EN-GB6712196855_UHD.jpg",
     "copyright": "Beaver, Germany (© Andyworks/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260504",
     "url": "https://www.bing.com/th?id=OHR.MayoAgave_EN-GB6749688899_UHD.jpg",
     "copyright": "Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy)"
+  },
+  {
+    "date": "20260505",
+    "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_EN-GB7011360187_UHD.jpg",
+    "copyright": "Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)"
   }
 ]

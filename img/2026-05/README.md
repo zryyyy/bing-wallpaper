@@ -20,7 +20,10 @@
       <img src="https://www.bing.com/th?id=OHR.KsarOuledSoltane_ROW9968378030_UHD.jpg" alt="Ksar Ouled Soltane, Tataouine district in southern Tunisia (© Dark_Eni/Getty Images Plus)" /><br>
       2026-05-04 <a href="https://www.bing.com/th?id=OHR.KsarOuledSoltane_ROW9968378030_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MayoAgave_ROW0279228757_UHD.jpg" alt="Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy)" /><br>
+      2026-05-05 <a href="https://www.bing.com/th?id=OHR.MayoAgave_ROW0279228757_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

@@ -20,7 +20,10 @@
       <img src="https://www.bing.com/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617_UHD.jpg" alt="莲花与莲花植株 (© real444/Getty Images)" /><br>
       2026-05-04 <a href="https://www.bing.com/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_UHD.jpg" alt="平原上空的雷暴，保加利亚 (© Revolu7ion93/Getty Images)" /><br>
+      2026-05-05 <a href="https://www.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
