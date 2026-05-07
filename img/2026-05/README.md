@@ -24,6 +24,9 @@
       <img src="https://www.bing.com/th?id=OHR.MayoAgave_ROW0279228757_UHD.jpg" alt="Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy)" /><br>
       2026-05-05 <a href="https://www.bing.com/th?id=OHR.MayoAgave_ROW0279228757_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BulgariaPlains_ROW5132279610_UHD.jpg" alt="Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)" /><br>
+      2026-05-06 <a href="https://www.bing.com/th?id=OHR.BulgariaPlains_ROW5132279610_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

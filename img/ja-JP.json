@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260406",
-    "url": "https://www.bing.com/th?id=OHR.BeaverPortrait_JA-JP3724788571_UHD.jpg",
-    "copyright": "ビーバー, ドイツ (© Andyworks/Getty Images)"
-  },
-  {
     "date": "20260407",
     "url": "https://www.bing.com/th?id=OHR.SeattleSunrise_JA-JP6952248899_UHD.jpg",
     "copyright": "シアトル市のウォーターフロント, 米国 ワシントン州 (© Jim Patterson/Tandem Stills + Motion)"
@@ -148,5 +143,10 @@
     "date": "20260505",
     "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_JA-JP4515566359_UHD.jpg",
     "copyright": "平原に現れた巨大積乱雲, ブルガリア (© Revolu7ion93/Getty Images)"
+  },
+  {
+    "date": "20260506",
+    "url": "https://www.bing.com/th?id=OHR.Kofa_JA-JP4672929305_UHD.jpg",
+    "copyright": "コファ国立野生生物保護区, 米国 アリゾナ州 (© Denis Tangney Jr/Getty Images)"
   }
 ]

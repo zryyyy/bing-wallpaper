@@ -24,6 +24,9 @@
       <img src="https://www.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_UHD.jpg" alt="平原上空的雷暴，保加利亚 (© Revolu7ion93/Getty Images)" /><br>
       2026-05-05 <a href="https://www.bing.com/th?id=OHR.BulgariaPlains_ZH-CN3853985252_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Kofa_ZH-CN0584573563_UHD.jpg" alt="科法国家野生动物保护区，亚利桑那州，美国 (© Denis Tangney Jr/Getty Images)" /><br>
+      2026-05-06 <a href="https://www.bing.com/th?id=OHR.Kofa_ZH-CN0584573563_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
