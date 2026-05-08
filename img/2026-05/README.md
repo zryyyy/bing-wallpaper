@@ -29,4 +29,12 @@
       2026-05-06 <a href="https://www.bing.com/th?id=OHR.BulgariaPlains_ROW5132279610_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Kofa_ROW0914409827_UHD.jpg" alt="Kofa National Wildlife Refuge, Arizona, United States (© Denis Tangney Jr/Getty Images)" /><br>
+      2026-05-07 <a href="https://www.bing.com/th?id=OHR.Kofa_ROW0914409827_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
