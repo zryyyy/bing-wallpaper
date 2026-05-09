@@ -34,7 +34,10 @@
       <img src="https://www.bing.com/th?id=OHR.Kofa_ROW0914409827_UHD.jpg" alt="Kofa National Wildlife Refuge, Arizona, United States (© Denis Tangney Jr/Getty Images)" /><br>
       2026-05-07 <a href="https://www.bing.com/th?id=OHR.Kofa_ROW0914409827_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SardinianDonkey_ROW1501196122_UHD.jpg" alt="Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library)" /><br>
+      2026-05-08 <a href="https://www.bing.com/th?id=OHR.SardinianDonkey_ROW1501196122_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

@@ -34,7 +34,10 @@
       <img src="https://www.bing.com/th?id=OHR.SardinianDonkey_ZH-CN0758031524_UHD.jpg" alt="撒丁岛母驴和幼崽, 法国 (© Klein & Hubert/Nature Picture Library)" /><br>
       2026-05-07 <a href="https://www.bing.com/th?id=OHR.SardinianDonkey_ZH-CN0758031524_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SkradinskiBuk_ZH-CN0882603359_UHD.jpg" alt="克尔卡国家公园的斯克拉丁斯基布克瀑布, 克罗地亚 (© Amazing Aerial Agency/Adobe Stock)" /><br>
+      2026-05-08 <a href="https://www.bing.com/th?id=OHR.SkradinskiBuk_ZH-CN0882603359_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
