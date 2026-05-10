@@ -38,6 +38,9 @@
       <img src="https://www.bing.com/th?id=OHR.SardinianDonkey_ROW1501196122_UHD.jpg" alt="Sardinian donkey mare and foal, France (© Klein & Hubert/Nature Picture Library)" /><br>
       2026-05-08 <a href="https://www.bing.com/th?id=OHR.SardinianDonkey_ROW1501196122_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SkradinskiBuk_ROW1678535800_UHD.jpg" alt="Skradinski Buk Waterfall in Krka National Park, Croatia (© Amazing Aerial Agency/Adobe Stock)" /><br>
+      2026-05-09 <a href="https://www.bing.com/th?id=OHR.SkradinskiBuk_ROW1678535800_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
