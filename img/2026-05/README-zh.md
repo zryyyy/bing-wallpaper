@@ -43,4 +43,12 @@
       2026-05-09 <a href="https://www.bing.com/th?id=OHR.MotherCub_ZH-CN0999123163_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_UHD.jpg" alt="从上方俯瞰大堡礁, 昆士兰州, 澳大利亚 (© Francesco Riccardo Iacomino/Getty Images)" /><br>
+      2026-05-10 <a href="https://www.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

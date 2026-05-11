@@ -43,4 +43,12 @@
       2026-05-09 <a href="https://www.bing.com/th?id=OHR.SkradinskiBuk_ROW1678535800_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MotherCub_ROW1931444463_UHD.jpg" alt="Polar bear mother and cubs playing in Wapusk National Park, Manitoba, Canada (© Hao Jiang/Getty Images)" /><br>
+      2026-05-10 <a href="https://www.bing.com/th?id=OHR.MotherCub_ROW1931444463_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
