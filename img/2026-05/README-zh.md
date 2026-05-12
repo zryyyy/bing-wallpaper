@@ -48,7 +48,10 @@
       <img src="https://www.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_UHD.jpg" alt="从上方俯瞰大堡礁, 昆士兰州, 澳大利亚 (© Francesco Riccardo Iacomino/Getty Images)" /><br>
       2026-05-10 <a href="https://www.bing.com/th?id=OHR.QueenslandReef_ZH-CN1138150002_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Fratercula_ZH-CN1239275412_UHD.jpg" alt="北极海鹦, 威尔士 (© FLPA/Alamy)" /><br>
+      2026-05-11 <a href="https://www.bing.com/th?id=OHR.Fratercula_ZH-CN1239275412_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

@@ -48,7 +48,10 @@
       <img src="https://www.bing.com/th?id=OHR.MotherCub_ROW1931444463_UHD.jpg" alt="Polar bear mother and cubs playing in Wapusk National Park, Manitoba, Canada (© Hao Jiang/Getty Images)" /><br>
       2026-05-10 <a href="https://www.bing.com/th?id=OHR.MotherCub_ROW1931444463_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.QueenslandReef_ROW2249526975_UHD.jpg" alt="Great Barrier Reef from above, Queensland, Australia (© Francesco Riccardo Iacomino/Getty Images)" /><br>
+      2026-05-11 <a href="https://www.bing.com/th?id=OHR.QueenslandReef_ROW2249526975_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
