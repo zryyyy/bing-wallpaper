@@ -52,6 +52,9 @@
       <img src="https://www.bing.com/th?id=OHR.QueenslandReef_ROW2249526975_UHD.jpg" alt="Great Barrier Reef from above, Queensland, Australia (© Francesco Riccardo Iacomino/Getty Images)" /><br>
       2026-05-11 <a href="https://www.bing.com/th?id=OHR.QueenslandReef_ROW2249526975_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Fratercula_ROW2531275403_UHD.jpg" alt="Atlantic puffins, Wales (© FLPA/Alamy)" /><br>
+      2026-05-12 <a href="https://www.bing.com/th?id=OHR.Fratercula_ROW2531275403_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

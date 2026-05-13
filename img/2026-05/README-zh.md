@@ -52,6 +52,9 @@
       <img src="https://www.bing.com/th?id=OHR.Fratercula_ZH-CN1239275412_UHD.jpg" alt="北极海鹦, 威尔士 (© FLPA/Alamy)" /><br>
       2026-05-11 <a href="https://www.bing.com/th?id=OHR.Fratercula_ZH-CN1239275412_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AlabamaHills_ZH-CN1387018045_UHD.jpg" alt="拱门与银河, 阿拉巴马山, 内华达山脉, 加利福尼亚州, 美国 (© Tim Fitzharris/Minden Pictures)" /><br>
+      2026-05-12 <a href="https://www.bing.com/th?id=OHR.AlabamaHills_ZH-CN1387018045_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
