@@ -57,4 +57,12 @@
       2026-05-12 <a href="https://www.bing.com/th?id=OHR.Fratercula_ROW2531275403_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AlabamaHills_ROW6449052938_UHD.jpg" alt="Arch and Milky Way, Alabama Hills, Sierra Nevada, California, United States (© Tim Fitzharris/Minden Pictures)" /><br>
+      2026-05-13 <a href="https://www.bing.com/th?id=OHR.AlabamaHills_ROW6449052938_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
