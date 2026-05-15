@@ -62,7 +62,10 @@
       <img src="https://www.bing.com/th?id=OHR.AlabamaHills_ROW6449052938_UHD.jpg" alt="Arch and Milky Way, Alabama Hills, Sierra Nevada, California, United States (© Tim Fitzharris/Minden Pictures)" /><br>
       2026-05-13 <a href="https://www.bing.com/th?id=OHR.AlabamaHills_ROW6449052938_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Pitigliano_ROW4097720054_UHD.jpg" alt="Medieval town of Pitigliano, Tuscany, Italy (© bluejayphoto/Getty Images Plus)" /><br>
+      2026-05-14 <a href="https://www.bing.com/th?id=OHR.Pitigliano_ROW4097720054_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

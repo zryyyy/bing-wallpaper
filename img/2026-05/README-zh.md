@@ -62,7 +62,10 @@
       <img src="https://www.bing.com/th?id=OHR.Pitigliano_ZH-CN1509921892_UHD.jpg" alt="中世纪古镇皮蒂利亚诺, 托斯卡纳, 意大利 (© bluejayphoto/Getty Images Plus)" /><br>
       2026-05-13 <a href="https://www.bing.com/th?id=OHR.Pitigliano_ZH-CN1509921892_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_UHD.jpg" alt="一群抹香鲸, 印度洋 (© Tony Wu/Nature Picture Library)" /><br>
+      2026-05-14 <a href="https://www.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
