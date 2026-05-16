@@ -66,6 +66,9 @@
       <img src="https://www.bing.com/th?id=OHR.Pitigliano_ROW4097720054_UHD.jpg" alt="Medieval town of Pitigliano, Tuscany, Italy (© bluejayphoto/Getty Images Plus)" /><br>
       2026-05-14 <a href="https://www.bing.com/th?id=OHR.Pitigliano_ROW4097720054_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.EndangeredWhales_ROW6081633589_UHD.jpg" alt="A family of sperm whales, Indian Ocean (© Tony Wu/Nature Picture Library)" /><br>
+      2026-05-15 <a href="https://www.bing.com/th?id=OHR.EndangeredWhales_ROW6081633589_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

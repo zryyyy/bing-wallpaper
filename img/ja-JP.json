@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260415",
-    "url": "https://www.bing.com/th?id=OHR.SkagitTulips_JA-JP9152402510_UHD.jpg",
-    "copyright": "スカジットバレー, 米国 ワシントン州 (© Alan Majchrowicz/Getty Images)"
-  },
-  {
     "date": "20260416",
     "url": "https://www.bing.com/th?id=OHR.FlyingFoxMom_JA-JP9261315523_UHD.jpg",
     "copyright": "ハイイロオオコウモリ, オーストラリア (© Doug Gimesy/Nature Picture Library)"
@@ -148,5 +143,10 @@
     "date": "20260514",
     "url": "https://www.bing.com/th?id=OHR.EndangeredWhales_JA-JP6796432237_UHD.jpg",
     "copyright": "マッコウクジラ, インド洋 (© Tony Wu/Nature Picture Library)"
+  },
+  {
+    "date": "20260515",
+    "url": "https://www.bing.com/th?id=OHR.SmithRockPark_JA-JP7493165844_UHD.jpg",
+    "copyright": "スミスロック州立公園, 米国 オレゴン州 (© Alex Ratson/Getty Images)"
   }
 ]

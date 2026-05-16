@@ -66,6 +66,9 @@
       <img src="https://www.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_UHD.jpg" alt="一群抹香鲸, 印度洋 (© Tony Wu/Nature Picture Library)" /><br>
       2026-05-14 <a href="https://www.bing.com/th?id=OHR.EndangeredWhales_ZH-CN4053106967_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SmithRockPark_ZH-CN4210144402_UHD.jpg" alt="史密斯岩州立公园, 俄勒冈州, 美国 (© Alex Ratson/Getty Images)" /><br>
+      2026-05-15 <a href="https://www.bing.com/th?id=OHR.SmithRockPark_ZH-CN4210144402_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
