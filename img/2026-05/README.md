@@ -71,4 +71,12 @@
       2026-05-15 <a href="https://www.bing.com/th?id=OHR.EndangeredWhales_ROW6081633589_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SmithRockPark_ROW6845039893_UHD.jpg" alt="Smith Rock State Park, Oregon, United States (© Alex Ratson/Getty Images)" /><br>
+      2026-05-16 <a href="https://www.bing.com/th?id=OHR.SmithRockPark_ROW6845039893_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
