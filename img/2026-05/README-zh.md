@@ -76,7 +76,10 @@
       <img src="https://www.bing.com/th?id=OHR.ShenandoahSunset_ZH-CN4399136794_UHD.jpg" alt="仙纳度国家公园的玳瑁峰, 弗吉尼亚州, 美国 (© John Baggaley/Getty Images)" /><br>
       2026-05-16 <a href="https://www.bing.com/th?id=OHR.ShenandoahSunset_ZH-CN4399136794_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MuseumLondon_ZH-CN5602977820_UHD.jpg" alt="伦敦自然历史博物馆, 英格兰 (© Colm Keating/Tandem Stills + Motion)" /><br>
+      2026-05-17 <a href="https://www.bing.com/th?id=OHR.MuseumLondon_ZH-CN5602977820_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

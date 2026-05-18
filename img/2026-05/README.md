@@ -76,7 +76,10 @@
       <img src="https://www.bing.com/th?id=OHR.SmithRockPark_ROW6845039893_UHD.jpg" alt="Smith Rock State Park, Oregon, United States (© Alex Ratson/Getty Images)" /><br>
       2026-05-16 <a href="https://www.bing.com/th?id=OHR.SmithRockPark_ROW6845039893_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ShenandoahSunset_ROW7042145908_UHD.jpg" alt="Hawksbill Mountain in Shenandoah National Park, Virginia, United States (© John Baggaley/Getty Images)" /><br>
+      2026-05-17 <a href="https://www.bing.com/th?id=OHR.ShenandoahSunset_ROW7042145908_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
