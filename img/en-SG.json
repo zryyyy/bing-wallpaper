@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260418",
-    "url": "https://www.bing.com/th?id=OHR.ToscanaSpring_ROW0859656735_UHD.jpg",
-    "copyright": "Rolling hills of Tuscany, Italy (© Andyworks/Getty Images)"
-  },
-  {
     "date": "20260419",
     "url": "https://www.bing.com/th?id=OHR.TranBA_ROW7860007942_UHD.jpg",
     "copyright": "Mirror Beach, Porto Seguro, Bahia, Brazil (© Marcelo Nacinovic/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260517",
     "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_ROW7042145908_UHD.jpg",
     "copyright": "Hawksbill Mountain in Shenandoah National Park, Virginia, United States (© John Baggaley/Getty Images)"
+  },
+  {
+    "date": "20260518",
+    "url": "https://www.bing.com/th?id=OHR.NPFortnight2026_ROW9483729156_UHD.jpg",
+    "copyright": "Dolbadarn Castle, Llanberis, Wales (© Allan Hartley/Alamy)"
   }
 ]

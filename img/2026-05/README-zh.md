@@ -80,6 +80,9 @@
       <img src="https://www.bing.com/th?id=OHR.MuseumLondon_ZH-CN5602977820_UHD.jpg" alt="伦敦自然历史博物馆, 英格兰 (© Colm Keating/Tandem Stills + Motion)" /><br>
       2026-05-17 <a href="https://www.bing.com/th?id=OHR.MuseumLondon_ZH-CN5602977820_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SpainLighthouse_ZH-CN6024263415_UHD.jpg" alt="福门托尔灯塔, 马略卡, 巴利阿里群岛, 西班牙 (© Allard Schager/Getty Images)" /><br>
+      2026-05-18 <a href="https://www.bing.com/th?id=OHR.SpainLighthouse_ZH-CN6024263415_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

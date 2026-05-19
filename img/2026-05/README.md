@@ -80,6 +80,9 @@
       <img src="https://www.bing.com/th?id=OHR.ShenandoahSunset_ROW7042145908_UHD.jpg" alt="Hawksbill Mountain in Shenandoah National Park, Virginia, United States (© John Baggaley/Getty Images)" /><br>
       2026-05-17 <a href="https://www.bing.com/th?id=OHR.ShenandoahSunset_ROW7042145908_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.NPFortnight2026_ROW9483729156_UHD.jpg" alt="Dolbadarn Castle, Llanberis, Wales (© Allan Hartley/Alamy)" /><br>
+      2026-05-18 <a href="https://www.bing.com/th?id=OHR.NPFortnight2026_ROW9483729156_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
