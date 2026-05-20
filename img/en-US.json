@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260419",
-    "url": "https://www.bing.com/th?id=OHR.LibraryWeek_EN-US0888768835_UHD.jpg",
-    "copyright": "Books in the children's section of The New York Public Library, New York (© Ken Welsh/Alamy)"
-  },
-  {
     "date": "20260420",
     "url": "https://www.bing.com/th?id=OHR.SunsetKiva_EN-US1031978429_UHD.jpg",
     "copyright": "Sunset in Canyonlands National Park, Moab, Utah (© Jason Hatfield/Tandem Stills + Motion)"
@@ -148,5 +143,10 @@
     "date": "20260518",
     "url": "https://www.bing.com/th?id=OHR.MuseumLondon_EN-US0527592013_UHD.jpg",
     "copyright": "Natural History Museum, London, England (© Colm Keating/Tandem Stills + Motion)"
+  },
+  {
+    "date": "20260519",
+    "url": "https://www.bing.com/th?id=OHR.SpainLighthouse_EN-US0598364035_UHD.jpg",
+    "copyright": "Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images)"
   }
 ]

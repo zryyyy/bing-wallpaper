@@ -85,4 +85,12 @@
       2026-05-18 <a href="https://www.bing.com/th?id=OHR.NPFortnight2026_ROW9483729156_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SpainLighthouse_ROW0931685772_UHD.jpg" alt="Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images)" /><br>
+      2026-05-19 <a href="https://www.bing.com/th?id=OHR.SpainLighthouse_ROW0931685772_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

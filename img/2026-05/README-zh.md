@@ -85,4 +85,12 @@
       2026-05-18 <a href="https://www.bing.com/th?id=OHR.SpainLighthouse_ZH-CN6024263415_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BumbleBee_ZH-CN6429376340_UHD.jpg" alt="熊蜂在授粉, 伍斯特, 英格兰 (© SimonEastwood87/Shutterstock)" /><br>
+      2026-05-19 <a href="https://www.bing.com/th?id=OHR.BumbleBee_ZH-CN6429376340_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
