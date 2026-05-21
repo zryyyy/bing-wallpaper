@@ -90,7 +90,10 @@
       <img src="https://www.bing.com/th?id=OHR.BumbleBee_ZH-CN6429376340_UHD.jpg" alt="熊蜂在授粉, 伍斯特, 英格兰 (© SimonEastwood87/Shutterstock)" /><br>
       2026-05-19 <a href="https://www.bing.com/th?id=OHR.BumbleBee_ZH-CN6429376340_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SichuanTea_ZH-CN6703437873_UHD.jpg" alt="四川省的茶梯田, 中国 (© lzf/Shutterstock)" /><br>
+      2026-05-20 <a href="https://www.bing.com/th?id=OHR.SichuanTea_ZH-CN6703437873_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

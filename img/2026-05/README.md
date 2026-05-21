@@ -90,7 +90,10 @@
       <img src="https://www.bing.com/th?id=OHR.SpainLighthouse_ROW0931685772_UHD.jpg" alt="Formentor Lighthouse, Mallorca, Balearic Islands, Spain (© Allard Schager/Getty Images)" /><br>
       2026-05-19 <a href="https://www.bing.com/th?id=OHR.SpainLighthouse_ROW0931685772_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BumbleBee_ROW7621208242_UHD.jpg" alt="Bumble bee pollinating, Worcester, England (© SimonEastwood87/Shutterstock)" /><br>
+      2026-05-20 <a href="https://www.bing.com/th?id=OHR.BumbleBee_ROW7621208242_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
