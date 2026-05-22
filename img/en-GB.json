@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260421",
-    "url": "https://www.bing.com/th?id=OHR.TartuEstonia_EN-GB3828067814_UHD.jpg",
-    "copyright": "Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)"
-  },
-  {
     "date": "20260422",
     "url": "https://www.bing.com/th?id=OHR.StGeorgeDay2026_EN-GB4338835487_UHD.jpg",
     "copyright": "Windsor Castle, Berkshire, England (© Mistervlad/Shutterstock)"
@@ -148,5 +143,10 @@
     "date": "20260520",
     "url": "https://www.bing.com/th?id=OHR.SichuanTea_EN-GB3101293106_UHD.jpg",
     "copyright": "Tea terraces in Sichuan Province, China (© lzf/Shutterstock)"
+  },
+  {
+    "date": "20260521",
+    "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_EN-GB5382728672_UHD.jpg",
+    "copyright": "Kauehi Atoll, Tuamotu Archipelago, French Polynesia (© WaterFrame_dpr/Alamy)"
   }
 ]

@@ -94,6 +94,9 @@
       <img src="https://www.bing.com/th?id=OHR.SichuanTea_ZH-CN6703437873_UHD.jpg" alt="四川省的茶梯田, 中国 (© lzf/Shutterstock)" /><br>
       2026-05-20 <a href="https://www.bing.com/th?id=OHR.SichuanTea_ZH-CN6703437873_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.KauehiAtollLagoon_ZH-CN9552036080_UHD.jpg" alt="埃希环礁，土阿莫土群岛，法属波利尼西亚 (© WaterFrame_dpr/Alamy)" /><br>
+      2026-05-21 <a href="https://www.bing.com/th?id=OHR.KauehiAtollLagoon_ZH-CN9552036080_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

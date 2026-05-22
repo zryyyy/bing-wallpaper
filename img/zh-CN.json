@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260421",
-    "url": "https://www.bing.com/th?id=OHR.TartuEstonia_ZH-CN5477370206_UHD.jpg",
-    "copyright": "阿拉姆-佩德亚自然保护区，塔尔图县，爱沙尼亚 (© Sven Zacek/Nature Picture Library)"
-  },
-  {
     "date": "20260422",
     "url": "https://www.bing.com/th?id=OHR.HathawayCottage_ZH-CN5558945636_UHD.jpg",
     "copyright": "安妮·海瑟薇的小屋与花园，埃文河畔斯特拉特，英格兰 (© David Steele/Shutterstock)"
@@ -148,5 +143,10 @@
     "date": "20260520",
     "url": "https://www.bing.com/th?id=OHR.SichuanTea_ZH-CN6703437873_UHD.jpg",
     "copyright": "四川省的茶梯田, 中国 (© lzf/Shutterstock)"
+  },
+  {
+    "date": "20260521",
+    "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_ZH-CN9552036080_UHD.jpg",
+    "copyright": "埃希环礁，土阿莫土群岛，法属波利尼西亚 (© WaterFrame_dpr/Alamy)"
   }
 ]

@@ -94,6 +94,9 @@
       <img src="https://www.bing.com/th?id=OHR.BumbleBee_ROW7621208242_UHD.jpg" alt="Bumble bee pollinating, Worcester, England (© SimonEastwood87/Shutterstock)" /><br>
       2026-05-20 <a href="https://www.bing.com/th?id=OHR.BumbleBee_ROW7621208242_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SichuanTea_ROW1006834324_UHD.jpg" alt="Tea terraces in Sichuan Province, China (© lzf/Shutterstock)" /><br>
+      2026-05-21 <a href="https://www.bing.com/th?id=OHR.SichuanTea_ROW1006834324_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

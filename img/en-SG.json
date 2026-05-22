@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260421",
-    "url": "https://www.bing.com/th?id=OHR.SpringHedgehog_ROW8347906365_UHD.jpg",
-    "copyright": "European hedgehog, France (© Klein \u0026 Hubert/Nature Picture Library)"
-  },
-  {
     "date": "20260422",
     "url": "https://www.bing.com/th?id=OHR.TartuEstonia_ROW8518008837_UHD.jpg",
     "copyright": "Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)"
@@ -148,5 +143,10 @@
     "date": "20260520",
     "url": "https://www.bing.com/th?id=OHR.BumbleBee_ROW7621208242_UHD.jpg",
     "copyright": "Bumble bee pollinating, Worcester, England (© SimonEastwood87/Shutterstock)"
+  },
+  {
+    "date": "20260521",
+    "url": "https://www.bing.com/th?id=OHR.SichuanTea_ROW1006834324_UHD.jpg",
+    "copyright": "Tea terraces in Sichuan Province, China (© lzf/Shutterstock)"
   }
 ]
