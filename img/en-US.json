@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260422",
-    "url": "https://www.bing.com/th?id=OHR.TartuEstonia_EN-US1627168155_UHD.jpg",
-    "copyright": "Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)"
-  },
-  {
     "date": "20260423",
     "url": "https://www.bing.com/th?id=OHR.HathawayCottage_EN-US1795877015_UHD.jpg",
     "copyright": "Anne Hathaway's cottage and garden, Stratford-upon-Avon, England (© David Steele/Shutterstock)"
@@ -148,5 +143,10 @@
     "date": "20260521",
     "url": "https://www.bing.com/th?id=OHR.SichuanTea_EN-US0676754504_UHD.jpg",
     "copyright": "Tea terraces in Sichuan Province, China (© lzf/Shutterstock)"
+  },
+  {
+    "date": "20260522",
+    "url": "https://www.bing.com/th?id=OHR.KauehiAtollLagoon_EN-US6299031230_UHD.jpg",
+    "copyright": "Kauehi Atoll, Tuamotu Archipelago, French Polynesia (© WaterFrame_dpr/Alamy)"
   }
 ]

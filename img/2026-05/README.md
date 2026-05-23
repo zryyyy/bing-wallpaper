@@ -99,4 +99,12 @@
       2026-05-21 <a href="https://www.bing.com/th?id=OHR.SichuanTea_ROW1006834324_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.PontArdeche_ROW1049828864_UHD.jpg" alt="Pont d'Arc, Ardèche, France (© Gael Fontaine/Getty Images)" /><br>
+      2026-05-22 <a href="https://www.bing.com/th?id=OHR.PontArdeche_ROW1049828864_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

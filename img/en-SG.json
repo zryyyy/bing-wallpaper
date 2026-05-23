@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260422",
-    "url": "https://www.bing.com/th?id=OHR.TartuEstonia_ROW8518008837_UHD.jpg",
-    "copyright": "Alam-Pedja Nature Reserve in Tartu County, Estonia (© Sven Zacek/Nature Picture Library)"
-  },
-  {
     "date": "20260423",
     "url": "https://www.bing.com/th?id=OHR.ChiffchaffSpring_ROW0928406195_UHD.jpg",
     "copyright": "Common chiffchaff, Germany (© Andyworks/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260521",
     "url": "https://www.bing.com/th?id=OHR.SichuanTea_ROW1006834324_UHD.jpg",
     "copyright": "Tea terraces in Sichuan Province, China (© lzf/Shutterstock)"
+  },
+  {
+    "date": "20260522",
+    "url": "https://www.bing.com/th?id=OHR.PontArdeche_ROW1049828864_UHD.jpg",
+    "copyright": "Pont d'Arc, Ardèche, France (© Gael Fontaine/Getty Images)"
   }
 ]

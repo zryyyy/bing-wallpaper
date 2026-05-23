@@ -99,4 +99,12 @@
       2026-05-21 <a href="https://www.bing.com/th?id=OHR.KauehiAtollLagoon_ZH-CN9552036080_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_ZH-CN7043849571_UHD.jpg" alt="与蝴蝶在一起的乌龟 (© Patrick Gallet/Getty Images)" /><br>
+      2026-05-22 <a href="https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_ZH-CN7043849571_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
