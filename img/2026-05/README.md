@@ -104,7 +104,10 @@
       <img src="https://www.bing.com/th?id=OHR.PontArdeche_ROW1049828864_UHD.jpg" alt="Pont d'Arc, Ardèche, France (© Gael Fontaine/Getty Images)" /><br>
       2026-05-22 <a href="https://www.bing.com/th?id=OHR.PontArdeche_ROW1049828864_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_ROW8158760119_UHD.jpg" alt="Turtles with butterflies (© Patrick Gallet/Getty Images)" /><br>
+      2026-05-23 <a href="https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_ROW8158760119_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

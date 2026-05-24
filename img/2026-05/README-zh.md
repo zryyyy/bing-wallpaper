@@ -104,7 +104,10 @@
       <img src="https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_ZH-CN7043849571_UHD.jpg" alt="与蝴蝶在一起的乌龟 (© Patrick Gallet/Getty Images)" /><br>
       2026-05-22 <a href="https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_ZH-CN7043849571_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_UHD.jpg" alt="三峰自然公园，南蒂罗尔，意大利 (© Adisorn Fineday Chutikunakorn/Getty Images)" /><br>
+      2026-05-23 <a href="https://www.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
