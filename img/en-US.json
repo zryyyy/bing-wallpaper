@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260424",
-    "url": "https://www.bing.com/th?id=OHR.SlashPine_EN-US2059787604_UHD.jpg",
-    "copyright": "Forest hammock of slash pine and saw palmetto, Everglades National Park, Florida (© Mary Liz Austin/Alamy)"
-  },
-  {
     "date": "20260425",
     "url": "https://www.bing.com/th?id=OHR.GalapagosPenguins_EN-US2287809863_UHD.jpg",
     "copyright": "Galápagos penguins swimming, Galápagos Islands, Ecuador (© Henley Spiers/Nature Picture Library)"
@@ -148,5 +143,10 @@
     "date": "20260523",
     "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_EN-US0786859772_UHD.jpg",
     "copyright": "Turtles with butterflies (© Patrick Gallet/Getty Images)"
+  },
+  {
+    "date": "20260524",
+    "url": "https://www.bing.com/th?id=OHR.DolomitesPark_EN-US0828472809_UHD.jpg",
+    "copyright": "Tre Cime Nature Park, South Tyrol, Italy (© Adisorn Fineday Chutikunakorn/Getty Images)"
   }
 ]

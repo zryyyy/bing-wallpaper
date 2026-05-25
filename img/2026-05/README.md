@@ -108,6 +108,9 @@
       <img src="https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_ROW8158760119_UHD.jpg" alt="Turtles with butterflies (© Patrick Gallet/Getty Images)" /><br>
       2026-05-23 <a href="https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_ROW8158760119_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.DolomitesPark_ROW8331574098_UHD.jpg" alt="Tre Cime Nature Park, South Tyrol, Italy (© Adisorn Fineday Chutikunakorn/Getty Images)" /><br>
+      2026-05-24 <a href="https://www.bing.com/th?id=OHR.DolomitesPark_ROW8331574098_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

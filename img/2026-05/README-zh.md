@@ -108,6 +108,9 @@
       <img src="https://www.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_UHD.jpg" alt="三峰自然公园，南蒂罗尔，意大利 (© Adisorn Fineday Chutikunakorn/Getty Images)" /><br>
       2026-05-23 <a href="https://www.bing.com/th?id=OHR.DolomitesPark_ZH-CN7134423478_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.HawaMahal2026_ZH-CN7233246545_UHD.jpg" alt="从风之宫殿俯瞰斋浦尔市景，拉贾斯坦邦，印度 (© byheaven/Getty Images)" /><br>
+      2026-05-24 <a href="https://www.bing.com/th?id=OHR.HawaMahal2026_ZH-CN7233246545_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
