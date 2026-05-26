@@ -113,4 +113,12 @@
       2026-05-24 <a href="https://www.bing.com/th?id=OHR.HawaMahal2026_ZH-CN7233246545_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.LupineBloom_ZH-CN7639721663_UHD.jpg" alt="盛开的羽扇豆，北加利福尼亚州，美国 (© Jeffrey Lewis/Tandem Stills + Motion)" /><br>
+      2026-05-25 <a href="https://www.bing.com/th?id=OHR.LupineBloom_ZH-CN7639721663_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

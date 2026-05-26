@@ -113,4 +113,12 @@
       2026-05-24 <a href="https://www.bing.com/th?id=OHR.DolomitesPark_ROW8331574098_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.HawaMahal2026_ROW8601655471_UHD.jpg" alt="View over Jaipur from Hawa Mahal, Rajasthan (© byheaven/Getty Images)" /><br>
+      2026-05-25 <a href="https://www.bing.com/th?id=OHR.HawaMahal2026_ROW8601655471_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
