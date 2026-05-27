@@ -118,7 +118,10 @@
       <img src="https://www.bing.com/th?id=OHR.LupineBloom_ZH-CN7639721663_UHD.jpg" alt="盛开的羽扇豆，北加利福尼亚州，美国 (© Jeffrey Lewis/Tandem Stills + Motion)" /><br>
       2026-05-25 <a href="https://www.bing.com/th?id=OHR.LupineBloom_ZH-CN7639721663_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.OtterDay_ZH-CN7735013625_UHD.jpg" alt="海獭，霍默卡奇马克湾，阿拉斯加州，美国 (© roclwyr/Getty Images)" /><br>
+      2026-05-26 <a href="https://www.bing.com/th?id=OHR.OtterDay_ZH-CN7735013625_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

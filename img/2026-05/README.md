@@ -118,7 +118,10 @@
       <img src="https://www.bing.com/th?id=OHR.HawaMahal2026_ROW8601655471_UHD.jpg" alt="View over Jaipur from Hawa Mahal, Rajasthan (© byheaven/Getty Images)" /><br>
       2026-05-25 <a href="https://www.bing.com/th?id=OHR.HawaMahal2026_ROW8601655471_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.LupineBloom_ROW8766643120_UHD.jpg" alt="Lupine flowers in bloom, Northern California, United States (© Jeffrey Lewis/Tandem Stills + Motion)" /><br>
+      2026-05-26 <a href="https://www.bing.com/th?id=OHR.LupineBloom_ROW8766643120_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
