@@ -122,6 +122,9 @@
       <img src="https://www.bing.com/th?id=OHR.OtterDay_ZH-CN7735013625_UHD.jpg" alt="海獭，霍默卡奇马克湾，阿拉斯加州，美国 (© roclwyr/Getty Images)" /><br>
       2026-05-26 <a href="https://www.bing.com/th?id=OHR.OtterDay_ZH-CN7735013625_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_UHD.jpg" alt="华城堡的古城墙，水原，韩国 (© aomam/Getty Images)" /><br>
+      2026-05-27 <a href="https://www.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
