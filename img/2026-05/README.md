@@ -127,4 +127,12 @@
       2026-05-27 <a href="https://www.bing.com/th?id=OHR.OtterDay_ROW8950256578_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.HwaesongFortress_ROW5120424335_UHD.jpg" alt="Old city wall of Hwaseong Fortress, Suwon, South Korea (© aomam/Getty Images)" /><br>
+      2026-05-28 <a href="https://www.bing.com/th?id=OHR.HwaesongFortress_ROW5120424335_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

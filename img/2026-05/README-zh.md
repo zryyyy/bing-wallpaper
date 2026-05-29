@@ -127,4 +127,12 @@
       2026-05-27 <a href="https://www.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_UHD.jpg" alt="珠穆朗玛峰峰顶，萨加玛塔国家公园，尼泊尔 (© fotoVoyager/Getty Images)" /><br>
+      2026-05-28 <a href="https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
