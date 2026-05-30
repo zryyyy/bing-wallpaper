@@ -132,7 +132,10 @@
       <img src="https://www.bing.com/th?id=OHR.HwaesongFortress_ROW5120424335_UHD.jpg" alt="Old city wall of Hwaseong Fortress, Suwon, South Korea (© aomam/Getty Images)" /><br>
       2026-05-28 <a href="https://www.bing.com/th?id=OHR.HwaesongFortress_ROW5120424335_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SummitEverest_ROW0124036396_UHD.jpg" alt="Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)" /><br>
+      2026-05-29 <a href="https://www.bing.com/th?id=OHR.SummitEverest_ROW0124036396_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

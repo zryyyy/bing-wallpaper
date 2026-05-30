@@ -132,7 +132,10 @@
       <img src="https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_UHD.jpg" alt="珠穆朗玛峰峰顶，萨加玛塔国家公园，尼泊尔 (© fotoVoyager/Getty Images)" /><br>
       2026-05-28 <a href="https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.EquusQuagga_ZH-CN9323988132_UHD.jpg" alt="平原斑马幼崽，埃托沙国家公园，纳米比亚 (© Sharon Heald/Nature Picture Library)" /><br>
+      2026-05-29 <a href="https://www.bing.com/th?id=OHR.EquusQuagga_ZH-CN9323988132_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

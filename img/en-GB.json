@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260429",
-    "url": "https://www.bing.com/th?id=OHR.DutchTulips_EN-GB7175502570_UHD.jpg",
-    "copyright": "Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands (© Martin Ruegner/Getty Images)"
-  },
-  {
     "date": "20260430",
     "url": "https://www.bing.com/th?id=OHR.BrightonFestival2026_EN-GB4224499383_UHD.jpg",
     "copyright": "A merry-go-round in Brighton, England (© Alisia Luther/Shutterstock)"
@@ -148,5 +143,10 @@
     "date": "20260528",
     "url": "https://www.bing.com/th?id=OHR.SummitEverest_EN-GB1382419791_UHD.jpg",
     "copyright": "Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)"
+  },
+  {
+    "date": "20260529",
+    "url": "https://www.bing.com/th?id=OHR.EquusQuagga_EN-GB1868293768_UHD.jpg",
+    "copyright": "Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)"
   }
 ]
