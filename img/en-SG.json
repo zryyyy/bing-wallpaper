@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260430",
-    "url": "https://www.bing.com/th?id=OHR.DutchTulips_ROW0532367282_UHD.jpg",
-    "copyright": "Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands (© Martin Ruegner/Getty Images)"
-  },
-  {
     "date": "20260501",
     "url": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_ROW9390350989_UHD.jpg",
     "copyright": "Tŵr Mawr lighthouse on Llanddwyn Island in Anglesey, Wales (© Lukas Bischoff/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260529",
     "url": "https://www.bing.com/th?id=OHR.SummitEverest_ROW0124036396_UHD.jpg",
     "copyright": "Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)"
+  },
+  {
+    "date": "20260530",
+    "url": "https://www.bing.com/th?id=OHR.EquusQuagga_ROW3735095884_UHD.jpg",
+    "copyright": "Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)"
   }
 ]

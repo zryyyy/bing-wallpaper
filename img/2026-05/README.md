@@ -136,6 +136,9 @@
       <img src="https://www.bing.com/th?id=OHR.SummitEverest_ROW0124036396_UHD.jpg" alt="Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)" /><br>
       2026-05-29 <a href="https://www.bing.com/th?id=OHR.SummitEverest_ROW0124036396_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.EquusQuagga_ROW3735095884_UHD.jpg" alt="Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)" /><br>
+      2026-05-30 <a href="https://www.bing.com/th?id=OHR.EquusQuagga_ROW3735095884_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
