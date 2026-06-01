@@ -141,4 +141,12 @@
       2026-05-30 <a href="https://www.bing.com/th?id=OHR.EquusQuagga_ROW3735095884_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.EvergladesWetlands_ROW3871146559_UHD.jpg" alt="Aerial view of Everglades National Park, Florida, United States (© Tetra Images/Getty Images)" /><br>
+      2026-05-31 <a href="https://www.bing.com/th?id=OHR.EvergladesWetlands_ROW3871146559_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

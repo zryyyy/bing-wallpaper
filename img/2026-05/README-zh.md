@@ -141,4 +141,12 @@
       2026-05-30 <a href="https://www.bing.com/th?id=OHR.EvergladesWetlands_ZH-CN9515366484_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_UHD.jpg" alt="巴勒莫暮色下的天际线，西西里岛，意大利 (© Sean Pavone/Getty Images)" /><br>
+      2026-05-31 <a href="https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
