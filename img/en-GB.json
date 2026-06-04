@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260504",
-    "url": "https://www.bing.com/th?id=OHR.MayoAgave_EN-GB6749688899_UHD.jpg",
-    "copyright": "Field of blue agave near Tequila, Jalisco, Mexico (© Brian Overcast/Alamy)"
-  },
-  {
     "date": "20260505",
     "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_EN-GB7011360187_UHD.jpg",
     "copyright": "Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260602",
     "url": "https://www.bing.com/th?id=OHR.BardenasReales_EN-GB8956577575_UHD.jpg",
     "copyright": "Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)"
+  },
+  {
+    "date": "20260603",
+    "url": "https://www.bing.com/th?id=OHR.PreeningEgret_EN-GB9120612883_UHD.jpg",
+    "copyright": "Snowy egret preening, central Florida, United States (© Donald M. Jones/Minden Pictures)"
   }
 ]
