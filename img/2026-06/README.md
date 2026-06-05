@@ -15,4 +15,12 @@
       2026-06-03 <a href="https://www.bing.com/th?id=OHR.BardenasReales_ROW4809412441_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.PreeningEgret_ROW4946670098_UHD.jpg" alt="Snowy egret preening, central Florida, United States (© Donald M. Jones/Minden Pictures)" /><br>
+      2026-06-04 <a href="https://www.bing.com/th?id=OHR.PreeningEgret_ROW4946670098_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

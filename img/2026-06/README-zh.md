@@ -15,4 +15,12 @@
       2026-06-03 <a href="https://www.bing.com/th?id=OHR.PreeningEgret_ZH-CN2216012708_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_UHD.jpg" alt="从斯基尔夫山俯瞰拉帕达伦河三角洲, 萨雷克国家公园, 拉波尼亚, 瑞典拉普兰 (© Robert Haasmann/Getty Images)" /><br>
+      2026-06-04 <a href="https://www.bing.com/th?id=OHR.WedLapland_ZH-CN2365942547_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260505",
-    "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_JA-JP4515566359_UHD.jpg",
-    "copyright": "平原に現れた巨大積乱雲, ブルガリア (© Revolu7ion93/Getty Images)"
-  },
-  {
     "date": "20260506",
     "url": "https://www.bing.com/th?id=OHR.Kofa_JA-JP4672929305_UHD.jpg",
     "copyright": "コファ国立野生生物保護区, 米国 アリゾナ州 (© Denis Tangney Jr/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260603",
     "url": "https://www.bing.com/th?id=OHR.PreeningEgret_JA-JP9316676875_UHD.jpg",
     "copyright": "ユキコサギ, 米国 フロリダ州 (© Donald M. Jones/Minden Pictures)"
+  },
+  {
+    "date": "20260604",
+    "url": "https://www.bing.com/th?id=OHR.WedLapland_JA-JP9552121230_UHD.jpg",
+    "copyright": "サーレク国立公園, スウェーデン (© Robert Haasmann/Getty Images)"
   }
 ]

@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260505",
-    "url": "https://www.bing.com/th?id=OHR.BulgariaPlains_EN-GB7011360187_UHD.jpg",
-    "copyright": "Thunderstorm above the plains, Bulgaria (© Revolu7ion93/Getty Images)"
-  },
-  {
     "date": "20260506",
     "url": "https://www.bing.com/th?id=OHR.Kofa_EN-GB9757705283_UHD.jpg",
     "copyright": "Kofa National Wildlife Refuge, Arizona, United States (© Denis Tangney Jr/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260603",
     "url": "https://www.bing.com/th?id=OHR.PreeningEgret_EN-GB9120612883_UHD.jpg",
     "copyright": "Snowy egret preening, central Florida, United States (© Donald M. Jones/Minden Pictures)"
+  },
+  {
+    "date": "20260604",
+    "url": "https://www.bing.com/th?id=OHR.WedLapland_EN-GB9256196437_UHD.jpg",
+    "copyright": "View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)"
   }
 ]
