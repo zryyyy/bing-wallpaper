@@ -20,7 +20,10 @@
       <img src="https://www.bing.com/th?id=OHR.PreeningEgret_ROW4946670098_UHD.jpg" alt="Snowy egret preening, central Florida, United States (© Donald M. Jones/Minden Pictures)" /><br>
       2026-06-04 <a href="https://www.bing.com/th?id=OHR.PreeningEgret_ROW4946670098_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.WedLapland_ROW5306546113_UHD.jpg" alt="View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)" /><br>
+      2026-06-05 <a href="https://www.bing.com/th?id=OHR.WedLapland_ROW5306546113_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
