@@ -24,6 +24,9 @@
       <img src="https://www.bing.com/th?id=OHR.WedLapland_ROW5306546113_UHD.jpg" alt="View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)" /><br>
       2026-06-05 <a href="https://www.bing.com/th?id=OHR.WedLapland_ROW5306546113_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.HikingNatchez_ROW5481453055_UHD.jpg" alt="Natchez Trace Parkway, Tupelo, Mississippi, United States (© The best photo is earned/Getty Images Plus)" /><br>
+      2026-06-06 <a href="https://www.bing.com/th?id=OHR.HikingNatchez_ROW5481453055_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

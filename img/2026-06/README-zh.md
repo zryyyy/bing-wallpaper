@@ -24,6 +24,9 @@
       <img src="https://www.bing.com/th?id=OHR.HikingNatchez_ZH-CN2495512699_UHD.jpg" alt="纳奇兹小径公园大道, 图珀洛, 密西西比州, 美国 (© The best photo is earned/Getty Images Plus)" /><br>
       2026-06-05 <a href="https://www.bing.com/th?id=OHR.HikingNatchez_ZH-CN2495512699_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.DunseverickCastle2026_ZH-CN3036266326_UHD.jpg" alt="邓塞弗里克城堡遗址, 安特里姆郡, 北爱尔兰 (© Krzysztof Rogalski/Getty Images)" /><br>
+      2026-06-06 <a href="https://www.bing.com/th?id=OHR.DunseverickCastle2026_ZH-CN3036266326_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
