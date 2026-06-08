@@ -29,4 +29,12 @@
       2026-06-06 <a href="https://www.bing.com/th?id=OHR.DunseverickCastle2026_ZH-CN3036266326_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_UHD.jpg" alt="在海洋中游动的狮鬃水母 (© Alexander Semenov Images/Shutterstock)" /><br>
+      2026-06-07 <a href="https://www.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

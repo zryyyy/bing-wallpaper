@@ -29,4 +29,12 @@
       2026-06-06 <a href="https://www.bing.com/th?id=OHR.HikingNatchez_ROW5481453055_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.DunseverickCastle2026_ROW5774172338_UHD.jpg" alt="Ruins of Dunseverick Castle, County Antrim, Northern Ireland (© Krzysztof Rogalski/Getty Images)" /><br>
+      2026-06-07 <a href="https://www.bing.com/th?id=OHR.DunseverickCastle2026_ROW5774172338_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
