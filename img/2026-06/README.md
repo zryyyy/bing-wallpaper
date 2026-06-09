@@ -34,7 +34,10 @@
       <img src="https://www.bing.com/th?id=OHR.DunseverickCastle2026_ROW5774172338_UHD.jpg" alt="Ruins of Dunseverick Castle, County Antrim, Northern Ireland (© Krzysztof Rogalski/Getty Images)" /><br>
       2026-06-07 <a href="https://www.bing.com/th?id=OHR.DunseverickCastle2026_ROW5774172338_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Cyanea_ROW5915372220_UHD.jpg" alt="Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)" /><br>
+      2026-06-08 <a href="https://www.bing.com/th?id=OHR.Cyanea_ROW5915372220_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

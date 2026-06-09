@@ -34,7 +34,10 @@
       <img src="https://www.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_UHD.jpg" alt="在海洋中游动的狮鬃水母 (© Alexander Semenov Images/Shutterstock)" /><br>
       2026-06-07 <a href="https://www.bing.com/th?id=OHR.Cyanea_ZH-CN3858079050_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_UHD.jpg" alt="韦尔纳扎, 五渔村, 利古里亚, 意大利 (© Kelly Cheng/Getty Images)" /><br>
+      2026-06-08 <a href="https://www.bing.com/th?id=OHR.CTNPVernazza_ZH-CN3971102271_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
