@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260510",
-    "url": "https://www.bing.com/th?id=OHR.MotherCub_EN-US0916425414_UHD.jpg",
-    "copyright": "Polar bear mother and cubs playing in Wapusk National Park, Manitoba, Canada (© Hao Jiang/Getty Images)"
-  },
-  {
     "date": "20260511",
     "url": "https://www.bing.com/th?id=OHR.QueenslandReef_EN-US0977236952_UHD.jpg",
     "copyright": "Great Barrier Reef from above, Queensland, Australia (© Francesco Riccardo Iacomino/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260608",
     "url": "https://www.bing.com/th?id=OHR.Cyanea_EN-US1146473249_UHD.jpg",
     "copyright": "Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)"
+  },
+  {
+    "date": "20260609",
+    "url": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-US1571456265_UHD.jpg",
+    "copyright": "Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)"
   }
 ]

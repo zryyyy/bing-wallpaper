@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260510",
-    "url": "https://www.bing.com/th?id=OHR.QueenslandReef_JA-JP5966336342_UHD.jpg",
-    "copyright": "グレートバリアリーフ, オーストラリア (© Francesco Riccardo Iacomino/Getty Images)"
-  },
-  {
     "date": "20260511",
     "url": "https://www.bing.com/th?id=OHR.Fratercula_JA-JP6144226561_UHD.jpg",
     "copyright": "ニシツノメドリ, ウェールズ (© FLPA/Alamy)"
@@ -148,5 +143,10 @@
     "date": "20260608",
     "url": "https://www.bing.com/th?id=OHR.CTNPVernazza_JA-JP0736280487_UHD.jpg",
     "copyright": "ヴェルナッツァ, イタリア (© Kelly Cheng/Getty Images)"
+  },
+  {
+    "date": "20260609",
+    "url": "https://www.bing.com/th?id=OHR.Hnausapollur_JA-JP1632213498_UHD.jpg",
+    "copyright": "フナウサウポットル, アイスランド (© Juan Maria Coy Vergara/Getty Images)"
   }
 ]

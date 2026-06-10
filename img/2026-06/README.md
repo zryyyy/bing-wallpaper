@@ -38,6 +38,9 @@
       <img src="https://www.bing.com/th?id=OHR.Cyanea_ROW5915372220_UHD.jpg" alt="Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)" /><br>
       2026-06-08 <a href="https://www.bing.com/th?id=OHR.Cyanea_ROW5915372220_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.CTNPVernazza_ROW6038252808_UHD.jpg" alt="Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)" /><br>
+      2026-06-09 <a href="https://www.bing.com/th?id=OHR.CTNPVernazza_ROW6038252808_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
