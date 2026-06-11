@@ -43,4 +43,12 @@
       2026-06-09 <a href="https://www.bing.com/th?id=OHR.Hnausapollur_ZH-CN4075343976_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Limpets_ZH-CN4991771513_UHD.jpg" alt="退潮时裸露在乌尔萨海滩海岸上的帽贝, 葡萄牙 (© Theo Bosboom/Nature Picture Library)" /><br>
+      2026-06-10 <a href="https://www.bing.com/th?id=OHR.Limpets_ZH-CN4991771513_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

@@ -43,4 +43,12 @@
       2026-06-09 <a href="https://www.bing.com/th?id=OHR.CTNPVernazza_ROW6038252808_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Hnausapollur_ROW9570499097_UHD.jpg" alt="Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)" /><br>
+      2026-06-10 <a href="https://www.bing.com/th?id=OHR.Hnausapollur_ROW9570499097_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
