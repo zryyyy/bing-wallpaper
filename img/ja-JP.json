@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260512",
-    "url": "https://www.bing.com/th?id=OHR.AlabamaHills_JA-JP6287825652_UHD.jpg",
-    "copyright": "アラバマヒルズ, 米国 カリフォルニア州 (© Tim Fitzharris/Minden Pictures)"
-  },
-  {
     "date": "20260513",
     "url": "https://www.bing.com/th?id=OHR.Pitigliano_JA-JP6741766886_UHD.jpg",
     "copyright": "ピティリアーノ, イタリア (© bluejayphoto/Getty Images Plus)"
@@ -148,5 +143,10 @@
     "date": "20260610",
     "url": "https://www.bing.com/th?id=OHR.FireflySeason2026_JA-JP9350920903_UHD.jpg",
     "copyright": "蛍の光がきらめく森, 日本 (© tdub303/Getty Images)"
+  },
+  {
+    "date": "20260611",
+    "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_JA-JP8800920985_UHD.jpg",
+    "copyright": "ヨーロッパハチクイ, スペイン (© Andres M. Dominguez/Nature Picture Library)"
   }
 ]

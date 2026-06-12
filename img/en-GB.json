@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260512",
-    "url": "https://www.bing.com/th?id=OHR.AlabamaHills_EN-GB2646719010_UHD.jpg",
-    "copyright": "Arch and Milky Way, Alabama Hills, Sierra Nevada, California, United States (© Tim Fitzharris/Minden Pictures)"
-  },
-  {
     "date": "20260513",
     "url": "https://www.bing.com/th?id=OHR.Pitigliano_EN-GB3042825945_UHD.jpg",
     "copyright": "Medieval town of Pitigliano, Tuscany, Italy (© bluejayphoto/Getty Images Plus)"
@@ -148,5 +143,10 @@
     "date": "20260610",
     "url": "https://www.bing.com/th?id=OHR.Limpets_EN-GB0252915957_UHD.jpg",
     "copyright": "Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)"
+  },
+  {
+    "date": "20260611",
+    "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_EN-GB0400736039_UHD.jpg",
+    "copyright": "European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)"
   }
 ]

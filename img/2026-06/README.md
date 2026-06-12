@@ -48,7 +48,10 @@
       <img src="https://www.bing.com/th?id=OHR.Hnausapollur_ROW9570499097_UHD.jpg" alt="Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)" /><br>
       2026-06-10 <a href="https://www.bing.com/th?id=OHR.Hnausapollur_ROW9570499097_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Limpets_ROW2196437468_UHD.jpg" alt="Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)" /><br>
+      2026-06-11 <a href="https://www.bing.com/th?id=OHR.Limpets_ROW2196437468_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

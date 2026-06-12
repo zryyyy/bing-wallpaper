@@ -48,7 +48,10 @@
       <img src="https://www.bing.com/th?id=OHR.Limpets_ZH-CN4991771513_UHD.jpg" alt="退潮时裸露在乌尔萨海滩海岸上的帽贝, 葡萄牙 (© Theo Bosboom/Nature Picture Library)" /><br>
       2026-06-10 <a href="https://www.bing.com/th?id=OHR.Limpets_ZH-CN4991771513_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SpainBeeEater_ZH-CN4424052851_UHD.jpg" alt="黄喉蜂虎，格拉萨莱马山自然公园，加的斯，西班牙 (© Andres M. Dominguez/Nature Picture Library)" /><br>
+      2026-06-11 <a href="https://www.bing.com/th?id=OHR.SpainBeeEater_ZH-CN4424052851_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
