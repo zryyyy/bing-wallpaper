@@ -52,6 +52,9 @@
       <img src="https://www.bing.com/th?id=OHR.SpainBeeEater_ZH-CN4424052851_UHD.jpg" alt="黄喉蜂虎，格拉萨莱马山自然公园，加的斯，西班牙 (© Andres M. Dominguez/Nature Picture Library)" /><br>
       2026-06-11 <a href="https://www.bing.com/th?id=OHR.SpainBeeEater_ZH-CN4424052851_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_UHD.jpg" alt="落日，恶地国家公园，南达科他州，美国 (© Troy Harrison/Getty Images)" /><br>
+      2026-06-12 <a href="https://www.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

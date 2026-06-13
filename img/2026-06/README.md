@@ -52,6 +52,9 @@
       <img src="https://www.bing.com/th?id=OHR.Limpets_ROW2196437468_UHD.jpg" alt="Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)" /><br>
       2026-06-11 <a href="https://www.bing.com/th?id=OHR.Limpets_ROW2196437468_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SpainBeeEater_ROW2830964378_UHD.jpg" alt="European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)" /><br>
+      2026-06-12 <a href="https://www.bing.com/th?id=OHR.SpainBeeEater_ROW2830964378_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
