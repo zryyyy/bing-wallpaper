@@ -57,4 +57,12 @@
       2026-06-12 <a href="https://www.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_UHD.jpg" alt="绿头鸭 (© Philippe Paternolli/Getty Images)" /><br>
+      2026-06-13 <a href="https://www.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

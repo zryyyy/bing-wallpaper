@@ -57,4 +57,12 @@
       2026-06-12 <a href="https://www.bing.com/th?id=OHR.SpainBeeEater_ROW2830964378_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BadSunset_ROW3111301246_UHD.jpg" alt="Sunset in Badlands National Park, South Dakota, United States (© Troy Harrison/Getty Images)" /><br>
+      2026-06-13 <a href="https://www.bing.com/th?id=OHR.BadSunset_ROW3111301246_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
