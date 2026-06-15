@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260515",
-    "url": "https://www.bing.com/th?id=OHR.SmithRockPark_EN-GB6390650151_UHD.jpg",
-    "copyright": "Smith Rock State Park, Oregon, United States (© Alex Ratson/Getty Images)"
-  },
-  {
     "date": "20260516",
     "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_EN-GB6739469556_UHD.jpg",
     "copyright": "Hawksbill Mountain in Shenandoah National Park, Virginia, United States (© John Baggaley/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260613",
     "url": "https://www.bing.com/th?id=OHR.BadSunset_EN-GB9659525576_UHD.jpg",
     "copyright": "Sunset in Badlands National Park, South Dakota, United States (© Troy Harrison/Getty Images)"
+  },
+  {
+    "date": "20260614",
+    "url": "https://www.bing.com/th?id=OHR.ParkEstd_EN-GB0010694750_UHD.jpg",
+    "copyright": "Great Smoky Mountains National Park, Tennessee, United States (© Mint Images/Getty Images)"
   }
 ]

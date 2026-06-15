@@ -62,7 +62,10 @@
       <img src="https://www.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_UHD.jpg" alt="绿头鸭 (© Philippe Paternolli/Getty Images)" /><br>
       2026-06-13 <a href="https://www.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ParkEstd_ZH-CN3419035151_UHD.jpg" alt="大烟山国家公园，田纳西州，美国 (© Mint Images/Getty Images)" /><br>
+      2026-06-14 <a href="https://www.bing.com/th?id=OHR.ParkEstd_ZH-CN3419035151_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

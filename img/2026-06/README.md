@@ -62,7 +62,10 @@
       <img src="https://www.bing.com/th?id=OHR.BadSunset_ROW3111301246_UHD.jpg" alt="Sunset in Badlands National Park, South Dakota, United States (© Troy Harrison/Getty Images)" /><br>
       2026-06-13 <a href="https://www.bing.com/th?id=OHR.BadSunset_ROW3111301246_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.DuckPond_ROW8945252603_UHD.jpg" alt="Mallard duck (© Philippe Paternolli/Getty Images)" /><br>
+      2026-06-14 <a href="https://www.bing.com/th?id=OHR.DuckPond_ROW8945252603_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

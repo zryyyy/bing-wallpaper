@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260515",
-    "url": "https://www.bing.com/th?id=OHR.SmithRockPark_ZH-CN4210144402_UHD.jpg",
-    "copyright": "史密斯岩州立公园, 俄勒冈州, 美国 (© Alex Ratson/Getty Images)"
-  },
-  {
     "date": "20260516",
     "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_ZH-CN4399136794_UHD.jpg",
     "copyright": "仙纳度国家公园的玳瑁峰, 弗吉尼亚州, 美国 (© John Baggaley/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260613",
     "url": "https://www.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_UHD.jpg",
     "copyright": "绿头鸭 (© Philippe Paternolli/Getty Images)"
+  },
+  {
+    "date": "20260614",
+    "url": "https://www.bing.com/th?id=OHR.ParkEstd_ZH-CN3419035151_UHD.jpg",
+    "copyright": "大烟山国家公园，田纳西州，美国 (© Mint Images/Getty Images)"
   }
 ]
