@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260516",
-    "url": "https://www.bing.com/th?id=OHR.SmithRockPark_EN-US0425629050_UHD.jpg",
-    "copyright": "Smith Rock State Park, Oregon (© Alex Ratson/Getty Images)"
-  },
-  {
     "date": "20260517",
     "url": "https://www.bing.com/th?id=OHR.ShenandoahSunset_EN-US0482920183_UHD.jpg",
     "copyright": "Hawksbill Mountain in Shenandoah National Park, Virginia (© John Baggaley/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260614",
     "url": "https://www.bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_UHD.jpg",
     "copyright": "US flags surrounding the Washington Monument, Washington, DC  (© Orhan Cam/Shutterstock)"
+  },
+  {
+    "date": "20260615",
+    "url": "https://www.bing.com/th?id=OHR.ParkEstd_EN-US6114949122_UHD.jpg",
+    "copyright": "Great Smoky Mountains National Park, Tennessee (© Mint Images/Getty Images)"
   }
 ]

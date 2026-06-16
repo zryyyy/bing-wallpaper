@@ -66,6 +66,9 @@
       <img src="https://www.bing.com/th?id=OHR.DuckPond_ROW8945252603_UHD.jpg" alt="Mallard duck (© Philippe Paternolli/Getty Images)" /><br>
       2026-06-14 <a href="https://www.bing.com/th?id=OHR.DuckPond_ROW8945252603_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ParkEstd_ROW8995340148_UHD.jpg" alt="Great Smoky Mountains National Park, Tennessee, United States (© Mint Images/Getty Images)" /><br>
+      2026-06-15 <a href="https://www.bing.com/th?id=OHR.ParkEstd_ROW8995340148_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
