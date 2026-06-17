@@ -71,4 +71,12 @@
       2026-06-15 <a href="https://www.bing.com/th?id=OHR.SevenMileTurtle_ZH-CN4346512721_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.TremolaRoad_ZH-CN8810749250_UHD.jpg" alt="特雷莫拉公路在圣哥达山口，艾罗洛，瑞士 (© Sandro Bisaro/Getty Images)" /><br>
+      2026-06-16 <a href="https://www.bing.com/th?id=OHR.TremolaRoad_ZH-CN8810749250_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

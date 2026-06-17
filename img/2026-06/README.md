@@ -71,4 +71,12 @@
       2026-06-15 <a href="https://www.bing.com/th?id=OHR.ParkEstd_ROW8995340148_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SevenMileTurtle_ROW9119311274_UHD.jpg" alt="Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)" /><br>
+      2026-06-16 <a href="https://www.bing.com/th?id=OHR.SevenMileTurtle_ROW9119311274_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
