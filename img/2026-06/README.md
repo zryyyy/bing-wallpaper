@@ -76,7 +76,10 @@
       <img src="https://www.bing.com/th?id=OHR.SevenMileTurtle_ROW9119311274_UHD.jpg" alt="Hawksbill sea turtle pair near Seven Mile Beach, Grand Cayman, Cayman Islands (© Alex Mustard/Nature Picture Library)" /><br>
       2026-06-16 <a href="https://www.bing.com/th?id=OHR.SevenMileTurtle_ROW9119311274_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.TremolaRoad_ROW9264574129_UHD.jpg" alt="Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland (© Sandro Bisaro/Getty Images)" /><br>
+      2026-06-17 <a href="https://www.bing.com/th?id=OHR.TremolaRoad_ROW9264574129_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

@@ -76,7 +76,10 @@
       <img src="https://www.bing.com/th?id=OHR.TremolaRoad_ZH-CN8810749250_UHD.jpg" alt="特雷莫拉公路在圣哥达山口，艾罗洛，瑞士 (© Sandro Bisaro/Getty Images)" /><br>
       2026-06-16 <a href="https://www.bing.com/th?id=OHR.TremolaRoad_ZH-CN8810749250_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_UHD.jpg" alt="萨克赛瓦曼遗址俯瞰图，库斯科，秘鲁 (© Creative-Family/Getty Images Plus)" /><br>
+      2026-06-17 <a href="https://www.bing.com/th?id=OHR.Saqsaywaman_ZH-CN2584038469_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
