@@ -80,6 +80,9 @@
       <img src="https://www.bing.com/th?id=OHR.TremolaRoad_ROW9264574129_UHD.jpg" alt="Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland (© Sandro Bisaro/Getty Images)" /><br>
       2026-06-17 <a href="https://www.bing.com/th?id=OHR.TremolaRoad_ROW9264574129_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Saqsaywaman_ROW9340385062_UHD.jpg" alt="Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)" /><br>
+      2026-06-18 <a href="https://www.bing.com/th?id=OHR.Saqsaywaman_ROW9340385062_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
