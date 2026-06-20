@@ -85,4 +85,12 @@
       2026-06-18 <a href="https://www.bing.com/th?id=OHR.Saqsaywaman_ROW9340385062_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.IsolaElba_ROW4135146629_UHD.jpg" alt="La Rocchetta Lighthouse, Piombino, Tuscany, Italy (© StevanZZ/Getty Images)" /><br>
+      2026-06-19 <a href="https://www.bing.com/th?id=OHR.IsolaElba_ROW4135146629_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

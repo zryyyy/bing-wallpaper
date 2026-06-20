@@ -85,4 +85,12 @@
       2026-06-18 <a href="https://www.bing.com/th?id=OHR.DragonBoatFestivalY26_ZH-CN5532138555_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_UHD.jpg" alt="漂浮在南极半岛西部海域的拱形冰山, 南大洋 (© Steven Kazlowski/Nature Picture Library)" /><br>
+      2026-06-19 <a href="https://www.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
