@@ -90,7 +90,10 @@
       <img src="https://www.bing.com/th?id=OHR.IsolaElba_ROW4135146629_UHD.jpg" alt="La Rocchetta Lighthouse, Piombino, Tuscany, Italy (© StevanZZ/Getty Images)" /><br>
       2026-06-19 <a href="https://www.bing.com/th?id=OHR.IsolaElba_ROW4135146629_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ArchedIceberg_ROW4666187976_UHD.jpg" alt="Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)" /><br>
+      2026-06-20 <a href="https://www.bing.com/th?id=OHR.ArchedIceberg_ROW4666187976_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

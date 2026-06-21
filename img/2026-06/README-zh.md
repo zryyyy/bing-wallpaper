@@ -90,7 +90,10 @@
       <img src="https://www.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_UHD.jpg" alt="漂浮在南极半岛西部海域的拱形冰山, 南大洋 (© Steven Kazlowski/Nature Picture Library)" /><br>
       2026-06-19 <a href="https://www.bing.com/th?id=OHR.ArchedIceberg_ZH-CN2698040371_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_UHD.jpg" alt="企鹅爸爸正在检查蛋的情况 (© McDonald Wildlife Photography Inc./Getty Images)" /><br>
+      2026-06-20 <a href="https://www.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

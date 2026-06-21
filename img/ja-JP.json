@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260521",
-    "url": "https://www.bing.com/th?id=OHR.TokyoSkyTreeDay2026_JA-JP8960437090_UHD.jpg",
-    "copyright": "東京スカイツリー, 東京 (© GoranQ/Getty Images)"
-  },
-  {
     "date": "20260522",
     "url": "https://www.bing.com/th?id=OHR.ThreeTurtlesButterflies_JA-JP9111323268_UHD.jpg",
     "copyright": "カメと蝶 (© Patrick Gallet/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260619",
     "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_JA-JP0865478817_UHD.jpg",
     "copyright": "アーチ状の氷山, 南極半島西部 (© Steven Kazlowski/Nature Picture Library)"
+  },
+  {
+    "date": "20260620",
+    "url": "https://www.bing.com/th?id=OHR.EggDad_JA-JP1066785458_UHD.jpg",
+    "copyright": "オウサマペンギンの父親 (© McDonald Wildlife Photography Inc./Getty Images)"
   }
 ]

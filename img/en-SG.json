@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260521",
-    "url": "https://www.bing.com/th?id=OHR.SichuanTea_ROW1006834324_UHD.jpg",
-    "copyright": "Tea terraces in Sichuan Province, China (© lzf/Shutterstock)"
-  },
-  {
     "date": "20260522",
     "url": "https://www.bing.com/th?id=OHR.PontArdeche_ROW1049828864_UHD.jpg",
     "copyright": "Pont d'Arc, Ardèche, France (© Gael Fontaine/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260619",
     "url": "https://www.bing.com/th?id=OHR.IsolaElba_ROW4135146629_UHD.jpg",
     "copyright": "La Rocchetta Lighthouse, Piombino, Tuscany, Italy (© StevanZZ/Getty Images)"
+  },
+  {
+    "date": "20260620",
+    "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_ROW4666187976_UHD.jpg",
+    "copyright": "Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)"
   }
 ]
