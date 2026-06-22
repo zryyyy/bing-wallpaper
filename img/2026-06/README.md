@@ -94,6 +94,9 @@
       <img src="https://www.bing.com/th?id=OHR.ArchedIceberg_ROW4666187976_UHD.jpg" alt="Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)" /><br>
       2026-06-20 <a href="https://www.bing.com/th?id=OHR.ArchedIceberg_ROW4666187976_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MillauViaductFrance_ROW0201721820_UHD.jpg" alt="Millau Viaduct, France (© Sergi Reboredo/Alamy)" /><br>
+      2026-06-21 <a href="https://www.bing.com/th?id=OHR.MillauViaductFrance_ROW0201721820_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

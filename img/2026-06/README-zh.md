@@ -94,6 +94,9 @@
       <img src="https://www.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_UHD.jpg" alt="企鹅爸爸正在检查蛋的情况 (© McDonald Wildlife Photography Inc./Getty Images)" /><br>
       2026-06-20 <a href="https://www.bing.com/th?id=OHR.EggDad_ZH-CN6045387630_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_UHD.jpg" alt="奎诺尔特雨林, 奥林匹克国家公园, 华盛顿州, 美国 (© Chris Moore/Tandem Stills + Motion)" /><br>
+      2026-06-21 <a href="https://www.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
