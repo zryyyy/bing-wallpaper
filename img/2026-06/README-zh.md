@@ -99,4 +99,12 @@
       2026-06-21 <a href="https://www.bing.com/th?id=OHR.QuinaultFerns_ZH-CN6696428927_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Fujisan_ZH-CN7203975085_UHD.jpg" alt="本州岛上的富士山, 日本 (© phutthiseth thongtae/Getty Images)" /><br>
+      2026-06-22 <a href="https://www.bing.com/th?id=OHR.Fujisan_ZH-CN7203975085_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

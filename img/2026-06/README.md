@@ -99,4 +99,12 @@
       2026-06-21 <a href="https://www.bing.com/th?id=OHR.MillauViaductFrance_ROW0201721820_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.QuinaultFerns_ROW9752257605_UHD.jpg" alt="Quinault rainforest, Olympic National Park, Washington state, United States (© Chris Moore/Tandem Stills + Motion)" /><br>
+      2026-06-22 <a href="https://www.bing.com/th?id=OHR.QuinaultFerns_ROW9752257605_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
