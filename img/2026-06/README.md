@@ -104,7 +104,10 @@
       <img src="https://www.bing.com/th?id=OHR.QuinaultFerns_ROW9752257605_UHD.jpg" alt="Quinault rainforest, Olympic National Park, Washington state, United States (© Chris Moore/Tandem Stills + Motion)" /><br>
       2026-06-22 <a href="https://www.bing.com/th?id=OHR.QuinaultFerns_ROW9752257605_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Fujisan_ROW9816660784_UHD.jpg" alt="Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)" /><br>
+      2026-06-23 <a href="https://www.bing.com/th?id=OHR.Fujisan_ROW9816660784_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

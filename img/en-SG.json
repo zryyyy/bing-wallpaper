@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260524",
-    "url": "https://www.bing.com/th?id=OHR.DolomitesPark_ROW8331574098_UHD.jpg",
-    "copyright": "Tre Cime Nature Park, South Tyrol, Italy (© Adisorn Fineday Chutikunakorn/Getty Images)"
-  },
-  {
     "date": "20260525",
     "url": "https://www.bing.com/th?id=OHR.HawaMahal2026_ROW8601655471_UHD.jpg",
     "copyright": "View over Jaipur from Hawa Mahal, Rajasthan (© byheaven/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260622",
     "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_ROW9752257605_UHD.jpg",
     "copyright": "Quinault rainforest, Olympic National Park, Washington state, United States (© Chris Moore/Tandem Stills + Motion)"
+  },
+  {
+    "date": "20260623",
+    "url": "https://www.bing.com/th?id=OHR.Fujisan_ROW9816660784_UHD.jpg",
+    "copyright": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)"
   }
 ]
