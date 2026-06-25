@@ -108,6 +108,9 @@
       <img src="https://www.bing.com/th?id=OHR.Fujisan_ROW9816660784_UHD.jpg" alt="Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)" /><br>
       2026-06-23 <a href="https://www.bing.com/th?id=OHR.Fujisan_ROW9816660784_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BFPollin_ROW9877719219_UHD.jpg" alt="Butterfly pollinating on yellow flower (© lzh/Getty Images)" /><br>
+      2026-06-24 <a href="https://www.bing.com/th?id=OHR.BFPollin_ROW9877719219_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

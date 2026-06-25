@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260525",
-    "url": "https://www.bing.com/th?id=OHR.ArlingtonAmphitheater_EN-US0872772906_UHD.jpg",
-    "copyright": "Memorial Amphitheater at Arlington National Cemetery, Arlington, Virginia (© idesignimages/Getty Images)"
-  },
-  {
     "date": "20260526",
     "url": "https://www.bing.com/th?id=OHR.LupineBloom_EN-US0920778137_UHD.jpg",
     "copyright": "Lupine flowers in bloom, Northern California (© Jeffrey Lewis/Tandem Stills + Motion)"
@@ -148,5 +143,10 @@
     "date": "20260623",
     "url": "https://www.bing.com/th?id=OHR.Fujisan_EN-US6479372200_UHD.jpg",
     "copyright": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)"
+  },
+  {
+    "date": "20260624",
+    "url": "https://www.bing.com/th?id=OHR.BFPollin_EN-US6519187095_UHD.jpg",
+    "copyright": "Butterfly pollinating on yellow flower (© lzh/Getty Images)"
   }
 ]

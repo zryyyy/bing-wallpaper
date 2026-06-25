@@ -108,6 +108,9 @@
       <img src="https://www.bing.com/th?id=OHR.BFPollin_ZH-CN7654067396_UHD.jpg" alt="蝴蝶正在黄花上授粉 (© lzh/Getty Images)" /><br>
       2026-06-23 <a href="https://www.bing.com/th?id=OHR.BFPollin_ZH-CN7654067396_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_UHD.jpg" alt="布鲁塞尔大广场上的建筑群, 比利时 (© Vladislav Zolotov/Getty Images Plus)" /><br>
+      2026-06-24 <a href="https://www.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
