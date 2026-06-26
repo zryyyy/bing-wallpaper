@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260526",
-    "url": "https://www.bing.com/th?id=OHR.OtterDay_JA-JP9963461992_UHD.jpg",
-    "copyright": "ラッコ, 米国 アラスカ州 (© roclwyr/Getty Images)"
-  },
-  {
     "date": "20260527",
     "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_JA-JP0157517591_UHD.jpg",
     "copyright": "スウォンファソン, 韓国 水原市 (© aomam/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260624",
     "url": "https://www.bing.com/th?id=OHR.LavenderSeason2026_JA-JP7050134160_UHD.jpg",
     "copyright": "ラベンダー畑, 北海道 中富良野町 (© Weiheng Pan/Getty Images Plus)"
+  },
+  {
+    "date": "20260625",
+    "url": "https://www.bing.com/th?id=OHR.ThamesSummer_JA-JP5302199333_UHD.jpg",
+    "copyright": "テムズ川, イングランド ロンドン (© Daniel Lange/Getty Images)"
   }
 ]

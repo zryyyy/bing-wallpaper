@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260526",
-    "url": "https://www.bing.com/th?id=OHR.LupineBloom_EN-US0920778137_UHD.jpg",
-    "copyright": "Lupine flowers in bloom, Northern California (© Jeffrey Lewis/Tandem Stills + Motion)"
-  },
-  {
     "date": "20260527",
     "url": "https://www.bing.com/th?id=OHR.OtterDay_EN-US0973120905_UHD.jpg",
     "copyright": "Sea otter, Kachemak Bay, Homer, Alaska (© roclwyr/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260624",
     "url": "https://www.bing.com/th?id=OHR.BFPollin_EN-US6519187095_UHD.jpg",
     "copyright": "Butterfly pollinating on yellow flower (© lzh/Getty Images)"
+  },
+  {
+    "date": "20260625",
+    "url": "https://www.bing.com/th?id=OHR.GrandPlace_EN-US6561229456_UHD.jpg",
+    "copyright": "Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)"
   }
 ]

@@ -113,4 +113,12 @@
       2026-06-24 <a href="https://www.bing.com/th?id=OHR.BFPollin_ROW9877719219_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.GrandPlace_ROW9942052634_UHD.jpg" alt="Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)" /><br>
+      2026-06-25 <a href="https://www.bing.com/th?id=OHR.GrandPlace_ROW9942052634_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

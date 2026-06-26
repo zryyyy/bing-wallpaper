@@ -113,4 +113,12 @@
       2026-06-24 <a href="https://www.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_UHD.jpg" alt="泰晤士河, 伦敦, 英格兰 (© Daniel Lange/Getty Images)" /><br>
+      2026-06-25 <a href="https://www.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
