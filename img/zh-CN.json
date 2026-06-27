@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260527",
-    "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_ZH-CN8225341972_UHD.jpg",
-    "copyright": "华城堡的古城墙，水原，韩国 (© aomam/Getty Images)"
-  },
-  {
     "date": "20260528",
     "url": "https://www.bing.com/th?id=OHR.SummitEverest_ZH-CN9252833251_UHD.jpg",
     "copyright": "珠穆朗玛峰峰顶，萨加玛塔国家公园，尼泊尔 (© fotoVoyager/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260625",
     "url": "https://www.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_UHD.jpg",
     "copyright": "泰晤士河, 伦敦, 英格兰 (© Daniel Lange/Getty Images)"
+  },
+  {
+    "date": "20260626",
+    "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_ZH-CN5540590570_UHD.jpg",
+    "copyright": "博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国 (© Frances/Adobe Stock)"
   }
 ]

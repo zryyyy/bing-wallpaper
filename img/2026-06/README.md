@@ -118,7 +118,10 @@
       <img src="https://www.bing.com/th?id=OHR.GrandPlace_ROW9942052634_UHD.jpg" alt="Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)" /><br>
       2026-06-25 <a href="https://www.bing.com/th?id=OHR.GrandPlace_ROW9942052634_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ThamesSummer_ROW5725205310_UHD.jpg" alt="The River Thames, London, England (© Daniel Lange/Getty Images)" /><br>
+      2026-06-26 <a href="https://www.bing.com/th?id=OHR.ThamesSummer_ROW5725205310_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

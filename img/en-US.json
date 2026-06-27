@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260527",
-    "url": "https://www.bing.com/th?id=OHR.OtterDay_EN-US0973120905_UHD.jpg",
-    "copyright": "Sea otter, Kachemak Bay, Homer, Alaska (© roclwyr/Getty Images)"
-  },
-  {
     "date": "20260528",
     "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869_UHD.jpg",
     "copyright": "Old city wall of Hwaseong Fortress, Suwon, South Korea (© aomam/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260625",
     "url": "https://www.bing.com/th?id=OHR.GrandPlace_EN-US6561229456_UHD.jpg",
     "copyright": "Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)"
+  },
+  {
+    "date": "20260626",
+    "url": "https://www.bing.com/th?id=OHR.ThamesSummer_EN-US6783349970_UHD.jpg",
+    "copyright": "The River Thames, London, England (© Daniel Lange/Getty Images)"
   }
 ]

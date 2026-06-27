@@ -118,7 +118,10 @@
       <img src="https://www.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_UHD.jpg" alt="泰晤士河, 伦敦, 英格兰 (© Daniel Lange/Getty Images)" /><br>
       2026-06-25 <a href="https://www.bing.com/th?id=OHR.ThamesSummer_ZH-CN5292532714_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BoneyardBeach_ZH-CN5540590570_UHD.jpg" alt="博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国 (© Frances/Adobe Stock)" /><br>
+      2026-06-26 <a href="https://www.bing.com/th?id=OHR.BoneyardBeach_ZH-CN5540590570_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
