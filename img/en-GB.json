@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260528",
-    "url": "https://www.bing.com/th?id=OHR.SummitEverest_EN-GB1382419791_UHD.jpg",
-    "copyright": "Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)"
-  },
-  {
     "date": "20260529",
     "url": "https://www.bing.com/th?id=OHR.EquusQuagga_EN-GB1868293768_UHD.jpg",
     "copyright": "Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)"
@@ -148,5 +143,10 @@
     "date": "20260626",
     "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_EN-GB1157661849_UHD.jpg",
     "copyright": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock)"
+  },
+  {
+    "date": "20260627",
+    "url": "https://www.bing.com/th?id=OHR.SaguaroSun_EN-GB1588043989_UHD.jpg",
+    "copyright": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)"
   }
 ]

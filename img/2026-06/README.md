@@ -122,6 +122,9 @@
       <img src="https://www.bing.com/th?id=OHR.ThamesSummer_ROW5725205310_UHD.jpg" alt="The River Thames, London, England (© Daniel Lange/Getty Images)" /><br>
       2026-06-26 <a href="https://www.bing.com/th?id=OHR.ThamesSummer_ROW5725205310_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BoneyardBeach_ROW5980184079_UHD.jpg" alt="Driftwood on Boneyard Beach, Hunting Island, South Carolina, USA (© Frances/Adobe Stock)" /><br>
+      2026-06-27 <a href="https://www.bing.com/th?id=OHR.BoneyardBeach_ROW5980184079_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260528",
-    "url": "https://www.bing.com/th?id=OHR.HwaesongFortress_EN-US1012626869_UHD.jpg",
-    "copyright": "Old city wall of Hwaseong Fortress, Suwon, South Korea (© aomam/Getty Images)"
-  },
-  {
     "date": "20260529",
     "url": "https://www.bing.com/th?id=OHR.SummitEverest_EN-US0552794971_UHD.jpg",
     "copyright": "Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260626",
     "url": "https://www.bing.com/th?id=OHR.ThamesSummer_EN-US6783349970_UHD.jpg",
     "copyright": "The River Thames, London, England (© Daniel Lange/Getty Images)"
+  },
+  {
+    "date": "20260627",
+    "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_EN-US8247496696_UHD.jpg",
+    "copyright": "Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)"
   }
 ]

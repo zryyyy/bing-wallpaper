@@ -122,6 +122,9 @@
       <img src="https://www.bing.com/th?id=OHR.BoneyardBeach_ZH-CN5540590570_UHD.jpg" alt="博尼亚德海滩上的漂流木, 亨廷岛, 南卡罗来纳州, 美国 (© Frances/Adobe Stock)" /><br>
       2026-06-26 <a href="https://www.bing.com/th?id=OHR.BoneyardBeach_ZH-CN5540590570_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SaguaroSun_ZH-CN5820504732_UHD.jpg" alt="温德盖特山口附近的巨柱仙人掌, 麦克道尔山脉, 亚利桑那州, 美国 (© Eric Mischke/Getty Images)" /><br>
+      2026-06-27 <a href="https://www.bing.com/th?id=OHR.SaguaroSun_ZH-CN5820504732_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
