@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260529",
-    "url": "https://www.bing.com/th?id=OHR.EquusQuagga_JA-JP7756090544_UHD.jpg",
-    "copyright": "サバンナシマウマの子馬, ナミビア (© Sharon Heald/Nature Picture Library)"
-  },
-  {
     "date": "20260530",
     "url": "https://www.bing.com/th?id=OHR.EvergladesWetlands_JA-JP7977535602_UHD.jpg",
     "copyright": "エバーグレーズ国立公園, 米国 フロリダ州 (© Tetra Images/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260627",
     "url": "https://www.bing.com/th?id=OHR.SaguaroSun_JA-JP5856249761_UHD.jpg",
     "copyright": "ウィンドゲートパス, 米国 アリゾナ州 (© Eric Mischke/Getty Images)"
+  },
+  {
+    "date": "20260628",
+    "url": "https://www.bing.com/th?id=OHR.BoraBoraLagoon_JA-JP3981162879_UHD.jpg",
+    "copyright": "ボラボラ島, フランス領ポリネシア (© Frederick Millett/Shutterstock)"
   }
 ]

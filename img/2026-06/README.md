@@ -127,4 +127,12 @@
       2026-06-27 <a href="https://www.bing.com/th?id=OHR.BoneyardBeach_ROW5980184079_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SaguaroSun_ROW6246109819_UHD.jpg" alt="Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)" /><br>
+      2026-06-28 <a href="https://www.bing.com/th?id=OHR.SaguaroSun_ROW6246109819_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
