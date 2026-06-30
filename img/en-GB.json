@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260530",
-    "url": "https://www.bing.com/th?id=OHR.EvergladesWetlands_EN-GB2174930094_UHD.jpg",
-    "copyright": "Aerial view of Everglades National Park, Florida, United States (© Tetra Images/Getty Images)"
-  },
-  {
     "date": "20260531",
     "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_EN-GB8668911302_UHD.jpg",
     "copyright": "Palermo skyline, Sicily, Italy (© Sean Pavone/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260628",
     "url": "https://www.bing.com/th?id=OHR.BoraBoraLagoon_EN-GB1950063282_UHD.jpg",
     "copyright": "Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)"
+  },
+  {
+    "date": "20260629",
+    "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-GB8702520320_UHD.jpg",
+    "copyright": "Giraffes in the Masai Mara National Reserve, Kenya (© danm/Getty Images)"
   }
 ]

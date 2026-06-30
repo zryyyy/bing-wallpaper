@@ -132,7 +132,10 @@
       <img src="https://www.bing.com/th?id=OHR.BoraBoraLagoon_ZH-CN9234363590_UHD.jpg" alt="波拉波拉岛及其泻湖, 南太平洋, 法属波利尼西亚 (© Frederick Millett/Shutterstock)" /><br>
       2026-06-28 <a href="https://www.bing.com/th?id=OHR.BoraBoraLagoon_ZH-CN9234363590_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MasaiGiraffe_ZH-CN1665123897_UHD.jpg" alt="马赛马拉国家保护区日落时分的长颈鹿, 肯尼亚 (© danm/Getty Images)" /><br>
+      2026-06-29 <a href="https://www.bing.com/th?id=OHR.MasaiGiraffe_ZH-CN1665123897_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
