@@ -136,6 +136,9 @@
       <img src="https://www.bing.com/th?id=OHR.BoraBoraLagoon_ROW6505126632_UHD.jpg" alt="Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)" /><br>
       2026-06-29 <a href="https://www.bing.com/th?id=OHR.BoraBoraLagoon_ROW6505126632_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MasaiGiraffe_ROW6806132366_UHD.jpg" alt="Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)" /><br>
+      2026-06-30 <a href="https://www.bing.com/th?id=OHR.MasaiGiraffe_ROW6806132366_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

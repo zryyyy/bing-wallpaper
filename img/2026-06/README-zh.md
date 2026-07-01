@@ -136,6 +136,9 @@
       <img src="https://www.bing.com/th?id=OHR.MasaiGiraffe_ZH-CN1665123897_UHD.jpg" alt="马赛马拉国家保护区日落时分的长颈鹿, 肯尼亚 (© danm/Getty Images)" /><br>
       2026-06-29 <a href="https://www.bing.com/th?id=OHR.MasaiGiraffe_ZH-CN1665123897_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_UHD.jpg" alt="地牢省立公园, 纽芬兰和拉布拉多省, 加拿大 (© Kaitlyn McLachlan/Getty Images)" /><br>
+      2026-06-30 <a href="https://www.bing.com/th?id=OHR.DungeonPark_ZH-CN9544093701_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
