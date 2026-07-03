@@ -6,7 +6,10 @@
       <img src="https://www.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_UHD.jpg" alt="埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)" /><br>
       2026-07-01 <a href="https://www.bing.com/th?id=OHR.TempleEsna_ZH-CN9834689523_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg" alt="小溪上方的萤火虫，冈山县，日本 (© tdub303/Getty Images)" /><br>
+      2026-07-02 <a href="https://www.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

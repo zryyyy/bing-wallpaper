@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260602",
-    "url": "https://www.bing.com/th?id=OHR.BardenasReales_EN-GB8956577575_UHD.jpg",
-    "copyright": "Cyclist in Bardenas Reales Natural Park and Biosphere Reserve, Navarra, Spain (© Artur Debat/Getty Images)"
-  },
-  {
     "date": "20260603",
     "url": "https://www.bing.com/th?id=OHR.PreeningEgret_EN-GB9120612883_UHD.jpg",
     "copyright": "Snowy egret preening, central Florida, United States (© Donald M. Jones/Minden Pictures)"
@@ -148,5 +143,10 @@
     "date": "20260701",
     "url": "https://www.bing.com/th?id=OHR.TempleEsna_EN-GB9683013446_UHD.jpg",
     "copyright": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)"
+  },
+  {
+    "date": "20260702",
+    "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_EN-GB8401520779_UHD.jpg",
+    "copyright": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)"
   }
 ]
