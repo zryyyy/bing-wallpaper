@@ -10,6 +10,9 @@
       <img src="https://www.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg" alt="小溪上方的萤火虫，冈山县，日本 (© tdub303/Getty Images)" /><br>
       2026-07-02 <a href="https://www.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg" alt="凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images)" /><br>
+      2026-07-03 <a href="https://www.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
