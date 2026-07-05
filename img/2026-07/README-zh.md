@@ -15,4 +15,12 @@
       2026-07-03 <a href="https://www.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg" alt="瓦朗索勒高原的薰衣草行，普罗旺斯，法国 (© Robert Harding/Shutterstock)" /><br>
+      2026-07-04 <a href="https://www.bing.com/th?id=OHR.LavenderRows_ZH-CN0676810895_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

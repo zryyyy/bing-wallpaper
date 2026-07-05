@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260604",
-    "url": "https://www.bing.com/th?id=OHR.PreeningEgret_ROW4946670098_UHD.jpg",
-    "copyright": "Snowy egret preening, central Florida, United States (© Donald M. Jones/Minden Pictures)"
-  },
-  {
     "date": "20260605",
     "url": "https://www.bing.com/th?id=OHR.WedLapland_ROW5306546113_UHD.jpg",
     "copyright": "View from Skierffe Mountain over the Rapadalen river delta, Sarek National Park, Laponia, Lapland, Sweden (© Robert Haasmann/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260703",
     "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_ROW7733016954_UHD.jpg",
     "copyright": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)"
+  },
+  {
+    "date": "20260704",
+    "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_ROW7990431342_UHD.jpg",
+    "copyright": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)"
   }
 ]

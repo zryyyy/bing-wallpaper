@@ -15,4 +15,12 @@
       2026-07-03 <a href="https://www.bing.com/th?id=OHR.FirefliesJapan_ROW7733016954_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.KaysersbergVillage_ROW7990431342_UHD.jpg" alt="Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)" /><br>
+      2026-07-04 <a href="https://www.bing.com/th?id=OHR.KaysersbergVillage_ROW7990431342_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
