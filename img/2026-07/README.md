@@ -20,7 +20,10 @@
       <img src="https://www.bing.com/th?id=OHR.KaysersbergVillage_ROW7990431342_UHD.jpg" alt="Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)" /><br>
       2026-07-04 <a href="https://www.bing.com/th?id=OHR.KaysersbergVillage_ROW7990431342_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.LavenderRows_ROW8253115987_UHD.jpg" alt="Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)" /><br>
+      2026-07-05 <a href="https://www.bing.com/th?id=OHR.LavenderRows_ROW8253115987_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
