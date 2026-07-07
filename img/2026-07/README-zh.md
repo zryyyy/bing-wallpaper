@@ -24,6 +24,9 @@
       <img src="https://www.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg" alt="锡拉库萨的日落，西西里岛，意大利 (© Balate Dorin/Getty Images)" /><br>
       2026-07-05 <a href="https://www.bing.com/th?id=OHR.SyracuseItaly_ZH-CN1001695972_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_UHD.jpg" alt="板嘴山巨嘴鸟与兰花，厄瓜多尔 (© Murray Cooper/Minden Pictures)" /><br>
+      2026-07-06 <a href="https://www.bing.com/th?id=OHR.MountainToucanOrchids_ZH-CN1400221431_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

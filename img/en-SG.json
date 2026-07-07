@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260606",
-    "url": "https://www.bing.com/th?id=OHR.HikingNatchez_ROW5481453055_UHD.jpg",
-    "copyright": "Natchez Trace Parkway, Tupelo, Mississippi, United States (© The best photo is earned/Getty Images Plus)"
-  },
-  {
     "date": "20260607",
     "url": "https://www.bing.com/th?id=OHR.DunseverickCastle2026_ROW5774172338_UHD.jpg",
     "copyright": "Ruins of Dunseverick Castle, County Antrim, Northern Ireland (© Krzysztof Rogalski/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260705",
     "url": "https://www.bing.com/th?id=OHR.LavenderRows_ROW8253115987_UHD.jpg",
     "copyright": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)"
+  },
+  {
+    "date": "20260706",
+    "url": "https://www.bing.com/th?id=OHR.SyracuseItaly_ROW8772538423_UHD.jpg",
+    "copyright": "Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)"
   }
 ]

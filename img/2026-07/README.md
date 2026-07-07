@@ -24,6 +24,9 @@
       <img src="https://www.bing.com/th?id=OHR.LavenderRows_ROW8253115987_UHD.jpg" alt="Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)" /><br>
       2026-07-05 <a href="https://www.bing.com/th?id=OHR.LavenderRows_ROW8253115987_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SyracuseItaly_ROW8772538423_UHD.jpg" alt="Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)" /><br>
+      2026-07-06 <a href="https://www.bing.com/th?id=OHR.SyracuseItaly_ROW8772538423_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
