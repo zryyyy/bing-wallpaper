@@ -29,4 +29,12 @@
       2026-07-06 <a href="https://www.bing.com/th?id=OHR.SyracuseItaly_ROW8772538423_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MountainToucanOrchids_ROW9033619580_UHD.jpg" alt="Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)" /><br>
+      2026-07-07 <a href="https://www.bing.com/th?id=OHR.MountainToucanOrchids_ROW9033619580_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

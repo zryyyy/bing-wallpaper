@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260607",
-    "url": "https://www.bing.com/th?id=OHR.Cyanea_EN-GB9769682227_UHD.jpg",
-    "copyright": "Lion's mane jellyfish swimming in the ocean (© Alexander Semenov Images/Shutterstock)"
-  },
-  {
     "date": "20260608",
     "url": "https://www.bing.com/th?id=OHR.CTNPVernazza_EN-GB9932633613_UHD.jpg",
     "copyright": "Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260706",
     "url": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-GB2911291133_UHD.jpg",
     "copyright": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)"
+  },
+  {
+    "date": "20260707",
+    "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_EN-GB6255247922_UHD.jpg",
+    "copyright": "Lake Atitlán, Guatemala (© shayes17/Getty Images)"
   }
 ]
