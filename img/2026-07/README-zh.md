@@ -34,7 +34,10 @@
       <img src="https://www.bing.com/th?id=OHR.LakeAtitlan_ZH-CN1920221893_UHD.jpg" alt="阿蒂特兰湖的日出，危地马拉 (© shayes17/Getty Images)" /><br>
       2026-07-07 <a href="https://www.bing.com/th?id=OHR.LakeAtitlan_ZH-CN1920221893_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SapaVietnam_ZH-CN2178893672_UHD.jpg" alt="在沙巴的水稻田，老街，越南 (© Anujak Jaimook/Getty Images)" /><br>
+      2026-07-08 <a href="https://www.bing.com/th?id=OHR.SapaVietnam_ZH-CN2178893672_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

@@ -34,7 +34,10 @@
       <img src="https://www.bing.com/th?id=OHR.MountainToucanOrchids_ROW9033619580_UHD.jpg" alt="Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)" /><br>
       2026-07-07 <a href="https://www.bing.com/th?id=OHR.MountainToucanOrchids_ROW9033619580_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.LakeAtitlan_ROW9281108051_UHD.jpg" alt="Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)" /><br>
+      2026-07-08 <a href="https://www.bing.com/th?id=OHR.LakeAtitlan_ROW9281108051_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
