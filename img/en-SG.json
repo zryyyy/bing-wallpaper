@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260609",
-    "url": "https://www.bing.com/th?id=OHR.CTNPVernazza_ROW6038252808_UHD.jpg",
-    "copyright": "Vernazza, Cinque Terre, Liguria, Italy (© Kelly Cheng/Getty Images)"
-  },
-  {
     "date": "20260610",
     "url": "https://www.bing.com/th?id=OHR.Hnausapollur_ROW9570499097_UHD.jpg",
     "copyright": "Hnausapollur volcanic crater lake, Fjallabak Nature Reserve, Landmannalaugar, Iceland (© Juan Maria Coy Vergara/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260708",
     "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_ROW9281108051_UHD.jpg",
     "copyright": "Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)"
+  },
+  {
+    "date": "20260709",
+    "url": "https://www.bing.com/th?id=OHR.SapaVietnam_ROW9241114244_UHD.jpg",
+    "copyright": "Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)"
   }
 ]

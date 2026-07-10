@@ -38,6 +38,9 @@
       <img src="https://www.bing.com/th?id=OHR.LakeAtitlan_ROW9281108051_UHD.jpg" alt="Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)" /><br>
       2026-07-08 <a href="https://www.bing.com/th?id=OHR.LakeAtitlan_ROW9281108051_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SapaVietnam_ROW9241114244_UHD.jpg" alt="Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)" /><br>
+      2026-07-09 <a href="https://www.bing.com/th?id=OHR.SapaVietnam_ROW9241114244_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

@@ -38,6 +38,9 @@
       <img src="https://www.bing.com/th?id=OHR.SapaVietnam_ZH-CN2178893672_UHD.jpg" alt="在沙巴的水稻田，老街，越南 (© Anujak Jaimook/Getty Images)" /><br>
       2026-07-08 <a href="https://www.bing.com/th?id=OHR.SapaVietnam_ZH-CN2178893672_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_UHD.jpg" alt="陆地与海洋的鸟瞰图，维多利亚州，澳大利亚 (© Nearmap/Getty Images)" /><br>
+      2026-07-09 <a href="https://www.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
