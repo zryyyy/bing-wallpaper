@@ -43,4 +43,12 @@
       2026-07-09 <a href="https://www.bing.com/th?id=OHR.SapaVietnam_ROW9241114244_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.LemonShark_ROW1540729665_UHD.jpg" alt="Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)" /><br>
+      2026-07-10 <a href="https://www.bing.com/th?id=OHR.LemonShark_ROW1540729665_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

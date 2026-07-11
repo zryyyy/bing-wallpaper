@@ -43,4 +43,12 @@
       2026-07-09 <a href="https://www.bing.com/th?id=OHR.VictoriaBeach_ZH-CN8892195426_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_UHD.jpg" alt="圣古斯坦港, 欧赖, 布列塔尼, 法国 (© Rolf E. Staerk/Shutterstock)" /><br>
+      2026-07-10 <a href="https://www.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
