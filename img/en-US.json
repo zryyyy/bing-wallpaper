@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260611",
-    "url": "https://www.bing.com/th?id=OHR.Limpets_EN-US1055673545_UHD.jpg",
-    "copyright": "Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)"
-  },
-  {
     "date": "20260612",
     "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_EN-US5920719155_UHD.jpg",
     "copyright": "European bee-eater, Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)"
@@ -148,5 +143,10 @@
     "date": "20260710",
     "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg",
     "copyright": "Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)"
+  },
+  {
+    "date": "20260711",
+    "url": "https://www.bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg",
+    "copyright": "Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)"
   }
 ]

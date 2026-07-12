@@ -48,7 +48,10 @@
       <img src="https://www.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_UHD.jpg" alt="圣古斯坦港, 欧赖, 布列塔尼, 法国 (© Rolf E. Staerk/Shutterstock)" /><br>
       2026-07-10 <a href="https://www.bing.com/th?id=OHR.AurayBrittany_ZH-CN5549157888_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg" alt="卡塔丁森林和水域国家纪念地，缅因州，美国 (© Cavan Images/Offset/Shutterstock)" /><br>
+      2026-07-11 <a href="https://www.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

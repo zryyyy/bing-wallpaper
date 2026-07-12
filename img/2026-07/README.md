@@ -48,7 +48,10 @@
       <img src="https://www.bing.com/th?id=OHR.LemonShark_ROW1540729665_UHD.jpg" alt="Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)" /><br>
       2026-07-10 <a href="https://www.bing.com/th?id=OHR.LemonShark_ROW1540729665_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.CoralAwareness_ROW1949077077_UHD.jpg" alt="Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)" /><br>
+      2026-07-11 <a href="https://www.bing.com/th?id=OHR.CoralAwareness_ROW1949077077_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

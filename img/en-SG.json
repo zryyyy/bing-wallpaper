@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260611",
-    "url": "https://www.bing.com/th?id=OHR.Limpets_ROW2196437468_UHD.jpg",
-    "copyright": "Limpets exposed at low tide on the coast of Praia da Ursa, Portugal (© Theo Bosboom/Nature Picture Library)"
-  },
-  {
     "date": "20260612",
     "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_ROW2830964378_UHD.jpg",
     "copyright": "European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)"
@@ -148,5 +143,10 @@
     "date": "20260710",
     "url": "https://www.bing.com/th?id=OHR.LemonShark_ROW1540729665_UHD.jpg",
     "copyright": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)"
+  },
+  {
+    "date": "20260711",
+    "url": "https://www.bing.com/th?id=OHR.CoralAwareness_ROW1949077077_UHD.jpg",
+    "copyright": "Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)"
   }
 ]
