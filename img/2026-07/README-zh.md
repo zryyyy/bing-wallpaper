@@ -52,6 +52,9 @@
       <img src="https://www.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg" alt="卡塔丁森林和水域国家纪念地，缅因州，美国 (© Cavan Images/Offset/Shutterstock)" /><br>
       2026-07-11 <a href="https://www.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg" alt="羚羊峡谷，纳瓦霍族保留地，亚利桑那州，美国 (© Mark Skalny/Getty Images)" /><br>
+      2026-07-12 <a href="https://www.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

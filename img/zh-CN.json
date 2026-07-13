@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260612",
-    "url": "https://www.bing.com/th?id=OHR.BadSunset_ZH-CN9050997938_UHD.jpg",
-    "copyright": "落日，恶地国家公园，南达科他州，美国 (© Troy Harrison/Getty Images)"
-  },
-  {
     "date": "20260613",
     "url": "https://www.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_UHD.jpg",
     "copyright": "绿头鸭 (© Philippe Paternolli/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260711",
     "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_ZH-CN5496444375_UHD.jpg",
     "copyright": "卡塔丁森林和水域国家纪念地，缅因州，美国 (© Cavan Images/Offset/Shutterstock)"
+  },
+  {
+    "date": "20260712",
+    "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg",
+    "copyright": "羚羊峡谷，纳瓦霍族保留地，亚利桑那州，美国 (© Mark Skalny/Getty Images)"
   }
 ]

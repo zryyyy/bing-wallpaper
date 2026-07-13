@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260612",
-    "url": "https://www.bing.com/th?id=OHR.SpainBeeEater_ROW2830964378_UHD.jpg",
-    "copyright": "European bee-eater in Sierra de Grazalema Natural Park, Cádiz, Spain (© Andres M. Dominguez/Nature Picture Library)"
-  },
-  {
     "date": "20260613",
     "url": "https://www.bing.com/th?id=OHR.BadSunset_ROW3111301246_UHD.jpg",
     "copyright": "Sunset in Badlands National Park, South Dakota, United States (© Troy Harrison/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260711",
     "url": "https://www.bing.com/th?id=OHR.CoralAwareness_ROW1949077077_UHD.jpg",
     "copyright": "Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)"
+  },
+  {
+    "date": "20260712",
+    "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_ROW0056133161_UHD.jpg",
+    "copyright": "Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock)"
   }
 ]

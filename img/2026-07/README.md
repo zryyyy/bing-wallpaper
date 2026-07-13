@@ -52,6 +52,9 @@
       <img src="https://www.bing.com/th?id=OHR.CoralAwareness_ROW1949077077_UHD.jpg" alt="Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)" /><br>
       2026-07-11 <a href="https://www.bing.com/th?id=OHR.CoralAwareness_ROW1949077077_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.KatahdinWWNM_ROW0056133161_UHD.jpg" alt="Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock)" /><br>
+      2026-07-12 <a href="https://www.bing.com/th?id=OHR.KatahdinWWNM_ROW0056133161_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
