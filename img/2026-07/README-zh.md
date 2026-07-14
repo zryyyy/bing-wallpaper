@@ -57,4 +57,12 @@
       2026-07-12 <a href="https://www.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_UHD.jpg" alt="柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马 (© Shane Gross/Nature Picture Library)" /><br>
+      2026-07-13 <a href="https://www.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

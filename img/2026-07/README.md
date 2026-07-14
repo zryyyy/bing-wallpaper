@@ -57,4 +57,12 @@
       2026-07-12 <a href="https://www.bing.com/th?id=OHR.KatahdinWWNM_ROW0056133161_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.NavajoSandstone_ROW2504391338_UHD.jpg" alt="Antelope Canyon on the Navajo Nation, east of Page, Arizona, United States (© Mark Skalny/Getty Images)" /><br>
+      2026-07-13 <a href="https://www.bing.com/th?id=OHR.NavajoSandstone_ROW2504391338_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

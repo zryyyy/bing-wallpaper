@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260613",
-    "url": "https://www.bing.com/th?id=OHR.BadSunset_EN-US5981956630_UHD.jpg",
-    "copyright": "Sunset in Badlands National Park, South Dakota, USA (© Troy Harrison/Getty Images)"
-  },
-  {
     "date": "20260614",
     "url": "https://www.bing.com/th?id=OHR.FlagsMonument_EN-US6034154869_UHD.jpg",
     "copyright": "US flags surrounding the Washington Monument, Washington, DC  (© Orhan Cam/Shutterstock)"
@@ -148,5 +143,10 @@
     "date": "20260712",
     "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-US8982810797_UHD.jpg",
     "copyright": "Katahdin Woods and Waters National Monument, Maine (© Cavan Images/Offset/Shutterstock)"
+  },
+  {
+    "date": "20260713",
+    "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_EN-US9496264383_UHD.jpg",
+    "copyright": "Antelope Canyon on the Navajo Nation, east of Page, Arizona (© Mark Skalny/Getty Images)"
   }
 ]

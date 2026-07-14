@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260613",
-    "url": "https://www.bing.com/th?id=OHR.DuckPond_ZH-CN1683101997_UHD.jpg",
-    "copyright": "绿头鸭 (© Philippe Paternolli/Getty Images)"
-  },
-  {
     "date": "20260614",
     "url": "https://www.bing.com/th?id=OHR.ParkEstd_ZH-CN3419035151_UHD.jpg",
     "copyright": "大烟山国家公园，田纳西州，美国 (© Mint Images/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260712",
     "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_ZH-CN5009673011_UHD.jpg",
     "copyright": "羚羊峡谷，纳瓦霍族保留地，亚利桑那州，美国 (© Mark Skalny/Getty Images)"
+  },
+  {
+    "date": "20260713",
+    "url": "https://www.bing.com/th?id=OHR.LemonShark_ZH-CN4650331008_UHD.jpg",
+    "copyright": "柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马 (© Shane Gross/Nature Picture Library)"
   }
 ]
