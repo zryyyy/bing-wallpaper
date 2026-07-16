@@ -66,6 +66,9 @@
       <img src="https://www.bing.com/th?id=OHR.VictoriaBeach_ROW2787109728_UHD.jpg" alt="Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)" /><br>
       2026-07-14 <a href="https://www.bing.com/th?id=OHR.VictoriaBeach_ROW2787109728_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MarieLake_ROW3037907828_UHD.jpg" alt="Marie Lake, John Muir Wilderness near Bishop, California, United States (© Steve Dunleavy/Getty Images)" /><br>
+      2026-07-15 <a href="https://www.bing.com/th?id=OHR.MarieLake_ROW3037907828_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

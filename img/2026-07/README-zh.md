@@ -66,6 +66,9 @@
       <img src="https://www.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg" alt="玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国 (© Steve Dunleavy/Getty Images)" /><br>
       2026-07-14 <a href="https://www.bing.com/th?id=OHR.MarieLake_ZH-CN4927917413_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.NavyPier_ZH-CN4649271588_UHD.jpg" alt="海军码头，芝加哥，伊利诺伊州，美国 (© Christopher.F Photography/Getty Images)" /><br>
+      2026-07-15 <a href="https://www.bing.com/th?id=OHR.NavyPier_ZH-CN4649271588_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
