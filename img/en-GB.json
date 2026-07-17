@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260616",
-    "url": "https://www.bing.com/th?id=OHR.TremolaRoad_EN-GB0467957598_UHD.jpg",
-    "copyright": "Tremola Road on the Saint Gotthard Pass in Airolo, Switzerland (© Sandro Bisaro/Getty Images)"
-  },
-  {
     "date": "20260617",
     "url": "https://www.bing.com/th?id=OHR.Saqsaywaman_EN-GB0811852640_UHD.jpg",
     "copyright": "Aerial view of the ruins of Sacsayhuamán, Cusco, Peru (© Creative-Family/Getty Images Plus)"
@@ -148,5 +143,10 @@
     "date": "20260715",
     "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_EN-GB5330505184_UHD.jpg",
     "copyright": "Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)"
+  },
+  {
+    "date": "20260716",
+    "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_EN-GB3361752741_UHD.jpg",
+    "copyright": "Blue sunbeds on a sandy beach in Vai, Crete, Greece (© borchee/Getty Images)"
   }
 ]

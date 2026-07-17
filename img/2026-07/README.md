@@ -71,4 +71,12 @@
       2026-07-15 <a href="https://www.bing.com/th?id=OHR.MarieLake_ROW3037907828_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.NavyPier_ROW3320288892_UHD.jpg" alt="Navy Pier, Chicago, Illinois, United States (© Christopher.F Photography/Getty Images)" /><br>
+      2026-07-16 <a href="https://www.bing.com/th?id=OHR.NavyPier_ROW3320288892_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

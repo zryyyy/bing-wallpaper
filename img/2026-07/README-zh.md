@@ -71,4 +71,12 @@
       2026-07-15 <a href="https://www.bing.com/th?id=OHR.NavyPier_ZH-CN4649271588_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg" alt="瓦伊海滩上的日光浴躺椅，克里特岛，希腊 (© borchee/Getty Images)" /><br>
+      2026-07-16 <a href="https://www.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
