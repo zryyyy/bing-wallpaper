@@ -76,7 +76,10 @@
       <img src="https://www.bing.com/th?id=OHR.NavyPier_ROW3320288892_UHD.jpg" alt="Navy Pier, Chicago, Illinois, United States (© Christopher.F Photography/Getty Images)" /><br>
       2026-07-16 <a href="https://www.bing.com/th?id=OHR.NavyPier_ROW3320288892_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.VaiUmbrellas_ROW3620558002_UHD.jpg" alt="Blue sunbeds on a sandy beach in Vai, Crete, Greece (© borchee/Getty Images)" /><br>
+      2026-07-17 <a href="https://www.bing.com/th?id=OHR.VaiUmbrellas_ROW3620558002_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

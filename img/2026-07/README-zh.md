@@ -76,7 +76,10 @@
       <img src="https://www.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg" alt="瓦伊海滩上的日光浴躺椅，克里特岛，希腊 (© borchee/Getty Images)" /><br>
       2026-07-16 <a href="https://www.bing.com/th?id=OHR.VaiUmbrellas_ZH-CN1271422272_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_UHD.jpg" alt="恶魔桥在克罗姆劳杜鹃花公园，萨克森州，德国 (© Mike Mareen/Getty Images)" /><br>
+      2026-07-17 <a href="https://www.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
