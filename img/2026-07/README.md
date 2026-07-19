@@ -80,6 +80,9 @@
       <img src="https://www.bing.com/th?id=OHR.VaiUmbrellas_ROW3620558002_UHD.jpg" alt="Blue sunbeds on a sandy beach in Vai, Crete, Greece (© borchee/Getty Images)" /><br>
       2026-07-17 <a href="https://www.bing.com/th?id=OHR.VaiUmbrellas_ROW3620558002_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.DevilsBridge_ROW3900508213_UHD.jpg" alt="Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)" /><br>
+      2026-07-18 <a href="https://www.bing.com/th?id=OHR.DevilsBridge_ROW3900508213_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

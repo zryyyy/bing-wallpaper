@@ -80,6 +80,9 @@
       <img src="https://www.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_UHD.jpg" alt="恶魔桥在克罗姆劳杜鹃花公园，萨克森州，德国 (© Mike Mareen/Getty Images)" /><br>
       2026-07-17 <a href="https://www.bing.com/th?id=OHR.DevilsBridge_ZH-CN2164982440_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg" alt="不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion)" /><br>
+      2026-07-18 <a href="https://www.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

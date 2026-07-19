@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260618",
-    "url": "https://www.bing.com/th?id=OHR.IsolaElba_EN-GB6917681747_UHD.jpg",
-    "copyright": "La Rocchetta Lighthouse, Piombino, Tuscany, Italy (© StevanZZ/Getty Images)"
-  },
-  {
     "date": "20260619",
     "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_EN-GB1807420935_UHD.jpg",
     "copyright": "Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)"
@@ -148,5 +143,10 @@
     "date": "20260717",
     "url": "https://www.bing.com/th?id=OHR.DevilsBridge_EN-GB3657419694_UHD.jpg",
     "copyright": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)"
+  },
+  {
+    "date": "20260718",
+    "url": "https://www.bing.com/th?id=OHR.HirundoRustica_EN-GB4164429315_UHD.jpg",
+    "copyright": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)"
   }
 ]
