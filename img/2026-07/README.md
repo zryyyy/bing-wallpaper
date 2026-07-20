@@ -85,4 +85,12 @@
       2026-07-18 <a href="https://www.bing.com/th?id=OHR.DevilsBridge_ROW3900508213_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.HirundoRustica_ROW4151191676_UHD.jpg" alt="Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)" /><br>
+      2026-07-19 <a href="https://www.bing.com/th?id=OHR.HirundoRustica_ROW4151191676_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

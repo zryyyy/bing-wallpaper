@@ -85,4 +85,12 @@
       2026-07-18 <a href="https://www.bing.com/th?id=OHR.HirundoRustica_ZH-CN2798518247_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_UHD.jpg" alt="月球与地球由阿耳忒弥斯2号机组人员拍摄 (© NASA)" /><br>
+      2026-07-19 <a href="https://www.bing.com/th?id=OHR.Artemis_ZH-CN3540365575_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
