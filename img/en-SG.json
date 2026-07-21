@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260620",
-    "url": "https://www.bing.com/th?id=OHR.ArchedIceberg_ROW4666187976_UHD.jpg",
-    "copyright": "Arched iceberg floating off the western Antarctic Peninsula, Southern Ocean (© Steven Kazlowski/Nature Picture Library)"
-  },
-  {
     "date": "20260621",
     "url": "https://www.bing.com/th?id=OHR.MillauViaductFrance_ROW0201721820_UHD.jpg",
     "copyright": "Millau Viaduct, France (© Sergi Reboredo/Alamy)"
@@ -148,5 +143,10 @@
     "date": "20260719",
     "url": "https://www.bing.com/th?id=OHR.HirundoRustica_ROW4151191676_UHD.jpg",
     "copyright": "Barn swallows of different subspecies resting together (© Oscar Dominguez/Tandem Stills + Motion)"
+  },
+  {
+    "date": "20260720",
+    "url": "https://www.bing.com/th?id=OHR.Artemis_ROW4185656902_UHD.jpg",
+    "copyright": "Moon and Earth captured by the Artemis II crew (© NASA)"
   }
 ]
