@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260621",
-    "url": "https://www.bing.com/th?id=OHR.EggDad_EN-US6390221455_UHD.jpg",
-    "copyright": "King penguin father checking egg (© McDonald Wildlife Photography Inc./Getty Images)"
-  },
-  {
     "date": "20260622",
     "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_UHD.jpg",
     "copyright": "Quinault rainforest, Olympic National Park, Washington state (© Chris Moore/Tandem Stills + Motion)"
@@ -148,5 +143,10 @@
     "date": "20260720",
     "url": "https://www.bing.com/th?id=OHR.Artemis_EN-US0683925849_UHD.jpg",
     "copyright": "Moon and Earth captured by the Artemis II crew (© NASA)"
+  },
+  {
+    "date": "20260721",
+    "url": "https://www.bing.com/th?id=OHR.SantaCatalina_EN-US1116829215_UHD.jpg",
+    "copyright": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)"
   }
 ]

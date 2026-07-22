@@ -94,6 +94,9 @@
       <img src="https://www.bing.com/th?id=OHR.Artemis_ROW4185656902_UHD.jpg" alt="Moon and Earth captured by the Artemis II crew (© NASA)" /><br>
       2026-07-20 <a href="https://www.bing.com/th?id=OHR.Artemis_ROW4185656902_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SantaCatalina_ROW4470617746_UHD.jpg" alt="Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)" /><br>
+      2026-07-21 <a href="https://www.bing.com/th?id=OHR.SantaCatalina_ROW4470617746_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

@@ -94,6 +94,9 @@
       <img src="https://www.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_UHD.jpg" alt="圣卡塔琳娜拱门，安提瓜，危地马拉 (© Filippo Maria Bianchi/Getty Images)" /><br>
       2026-07-20 <a href="https://www.bing.com/th?id=OHR.SantaCatalina_ZH-CN6223370790_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_UHD.jpg" alt="珊瑚礁与海滩在拉贾安帕特，印度尼西亚 (© SergeUWPhoto/Shutterstock)" /><br>
+      2026-07-21 <a href="https://www.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
