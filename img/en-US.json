@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260622",
-    "url": "https://www.bing.com/th?id=OHR.QuinaultFerns_EN-US6436576493_UHD.jpg",
-    "copyright": "Quinault rainforest, Olympic National Park, Washington state (© Chris Moore/Tandem Stills + Motion)"
-  },
-  {
     "date": "20260623",
     "url": "https://www.bing.com/th?id=OHR.Fujisan_EN-US6479372200_UHD.jpg",
     "copyright": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260721",
     "url": "https://www.bing.com/th?id=OHR.SantaCatalina_EN-US1116829215_UHD.jpg",
     "copyright": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)"
+  },
+  {
+    "date": "20260722",
+    "url": "https://www.bing.com/th?id=OHR.CoralAwareness_EN-US1824657819_UHD.jpg",
+    "copyright": "Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)"
   }
 ]

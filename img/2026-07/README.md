@@ -99,4 +99,12 @@
       2026-07-21 <a href="https://www.bing.com/th?id=OHR.SantaCatalina_ROW4470617746_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AurayBrittany_ROW4728433531_UHD.jpg" alt="Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)" /><br>
+      2026-07-22 <a href="https://www.bing.com/th?id=OHR.AurayBrittany_ROW4728433531_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

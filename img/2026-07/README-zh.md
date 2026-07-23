@@ -99,4 +99,12 @@
       2026-07-21 <a href="https://www.bing.com/th?id=OHR.CoralAwareness_ZH-CN1621627126_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_UHD.jpg" alt="粉红色大丽花 (© Harald Biebel/Getty Images)" /><br>
+      2026-07-22 <a href="https://www.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
