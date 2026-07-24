@@ -104,7 +104,10 @@
       <img src="https://www.bing.com/th?id=OHR.AurayBrittany_ROW4728433531_UHD.jpg" alt="Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)" /><br>
       2026-07-22 <a href="https://www.bing.com/th?id=OHR.AurayBrittany_ROW4728433531_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.PinkDahlia_ROW5018779817_UHD.jpg" alt="Pink dahlia flower (© Harald Biebel/Getty Images)" /><br>
+      2026-07-23 <a href="https://www.bing.com/th?id=OHR.PinkDahlia_ROW5018779817_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

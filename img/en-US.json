@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260623",
-    "url": "https://www.bing.com/th?id=OHR.Fujisan_EN-US6479372200_UHD.jpg",
-    "copyright": "Mount Fuji on Honshu Island, Japan (© phutthiseth thongtae/Getty Images)"
-  },
-  {
     "date": "20260624",
     "url": "https://www.bing.com/th?id=OHR.BFPollin_EN-US6519187095_UHD.jpg",
     "copyright": "Butterfly pollinating on yellow flower (© lzh/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260722",
     "url": "https://www.bing.com/th?id=OHR.CoralAwareness_EN-US1824657819_UHD.jpg",
     "copyright": "Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)"
+  },
+  {
+    "date": "20260723",
+    "url": "https://www.bing.com/th?id=OHR.PinkDahlia_EN-US1957205704_UHD.jpg",
+    "copyright": "Pink dahlia flower (© Harald Biebel/Getty Images)"
   }
 ]

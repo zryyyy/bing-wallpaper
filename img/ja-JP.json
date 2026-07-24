@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260623",
-    "url": "https://www.bing.com/th?id=OHR.BFPollin_JA-JP2026844024_UHD.jpg",
-    "copyright": "花の蜜を味わう蝶 (© lzh/Getty Images)"
-  },
-  {
     "date": "20260624",
     "url": "https://www.bing.com/th?id=OHR.LavenderSeason2026_JA-JP7050134160_UHD.jpg",
     "copyright": "ラベンダー畑, 北海道 中富良野町 (© Weiheng Pan/Getty Images Plus)"
@@ -148,5 +143,10 @@
     "date": "20260722",
     "url": "https://www.bing.com/th?id=OHR.PinkDahlia_JA-JP3415436544_UHD.jpg",
     "copyright": "ピンクのダリア (© Harald Biebel/Getty Images)"
+  },
+  {
+    "date": "20260723",
+    "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_JA-JP2749729014_UHD.jpg",
+    "copyright": "ベニイロフラミンゴ, エクアドル (© Tui De Roy/Nature Picture Library)"
   }
 ]

@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260623",
-    "url": "https://www.bing.com/th?id=OHR.BFPollin_ZH-CN7654067396_UHD.jpg",
-    "copyright": "蝴蝶正在黄花上授粉 (© lzh/Getty Images)"
-  },
-  {
     "date": "20260624",
     "url": "https://www.bing.com/th?id=OHR.GrandPlace_ZH-CN8806496436_UHD.jpg",
     "copyright": "布鲁塞尔大广场上的建筑群, 比利时 (© Vladislav Zolotov/Getty Images Plus)"
@@ -148,5 +143,10 @@
     "date": "20260722",
     "url": "https://www.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_UHD.jpg",
     "copyright": "粉红色大丽花 (© Harald Biebel/Getty Images)"
+  },
+  {
+    "date": "20260723",
+    "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_UHD.jpg",
+    "copyright": "美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Nature Picture Library)"
   }
 ]

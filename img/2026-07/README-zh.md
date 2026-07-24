@@ -104,7 +104,10 @@
       <img src="https://www.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_UHD.jpg" alt="粉红色大丽花 (© Harald Biebel/Getty Images)" /><br>
       2026-07-22 <a href="https://www.bing.com/th?id=OHR.PinkDahlia_ZH-CN2259107800_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_UHD.jpg" alt="美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Nature Picture Library)" /><br>
+      2026-07-23 <a href="https://www.bing.com/th?id=OHR.GalapagosFlamingos_ZH-CN1152519387_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
