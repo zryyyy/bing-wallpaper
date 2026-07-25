@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260624",
-    "url": "https://www.bing.com/th?id=OHR.GrandPlace_EN-GB4788838849_UHD.jpg",
-    "copyright": "Buildings on Grand-Place Square in Brussels, Belgium (© Vladislav Zolotov/Getty Images Plus)"
-  },
-  {
     "date": "20260625",
     "url": "https://www.bing.com/th?id=OHR.ThamesSummer_EN-GB9133126004_UHD.jpg",
     "copyright": "The River Thames, London (© Daniel Lange/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260723",
     "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_EN-GB4530568313_UHD.jpg",
     "copyright": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)"
+  },
+  {
+    "date": "20260724",
+    "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_EN-GB4804626985_UHD.jpg",
+    "copyright": "Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)"
   }
 ]

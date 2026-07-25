@@ -108,6 +108,9 @@
       <img src="https://www.bing.com/th?id=OHR.PinkDahlia_ROW5018779817_UHD.jpg" alt="Pink dahlia flower (© Harald Biebel/Getty Images)" /><br>
       2026-07-23 <a href="https://www.bing.com/th?id=OHR.PinkDahlia_ROW5018779817_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.GalapagosFlamingos_ROW2731476245_UHD.jpg" alt="Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)" /><br>
+      2026-07-24 <a href="https://www.bing.com/th?id=OHR.GalapagosFlamingos_ROW2731476245_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
