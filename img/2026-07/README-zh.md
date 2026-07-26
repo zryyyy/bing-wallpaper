@@ -113,4 +113,12 @@
       2026-07-24 <a href="https://www.bing.com/th?id=OHR.GaliciaBeach_ZH-CN1246611659_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg" alt="红树上的日出在小猪群岛，洪都拉斯 (© Mac Stone/Tandem Stills + Motion)" /><br>
+      2026-07-25 <a href="https://www.bing.com/th?id=OHR.RedMangroveSunrise_ZH-CN7940335392_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

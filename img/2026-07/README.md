@@ -113,4 +113,12 @@
       2026-07-24 <a href="https://www.bing.com/th?id=OHR.GalapagosFlamingos_ROW2731476245_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.IslaCristina_ROW3744341515_UHD.jpg" alt="Isla Cristina, Huelva, Spain (© MEDITERRANEAN/Getty Images)" /><br>
+      2026-07-25 <a href="https://www.bing.com/th?id=OHR.IslaCristina_ROW3744341515_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

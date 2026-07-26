@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260625",
-    "url": "https://www.bing.com/th?id=OHR.ThamesSummer_EN-GB9133126004_UHD.jpg",
-    "copyright": "The River Thames, London (© Daniel Lange/Getty Images)"
-  },
-  {
     "date": "20260626",
     "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_EN-GB1157661849_UHD.jpg",
     "copyright": "Driftwood on Boneyard Beach, Hunting Island, South Carolina, United States (© Frances/Adobe Stock)"
@@ -148,5 +143,10 @@
     "date": "20260724",
     "url": "https://www.bing.com/th?id=OHR.GaliciaBeach_EN-GB4804626985_UHD.jpg",
     "copyright": "Praia das Catedrais, Galicia, Spain (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)"
+  },
+  {
+    "date": "20260725",
+    "url": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_EN-GB5065847965_UHD.jpg",
+    "copyright": "Red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)"
   }
 ]
