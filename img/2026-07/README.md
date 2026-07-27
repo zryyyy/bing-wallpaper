@@ -118,7 +118,10 @@
       <img src="https://www.bing.com/th?id=OHR.IslaCristina_ROW3744341515_UHD.jpg" alt="Isla Cristina, Huelva, Spain (© MEDITERRANEAN/Getty Images)" /><br>
       2026-07-25 <a href="https://www.bing.com/th?id=OHR.IslaCristina_ROW3744341515_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.RedMangroveSunrise_ROW3783408236_UHD.jpg" alt="Sunrise on a red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)" /><br>
+      2026-07-26 <a href="https://www.bing.com/th?id=OHR.RedMangroveSunrise_ROW3783408236_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
