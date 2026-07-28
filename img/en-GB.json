@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260627",
-    "url": "https://www.bing.com/th?id=OHR.SaguaroSun_EN-GB1588043989_UHD.jpg",
-    "copyright": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)"
-  },
-  {
     "date": "20260628",
     "url": "https://www.bing.com/th?id=OHR.BoraBoraLagoon_EN-GB1950063282_UHD.jpg",
     "copyright": "Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)"
@@ -148,5 +143,10 @@
     "date": "20260726",
     "url": "https://www.bing.com/th?id=OHR.ChicagoTiffany_EN-GB5292533317_UHD.jpg",
     "copyright": "Tiffany Dome, Chicago Cultural Center, Illinois, United States (© Felix Lipov/Shutterstock)"
+  },
+  {
+    "date": "20260727",
+    "url": "https://www.bing.com/th?id=OHR.ChannelKelp_EN-GB5530574227_UHD.jpg",
+    "copyright": "A kelp forest off Anacapa Island, Channel Islands National Park, California, United States (© Ian Shive/Tandem Stills + Motion)"
   }
 ]

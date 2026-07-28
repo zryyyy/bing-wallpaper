@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260627",
-    "url": "https://www.bing.com/th?id=OHR.BoneyardBeach_EN-US8247496696_UHD.jpg",
-    "copyright": "Driftwood on Boneyard Beach, Hunting Island, South Carolina (© Frances/Adobe Stock)"
-  },
-  {
     "date": "20260628",
     "url": "https://www.bing.com/th?id=OHR.SaguaroSun_EN-US8982109543_UHD.jpg",
     "copyright": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, USA (© Eric Mischke/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260726",
     "url": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_EN-US2034025633_UHD.jpg",
     "copyright": "Sunrise on a red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)"
+  },
+  {
+    "date": "20260727",
+    "url": "https://www.bing.com/th?id=OHR.ChicagoTiffany_EN-US3297949501_UHD.jpg",
+    "copyright": "Tiffany Dome, Chicago Cultural Center, Illinois (© Felix Lipov/Shutterstock)"
   }
 ]
