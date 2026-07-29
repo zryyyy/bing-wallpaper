@@ -127,4 +127,12 @@
       2026-07-27 <a href="https://www.bing.com/th?id=OHR.SummerBC_ROW3830675043_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ChannelKelp_ROW4859123626_UHD.jpg" alt="A kelp forest off Anacapa Island, Channel Islands National Park, California, USA (© Ian Shive/Tandem Stills + Motion)" /><br>
+      2026-07-28 <a href="https://www.bing.com/th?id=OHR.ChannelKelp_ROW4859123626_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

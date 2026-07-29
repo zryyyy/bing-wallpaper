@@ -127,4 +127,12 @@
       2026-07-27 <a href="https://www.bing.com/th?id=OHR.ChannelKelp_ZH-CN8732903732_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.TigerFamily_ZH-CN9064744163_UHD.jpg" alt="孟加拉虎一家在兰坦博尔国家公园，拉贾斯坦邦，印度 (© Archna Singh/Shutterstock)" /><br>
+      2026-07-28 <a href="https://www.bing.com/th?id=OHR.TigerFamily_ZH-CN9064744163_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
