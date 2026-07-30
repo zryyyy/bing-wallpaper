@@ -132,7 +132,10 @@
       <img src="https://www.bing.com/th?id=OHR.ChannelKelp_ROW4859123626_UHD.jpg" alt="A kelp forest off Anacapa Island, Channel Islands National Park, California, USA (© Ian Shive/Tandem Stills + Motion)" /><br>
       2026-07-28 <a href="https://www.bing.com/th?id=OHR.ChannelKelp_ROW4859123626_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.TigerFamily_ROW4948587422_UHD.jpg" alt="A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)" /><br>
+      2026-07-29 <a href="https://www.bing.com/th?id=OHR.TigerFamily_ROW4948587422_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
