@@ -136,6 +136,9 @@
       <img src="https://www.bing.com/th?id=OHR.TigerFamily_ROW4948587422_UHD.jpg" alt="A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)" /><br>
       2026-07-29 <a href="https://www.bing.com/th?id=OHR.TigerFamily_ROW4948587422_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.NavajoNation_ROW6898030800_UHD.jpg" alt="Monument Valley, Navajo Nation, Arizona, United States (© Westend61/Adobe Stock)" /><br>
+      2026-07-30 <a href="https://www.bing.com/th?id=OHR.NavajoNation_ROW6898030800_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

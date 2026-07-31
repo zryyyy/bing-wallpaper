@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260630",
-    "url": "https://www.bing.com/th?id=OHR.DungeonPark_JA-JP3903067497_UHD.jpg",
-    "copyright": "ダンジョン州立公園, カナダ (© Kaitlyn McLachlan/Getty Images)"
-  },
-  {
     "date": "20260701",
     "url": "https://www.bing.com/th?id=OHR.TempleEsna_JA-JP0629204284_UHD.jpg",
     "copyright": "クヌム神に捧げられたエスナ神殿の天井, エジプト (© Nick Brundle Photography/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260729",
     "url": "https://www.bing.com/th?id=OHR.NavajoNation_JA-JP5174852282_UHD.jpg",
     "copyright": "モニュメント・バレー, 米国 アリゾナ州 (© Westend61/Adobe Stock)"
+  },
+  {
+    "date": "20260730",
+    "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_JA-JP5506669178_UHD.jpg",
+    "copyright": "バージニア・クリーパー・トレイル, 米国 バージニア州 (© Eifel Kreutz/Getty Images)"
   }
 ]
