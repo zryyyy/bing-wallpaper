@@ -141,4 +141,12 @@
       2026-07-30 <a href="https://www.bing.com/th?id=OHR.NavajoNation_ROW6898030800_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.VirginiaTrail_ROW8255476190_UHD.jpg" alt="Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images)" /><br>
+      2026-07-31 <a href="https://www.bing.com/th?id=OHR.VirginiaTrail_ROW8255476190_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

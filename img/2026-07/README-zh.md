@@ -141,4 +141,12 @@
       2026-07-30 <a href="https://www.bing.com/th?id=OHR.VirginiaTrail_ZH-CN2299501599_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg" alt="大批熔岩流涌入大洋，大岛，夏威夷州，美国 (© Ken McCurdy/Getty Images)" /><br>
+      2026-07-31 <a href="https://www.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

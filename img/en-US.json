@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260701",
-    "url": "https://www.bing.com/th?id=OHR.DungeonPark_EN-US2499621341_UHD.jpg",
-    "copyright": "Dungeon Provincial Park, Newfoundland and Labrador, Canada (© Kaitlyn McLachlan/Getty Images)"
-  },
-  {
     "date": "20260702",
     "url": "https://www.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg",
     "copyright": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260730",
     "url": "https://www.bing.com/th?id=OHR.NavajoNation_EN-US6947714656_UHD.jpg",
     "copyright": "Monument Valley, Navajo Nation, Arizona (© Westend61/Adobe Stock)"
+  },
+  {
+    "date": "20260731",
+    "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_UHD.jpg",
+    "copyright": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/Getty Images)"
   }
 ]
