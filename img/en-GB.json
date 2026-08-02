@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260702",
-    "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_EN-GB8401520779_UHD.jpg",
-    "copyright": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)"
-  },
-  {
     "date": "20260703",
     "url": "https://www.bing.com/th?id=OHR.PrideInLondon2026_EN-GB7157270875_UHD.jpg",
     "copyright": "London (© TomasSereda/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260731",
     "url": "https://www.bing.com/th?id=OHR.BrightonPride2026_EN-GB6665333938_UHD.jpg",
     "copyright": "Rainbow balloons at the pride parade in Brighton, East Sussex, England (© Joel Sharpe/Getty Images)"
+  },
+  {
+    "date": "20260801",
+    "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-GB6980168660_UHD.jpg",
+    "copyright": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)"
   }
 ]

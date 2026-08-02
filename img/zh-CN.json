@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260702",
-    "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_ZH-CN0071253415_UHD.jpg",
-    "copyright": "小溪上方的萤火虫，冈山县，日本 (© tdub303/Getty Images)"
-  },
-  {
     "date": "20260703",
     "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_ZH-CN0445080679_UHD.jpg",
     "copyright": "凯泽斯堡，阿尔萨斯，法国 (© Federica Gentile/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260731",
     "url": "https://www.bing.com/th?id=OHR.HawaiiLava_ZH-CN3257621771_UHD.jpg",
     "copyright": "大批熔岩流涌入大洋，大岛，夏威夷州，美国 (© Ken McCurdy/Getty Images)"
+  },
+  {
+    "date": "20260801",
+    "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_ZH-CN3961551568_UHD.jpg",
+    "copyright": "马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)"
   }
 ]

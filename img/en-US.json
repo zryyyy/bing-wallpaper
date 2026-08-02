@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260702",
-    "url": "https://www.bing.com/th?id=OHR.TempleEsna_EN-US1999215513_UHD.jpg",
-    "copyright": "Ceiling of the Temple of Esna, Egypt (© Nick Brundle Photography/Getty Images)"
-  },
-  {
     "date": "20260703",
     "url": "https://www.bing.com/th?id=OHR.FirefliesJapan_EN-US2315956275_UHD.jpg",
     "copyright": "Fireflies glowing above a stream, Okayama Prefecture, Japan (© tdub303/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260731",
     "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_EN-US9403114082_UHD.jpg",
     "copyright": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia (© Eifel Kreutz/Getty Images)"
+  },
+  {
+    "date": "20260801",
+    "url": "https://www.bing.com/th?id=OHR.HawaiiLava_EN-US4126737972_UHD.jpg",
+    "copyright": "A series of lava flows spill into the ocean, Big Island, Hawaii (© Ken McCurdy/Getty Images)"
   }
 ]
