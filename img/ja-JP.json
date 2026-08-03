@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260703",
-    "url": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_JA-JP8375436996_UHD.jpg",
-    "copyright": "イタハシヤマオオハシ, エクアドル (© Murray Cooper/Minden Pictures)"
-  },
-  {
     "date": "20260704",
     "url": "https://www.bing.com/th?id=OHR.LavenderRows_JA-JP9275300496_UHD.jpg",
     "copyright": "ヴァランソール高原, フランス (© Robert Harding/Shutterstock)"
@@ -148,5 +143,10 @@
     "date": "20260801",
     "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_JA-JP6468131752_UHD.jpg",
     "copyright": "ヘルシンキ, フィンランド (© Miemo Penttinen/Getty Images)"
+  },
+  {
+    "date": "20260802",
+    "url": "https://www.bing.com/th?id=OHR.BoatsMalta_JA-JP6685221242_UHD.jpg",
+    "copyright": "マルサシュロック, マルタ (© Klubovy/Getty Images)"
   }
 ]

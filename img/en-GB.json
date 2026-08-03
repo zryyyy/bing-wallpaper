@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260703",
-    "url": "https://www.bing.com/th?id=OHR.PrideInLondon2026_EN-GB7157270875_UHD.jpg",
-    "copyright": "London (© TomasSereda/Getty Images)"
-  },
-  {
     "date": "20260704",
     "url": "https://www.bing.com/th?id=OHR.LavenderRows_EN-GB8618053489_UHD.jpg",
     "copyright": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)"
@@ -148,5 +143,10 @@
     "date": "20260801",
     "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-GB6980168660_UHD.jpg",
     "copyright": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)"
+  },
+  {
+    "date": "20260802",
+    "url": "https://www.bing.com/th?id=OHR.BoatsMalta_EN-GB7267750671_UHD.jpg",
+    "copyright": "Colourful boats in Marsaxlokk Harbour, Malta (© Klubovy/Getty Images)"
   }
 ]
