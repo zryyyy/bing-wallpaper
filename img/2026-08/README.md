@@ -10,6 +10,9 @@
       <img src="https://www.bing.com/th?id=OHR.HelsinkiBlue_ROW0990097537_UHD.jpg" alt="Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)" /><br>
       2026-08-02 <a href="https://www.bing.com/th?id=OHR.HelsinkiBlue_ROW0990097537_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BoatsMalta_ROW6191359643_UHD.jpg" alt="Colourful boats in Marsaxlokk Harbour, Malta (© Klubovy/Getty Images)" /><br>
+      2026-08-03 <a href="https://www.bing.com/th?id=OHR.BoatsMalta_ROW6191359643_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
