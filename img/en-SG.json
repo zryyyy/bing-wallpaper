@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260705",
-    "url": "https://www.bing.com/th?id=OHR.LavenderRows_ROW8253115987_UHD.jpg",
-    "copyright": "Lavender rows, Plateau de Valensole, Provence, France (© Robert Harding/Shutterstock)"
-  },
-  {
     "date": "20260706",
     "url": "https://www.bing.com/th?id=OHR.SyracuseItaly_ROW8772538423_UHD.jpg",
     "copyright": "Syracuse at sunset, Sicily, Italy (© Balate Dorin/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260803",
     "url": "https://www.bing.com/th?id=OHR.BoatsMalta_ROW6191359643_UHD.jpg",
     "copyright": "Colourful boats in Marsaxlokk Harbour, Malta (© Klubovy/Getty Images)"
+  },
+  {
+    "date": "20260804",
+    "url": "https://www.bing.com/th?id=OHR.AdorableOwlet_ROW6516155898_UHD.jpg",
+    "copyright": "Florida burrowing owlet, Cape Coral, Florida, United States (© mlorenzphotography/Getty Images)"
   }
 ]

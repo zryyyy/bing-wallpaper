@@ -15,4 +15,12 @@
       2026-08-03 <a href="https://www.bing.com/th?id=OHR.AdorableOwlet_ZH-CN6929234033_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_UHD.jpg" alt="非斯皇宫装饰华丽的大门，摩洛哥 (© cgst26/Shutterstock)" /><br>
+      2026-08-04 <a href="https://www.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
