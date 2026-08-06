@@ -20,7 +20,10 @@
       <img src="https://www.bing.com/th?id=OHR.AdorableOwlet_ROW6516155898_UHD.jpg" alt="Florida burrowing owlet, Cape Coral, Florida, United States (© mlorenzphotography/Getty Images)" /><br>
       2026-08-04 <a href="https://www.bing.com/th?id=OHR.AdorableOwlet_ROW6516155898_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.FezMorocco_ROW6564333571_UHD.jpg" alt="Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)" /><br>
+      2026-08-05 <a href="https://www.bing.com/th?id=OHR.FezMorocco_ROW6564333571_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

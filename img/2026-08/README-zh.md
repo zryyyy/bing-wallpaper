@@ -20,7 +20,10 @@
       <img src="https://www.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_UHD.jpg" alt="非斯皇宫装饰华丽的大门，摩洛哥 (© cgst26/Shutterstock)" /><br>
       2026-08-04 <a href="https://www.bing.com/th?id=OHR.FezMorocco_ZH-CN7662339428_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_UHD.jpg" alt="马赛马拉迁徙的角马群横渡马拉河, 肯尼亚 (© Manoj Shah/Getty Images)" /><br>
+      2026-08-05 <a href="https://www.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
