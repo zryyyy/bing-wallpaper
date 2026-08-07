@@ -24,6 +24,9 @@
       <img src="https://www.bing.com/th?id=OHR.FezMorocco_ROW6564333571_UHD.jpg" alt="Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)" /><br>
       2026-08-05 <a href="https://www.bing.com/th?id=OHR.FezMorocco_ROW6564333571_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MaraCrossing_ROW6582779125_UHD.jpg" alt="Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)" /><br>
+      2026-08-06 <a href="https://www.bing.com/th?id=OHR.MaraCrossing_ROW6582779125_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

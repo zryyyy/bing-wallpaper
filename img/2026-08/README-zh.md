@@ -24,6 +24,9 @@
       <img src="https://www.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_UHD.jpg" alt="马赛马拉迁徙的角马群横渡马拉河, 肯尼亚 (© Manoj Shah/Getty Images)" /><br>
       2026-08-05 <a href="https://www.bing.com/th?id=OHR.MaraCrossing_ZH-CN8816902094_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.LimeKiln_ZH-CN5664152522_UHD.jpg" alt="圣胡安岛石灰窑灯塔，华盛顿州，美国 (© Edmund Lowe Photography/Shutterstock)" /><br>
+      2026-08-06 <a href="https://www.bing.com/th?id=OHR.LimeKiln_ZH-CN5664152522_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260707",
-    "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_EN-GB6255247922_UHD.jpg",
-    "copyright": "Lake Atitlán, Guatemala (© shayes17/Getty Images)"
-  },
-  {
     "date": "20260708",
     "url": "https://www.bing.com/th?id=OHR.SapaVietnam_EN-GB1434771886_UHD.jpg",
     "copyright": "Rice fields at Sapa, Lào Cai, Vietnam (© Anujak Jaimook/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260805",
     "url": "https://www.bing.com/th?id=OHR.MaraCrossing_EN-GB8480696688_UHD.jpg",
     "copyright": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)"
+  },
+  {
+    "date": "20260806",
+    "url": "https://www.bing.com/th?id=OHR.BristolBalloonFiesta2026_EN-GB3752871643_UHD.jpg",
+    "copyright": "Hot air balloons above Bristol city centre, England (© Rich Jones Photography/Moment/Getty Images)"
   }
 ]

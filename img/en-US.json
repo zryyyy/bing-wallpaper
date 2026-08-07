@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260707",
-    "url": "https://www.bing.com/th?id=OHR.MountainToucanOrchids_EN-US3433249651_UHD.jpg",
-    "copyright": "Plate-billed mountain toucan with orchids, Ecuador (© Murray Cooper/Minden Pictures)"
-  },
-  {
     "date": "20260708",
     "url": "https://www.bing.com/th?id=OHR.LakeAtitlan_EN-US3747076006_UHD.jpg",
     "copyright": "Sunrise at Lake Atitlán, Guatemala (© shayes17/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260805",
     "url": "https://www.bing.com/th?id=OHR.FezMorocco_EN-US8380353742_UHD.jpg",
     "copyright": "Decorated gate of the Royal Palace of Fez, Morocco (© cgst26/Shutterstock)"
+  },
+  {
+    "date": "20260806",
+    "url": "https://www.bing.com/th?id=OHR.MaraCrossing_EN-US8682968377_UHD.jpg",
+    "copyright": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)"
   }
 ]
