@@ -29,4 +29,12 @@
       2026-08-06 <a href="https://www.bing.com/th?id=OHR.LimeKiln_ZH-CN5664152522_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_UHD.jpg" alt="蒂斯河畔斯托克顿无限桥，英格兰 (© Bahadir Yeniceri/Shutterstock)" /><br>
+      2026-08-07 <a href="https://www.bing.com/th?id=OHR.StocktonInfinity_ZH-CN5941379745_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

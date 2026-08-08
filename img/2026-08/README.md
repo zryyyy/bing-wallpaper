@@ -29,4 +29,12 @@
       2026-08-06 <a href="https://www.bing.com/th?id=OHR.MaraCrossing_ROW6582779125_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ColorfulCop_ROW6097405388_UHD.jpg" alt="Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)" /><br>
+      2026-08-07 <a href="https://www.bing.com/th?id=OHR.ColorfulCop_ROW6097405388_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
