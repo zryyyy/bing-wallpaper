@@ -34,7 +34,10 @@
       <img src="https://www.bing.com/th?id=OHR.ColorfulCop_ROW6097405388_UHD.jpg" alt="Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)" /><br>
       2026-08-07 <a href="https://www.bing.com/th?id=OHR.ColorfulCop_ROW6097405388_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ValleyDreams_ROW6376883591_UHD.jpg" alt="Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico, United States (© Westend61/Getty Images)" /><br>
+      2026-08-08 <a href="https://www.bing.com/th?id=OHR.ValleyDreams_ROW6376883591_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
