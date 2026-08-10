@@ -38,6 +38,9 @@
       <img src="https://www.bing.com/th?id=OHR.ValleyDreams_ROW6376883591_UHD.jpg" alt="Hoodoos in Ah Shi Sle Pah Wilderness in San Juan County, New Mexico, United States (© Westend61/Getty Images)" /><br>
       2026-08-08 <a href="https://www.bing.com/th?id=OHR.ValleyDreams_ROW6376883591_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.JMTjibaou_ROW6533820010_UHD.jpg" alt="Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)" /><br>
+      2026-08-09 <a href="https://www.bing.com/th?id=OHR.JMTjibaou_ROW6533820010_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

@@ -38,6 +38,9 @@
       <img src="https://www.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_UHD.jpg" alt="让-马里·吉巴乌文化中心，新喀里多尼亚 (© Fabien Astre/Alamy)" /><br>
       2026-08-08 <a href="https://www.bing.com/th?id=OHR.JMTjibaou_ZH-CN6992670356_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_UHD.jpg" alt="约书亚树国家公园，加利福尼亚州，美国 (© JJ Landscapes/Getty Images)" /><br>
+      2026-08-09 <a href="https://www.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

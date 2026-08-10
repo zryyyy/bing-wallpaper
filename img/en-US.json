@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260710",
-    "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_EN-US7607379912_UHD.jpg",
-    "copyright": "Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)"
-  },
-  {
     "date": "20260711",
     "url": "https://www.bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg",
     "copyright": "Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)"
@@ -148,5 +143,10 @@
     "date": "20260808",
     "url": "https://www.bing.com/th?id=OHR.StocktonInfinity_EN-US3006724421_UHD.jpg",
     "copyright": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)"
+  },
+  {
+    "date": "20260809",
+    "url": "https://www.bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_UHD.jpg",
+    "copyright": "Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)"
   }
 ]
