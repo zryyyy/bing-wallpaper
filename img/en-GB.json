@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260711",
-    "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-GB4389807993_UHD.jpg",
-    "copyright": "Katahdin Woods and Waters National Monument, Maine, United States (© Cavan Images/Offset/Shutterstock)"
-  },
-  {
     "date": "20260712",
     "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_EN-GB4980697300_UHD.jpg",
     "copyright": "Antelope Canyon on the Navajo Nation, east of Page, Arizona, United States (© Mark Skalny/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260809",
     "url": "https://www.bing.com/th?id=OHR.SandPath_EN-GB4047990489_UHD.jpg",
     "copyright": "Joshua Tree National Park, California, United States (© JJ Landscapes/Getty Images)"
+  },
+  {
+    "date": "20260810",
+    "url": "https://www.bing.com/th?id=OHR.ColorfulCop_EN-GB4254714055_UHD.jpg",
+    "copyright": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)"
   }
 ]

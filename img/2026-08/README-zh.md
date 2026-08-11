@@ -43,4 +43,12 @@
       2026-08-09 <a href="https://www.bing.com/th?id=OHR.SandPath_ZH-CN7820825668_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_UHD.jpg" alt="哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦 (© emicristea/Getty Images)" /><br>
+      2026-08-10 <a href="https://www.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

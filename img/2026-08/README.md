@@ -43,4 +43,12 @@
       2026-08-09 <a href="https://www.bing.com/th?id=OHR.JMTjibaou_ROW6533820010_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.WhyteCliffP_ROW6700227959_UHD.jpg" alt="Whytecliff Park, West Vancouver, Canada (© Aolin Chen/Getty Images)" /><br>
+      2026-08-10 <a href="https://www.bing.com/th?id=OHR.WhyteCliffP_ROW6700227959_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

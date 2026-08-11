@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260711",
-    "url": "https://www.bing.com/th?id=OHR.AurayBrittany_EN-US7890619884_UHD.jpg",
-    "copyright": "Port de Saint-Goustan, Auray, Brittany, France (© Rolf E. Staerk/Shutterstock)"
-  },
-  {
     "date": "20260712",
     "url": "https://www.bing.com/th?id=OHR.KatahdinWWNM_EN-US8982810797_UHD.jpg",
     "copyright": "Katahdin Woods and Waters National Monument, Maine (© Cavan Images/Offset/Shutterstock)"
@@ -148,5 +143,10 @@
     "date": "20260809",
     "url": "https://www.bing.com/th?id=OHR.JMTjibaou_EN-US3454380257_UHD.jpg",
     "copyright": "Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)"
+  },
+  {
+    "date": "20260810",
+    "url": "https://www.bing.com/th?id=OHR.SandPath_EN-US3759872156_UHD.jpg",
+    "copyright": "Joshua Tree National Park, California (© JJ Landscapes/Getty Images)"
   }
 ]
