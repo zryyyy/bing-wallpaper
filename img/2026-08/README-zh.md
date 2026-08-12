@@ -48,7 +48,10 @@
       <img src="https://www.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_UHD.jpg" alt="哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦 (© emicristea/Getty Images)" /><br>
       2026-08-10 <a href="https://www.bing.com/th?id=OHR.ColorfulCop_ZH-CN8015611442_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_UHD.jpg" alt="安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)" /><br>
+      2026-08-11 <a href="https://www.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

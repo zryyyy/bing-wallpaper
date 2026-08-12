@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260712",
-    "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_JA-JP6458327046_UHD.jpg",
-    "copyright": "アンテロープ・キャニオン, 米国 アリゾナ州 (© Mark Skalny/Getty Images)"
-  },
-  {
     "date": "20260713",
     "url": "https://www.bing.com/th?id=OHR.LemonShark_JA-JP9266528977_UHD.jpg",
     "copyright": "レモンザメの幼魚, バハマ (© Shane Gross/Nature Picture Library)"
@@ -148,5 +143,10 @@
     "date": "20260810",
     "url": "https://www.bing.com/th?id=OHR.MountainDay2026_JA-JP4675980762_UHD.jpg",
     "copyright": "日本アルプス (© Sergey Alimov/Getty Images)"
+  },
+  {
+    "date": "20260811",
+    "url": "https://www.bing.com/th?id=OHR.ElephantDay_JA-JP5660368264_UHD.jpg",
+    "copyright": "ゾウの群れ, ケニア (© Ibrahim Suha Derbent/Getty Images)"
   }
 ]

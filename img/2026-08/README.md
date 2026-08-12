@@ -48,7 +48,10 @@
       <img src="https://www.bing.com/th?id=OHR.WhyteCliffP_ROW6700227959_UHD.jpg" alt="Whytecliff Park, West Vancouver, Canada (© Aolin Chen/Getty Images)" /><br>
       2026-08-10 <a href="https://www.bing.com/th?id=OHR.WhyteCliffP_ROW6700227959_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.LimeKiln_ROW6859587054_UHD.jpg" alt="Lime Kiln Lighthouse on San Juan Island, Washington state, United States (© Edmund Lowe Photography/Shutterstock)" /><br>
+      2026-08-11 <a href="https://www.bing.com/th?id=OHR.LimeKiln_ROW6859587054_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
