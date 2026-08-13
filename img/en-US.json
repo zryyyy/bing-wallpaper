@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260713",
-    "url": "https://www.bing.com/th?id=OHR.NavajoSandstone_EN-US9496264383_UHD.jpg",
-    "copyright": "Antelope Canyon on the Navajo Nation, east of Page, Arizona (© Mark Skalny/Getty Images)"
-  },
-  {
     "date": "20260714",
     "url": "https://www.bing.com/th?id=OHR.LemonShark_EN-US9828936448_UHD.jpg",
     "copyright": "Lemon shark pup in mangrove forest, Eleuthera, Bahamas (© Shane Gross/Nature Picture Library)"
@@ -148,5 +143,10 @@
     "date": "20260811",
     "url": "https://www.bing.com/th?id=OHR.ColorfulCop_EN-US3993977654_UHD.jpg",
     "copyright": "Colorful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)"
+  },
+  {
+    "date": "20260812",
+    "url": "https://www.bing.com/th?id=OHR.ElephantDay_EN-US4280370948_UHD.jpg",
+    "copyright": "A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)"
   }
 ]

@@ -52,6 +52,9 @@
       <img src="https://www.bing.com/th?id=OHR.LimeKiln_ROW6859587054_UHD.jpg" alt="Lime Kiln Lighthouse on San Juan Island, Washington state, United States (© Edmund Lowe Photography/Shutterstock)" /><br>
       2026-08-11 <a href="https://www.bing.com/th?id=OHR.LimeKiln_ROW6859587054_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ElephantDay_ROW7064675180_UHD.jpg" alt="A group of elephants, Amboseli National Park, Kenya (© Ibrahim Suha Derbent/Getty Images)" /><br>
+      2026-08-12 <a href="https://www.bing.com/th?id=OHR.ElephantDay_ROW7064675180_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

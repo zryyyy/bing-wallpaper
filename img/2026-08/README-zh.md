@@ -52,6 +52,9 @@
       <img src="https://www.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_UHD.jpg" alt="安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)" /><br>
       2026-08-11 <a href="https://www.bing.com/th?id=OHR.ElephantDay_ZH-CN8350171749_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_UHD.jpg" alt="泰德天文台上空的英仙座流星，加那利群岛，西班牙 (© Westend61/Getty Images)" /><br>
+      2026-08-12 <a href="https://www.bing.com/th?id=OHR.PerseidasTenerife_ZH-CN8520379683_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
