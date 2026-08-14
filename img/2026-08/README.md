@@ -57,4 +57,12 @@
       2026-08-12 <a href="https://www.bing.com/th?id=OHR.ElephantDay_ROW7064675180_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.PerseidasTenerife_ROW7214052413_UHD.jpg" alt="Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)" /><br>
+      2026-08-13 <a href="https://www.bing.com/th?id=OHR.PerseidasTenerife_ROW7214052413_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

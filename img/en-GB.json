@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260714",
-    "url": "https://www.bing.com/th?id=OHR.MarieLake_EN-GB7432567016_UHD.jpg",
-    "copyright": "Marie Lake, John Muir Wilderness near Bishop, California, United States (© Steve Dunleavy/Getty Images)"
-  },
-  {
     "date": "20260715",
     "url": "https://www.bing.com/th?id=OHR.VictoriaBeach_EN-GB5330505184_UHD.jpg",
     "copyright": "Aerial view of land and ocean, Victoria, Australia (© Nearmap/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260812",
     "url": "https://www.bing.com/th?id=OHR.PerseidasTenerife_EN-GB6939134267_UHD.jpg",
     "copyright": "Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)"
+  },
+  {
+    "date": "20260813",
+    "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_EN-GB5514216597_UHD.jpg",
+    "copyright": "Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)"
   }
 ]
