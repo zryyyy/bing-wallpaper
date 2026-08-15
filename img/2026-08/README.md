@@ -62,7 +62,10 @@
       <img src="https://www.bing.com/th?id=OHR.PerseidasTenerife_ROW7214052413_UHD.jpg" alt="Perseid meteors over Teide Observatory, Tenerife, Spain (© Westend61/Getty Images)" /><br>
       2026-08-13 <a href="https://www.bing.com/th?id=OHR.PerseidasTenerife_ROW7214052413_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Palmanova_ROW7371050659_UHD.jpg" alt="Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)" /><br>
+      2026-08-14 <a href="https://www.bing.com/th?id=OHR.Palmanova_ROW7371050659_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
