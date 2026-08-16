@@ -66,6 +66,9 @@
       <img src="https://www.bing.com/th?id=OHR.Palmanova_ROW7371050659_UHD.jpg" alt="Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)" /><br>
       2026-08-14 <a href="https://www.bing.com/th?id=OHR.Palmanova_ROW7371050659_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.StocktonInfinity_ROW7557207458_UHD.jpg" alt="Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)" /><br>
+      2026-08-15 <a href="https://www.bing.com/th?id=OHR.StocktonInfinity_ROW7557207458_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
