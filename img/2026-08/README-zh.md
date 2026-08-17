@@ -71,4 +71,12 @@
       2026-08-15 <a href="https://www.bing.com/th?id=OHR.RossErrillyRuins_ZH-CN9986322001_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_UHD.jpg" alt="海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾 (© Franco Banfi/Nature Picture Library)" /><br>
+      2026-08-16 <a href="https://www.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

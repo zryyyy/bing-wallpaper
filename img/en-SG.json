@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260717",
-    "url": "https://www.bing.com/th?id=OHR.VaiUmbrellas_ROW3620558002_UHD.jpg",
-    "copyright": "Blue sunbeds on a sandy beach in Vai, Crete, Greece (© borchee/Getty Images)"
-  },
-  {
     "date": "20260718",
     "url": "https://www.bing.com/th?id=OHR.DevilsBridge_ROW3900508213_UHD.jpg",
     "copyright": "Devil's Bridge in Rhododendron Park Kromlau, Saxony, Germany (© Mike Mareen/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260815",
     "url": "https://www.bing.com/th?id=OHR.StocktonInfinity_ROW7557207458_UHD.jpg",
     "copyright": "Infinity Bridge in Stockton-on-Tees, England (© Bahadir Yeniceri/Shutterstock)"
+  },
+  {
+    "date": "20260816",
+    "url": "https://www.bing.com/th?id=OHR.Furada_ROW7736094795_UHD.jpg",
+    "copyright": "Pedra Furada, Jericoacoara, Brazil (© Brendan van Son/Shutterstock)"
   }
 ]

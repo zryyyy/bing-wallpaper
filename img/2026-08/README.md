@@ -71,4 +71,12 @@
       2026-08-15 <a href="https://www.bing.com/th?id=OHR.StocktonInfinity_ROW7557207458_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Furada_ROW7736094795_UHD.jpg" alt="Pedra Furada, Jericoacoara, Brazil (© Brendan van Son/Shutterstock)" /><br>
+      2026-08-16 <a href="https://www.bing.com/th?id=OHR.Furada_ROW7736094795_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
