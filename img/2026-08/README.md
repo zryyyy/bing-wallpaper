@@ -76,7 +76,10 @@
       <img src="https://www.bing.com/th?id=OHR.Furada_ROW7736094795_UHD.jpg" alt="Pedra Furada, Jericoacoara, Brazil (© Brendan van Son/Shutterstock)" /><br>
       2026-08-16 <a href="https://www.bing.com/th?id=OHR.Furada_ROW7736094795_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.CabilaoClowns_ROW7942921985_UHD.jpg" alt="Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)" /><br>
+      2026-08-17 <a href="https://www.bing.com/th?id=OHR.CabilaoClowns_ROW7942921985_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

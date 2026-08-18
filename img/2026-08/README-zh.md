@@ -76,7 +76,10 @@
       <img src="https://www.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_UHD.jpg" alt="海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾 (© Franco Banfi/Nature Picture Library)" /><br>
       2026-08-16 <a href="https://www.bing.com/th?id=OHR.CabilaoClowns_ZH-CN0147033898_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_UHD.jpg" alt="弗留利要塞城市帕尔马诺瓦航拍图，意大利 (© Riccardo Saponi/Getty Images)" /><br>
+      2026-08-17 <a href="https://www.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
