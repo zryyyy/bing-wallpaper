@@ -80,6 +80,9 @@
       <img src="https://www.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_UHD.jpg" alt="弗留利要塞城市帕尔马诺瓦航拍图，意大利 (© Riccardo Saponi/Getty Images)" /><br>
       2026-08-17 <a href="https://www.bing.com/th?id=OHR.Palmanova_ZH-CN0378401592_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_UHD.jpg" alt="怀特克利夫公园，西温哥华，加拿大 (© Aolin Chen/Getty Images)" /><br>
+      2026-08-18 <a href="https://www.bing.com/th?id=OHR.WhyteCliffP_ZH-CN0573407830_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

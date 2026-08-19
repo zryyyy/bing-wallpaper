@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260719",
-    "url": "https://www.bing.com/th?id=OHR.Artemis_JA-JP1736021856_UHD.jpg",
-    "copyright": "月から見た地球 (© NASA)"
-  },
-  {
     "date": "20260720",
     "url": "https://www.bing.com/th?id=OHR.Kawagoe2026_JA-JP2060864918_UHD.jpg",
     "copyright": "川越氷川神社, 埼玉県 川越市 (© kudosstudio/Adobe)"
@@ -148,5 +143,10 @@
     "date": "20260817",
     "url": "https://www.bing.com/th?id=OHR.Palmanova_JA-JP7271854286_UHD.jpg",
     "copyright": "パルマノーヴァ, イタリア (© Riccardo Saponi/Getty Images)"
+  },
+  {
+    "date": "20260818",
+    "url": "https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_JA-JP7553811306_UHD.jpg",
+    "copyright": "エコダクト, ポーランド (© bbsferrari/Getty Images)"
   }
 ]

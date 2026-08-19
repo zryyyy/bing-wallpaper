@@ -80,6 +80,9 @@
       <img src="https://www.bing.com/th?id=OHR.CabilaoClowns_ROW7942921985_UHD.jpg" alt="Three false clownfish in a sea anemone, Cabilao Island, Bohol, Philippines (© Franco Banfi/Nature Picture Library)" /><br>
       2026-08-17 <a href="https://www.bing.com/th?id=OHR.CabilaoClowns_ROW7942921985_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_ROW8094277128_UHD.jpg" alt="Aerial view of a wildlife crossing near Zakrzów, Poland (© bbsferrari/Getty Images)" /><br>
+      2026-08-18 <a href="https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_ROW8094277128_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
