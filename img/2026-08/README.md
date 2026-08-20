@@ -85,4 +85,12 @@
       2026-08-18 <a href="https://www.bing.com/th?id=OHR.WildlifeCrossingPoland_ROW8094277128_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SandPath_ROW8239489384_UHD.jpg" alt="Joshua Tree National Park, California, United States (© JJ Landscapes/Getty Images)" /><br>
+      2026-08-19 <a href="https://www.bing.com/th?id=OHR.SandPath_ROW8239489384_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260720",
-    "url": "https://www.bing.com/th?id=OHR.SantaCatalina_EN-GB4642325508_UHD.jpg",
-    "copyright": "Santa Catalina Arch, Antigua, Guatemala (© Filippo Maria Bianchi/Getty Images)"
-  },
-  {
     "date": "20260721",
     "url": "https://www.bing.com/th?id=OHR.CoralAwareness_EN-GB4982611770_UHD.jpg",
     "copyright": "Coral reef and beach in Raja Ampat, Indonesia (© SergeUWPhoto/Shutterstock)"
@@ -148,5 +143,10 @@
     "date": "20260818",
     "url": "https://www.bing.com/th?id=OHR.WhyteCliffP_EN-GB6122204864_UHD.jpg",
     "copyright": "Whytecliff Park in West Vancouver, British Columbia, Canada (© Aolin Chen/Getty Images)"
+  },
+  {
+    "date": "20260819",
+    "url": "https://www.bing.com/th?id=OHR.LynnCanalOrca_EN-GB6204959413_UHD.jpg",
+    "copyright": "An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska, United States (© John Hyde/Alamy)"
   }
 ]
