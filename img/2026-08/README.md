@@ -90,7 +90,10 @@
       <img src="https://www.bing.com/th?id=OHR.SandPath_ROW8239489384_UHD.jpg" alt="Joshua Tree National Park, California, United States (© JJ Landscapes/Getty Images)" /><br>
       2026-08-19 <a href="https://www.bing.com/th?id=OHR.SandPath_ROW8239489384_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.LynnCanalOrca_ROW8459582696_UHD.jpg" alt="An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska, United States (© John Hyde/Alamy)" /><br>
+      2026-08-20 <a href="https://www.bing.com/th?id=OHR.LynnCanalOrca_ROW8459582696_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

@@ -90,7 +90,10 @@
       <img src="https://www.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg" alt="林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国 (© John Hyde/Alamy)" /><br>
       2026-08-19 <a href="https://www.bing.com/th?id=OHR.LynnCanalOrca_ZH-CN0719217908_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_UHD.jpg" alt="尤利尔山口蜿蜒的公路，瑞士 (© Westend61/Getty Images)" /><br>
+      2026-08-20 <a href="https://www.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
