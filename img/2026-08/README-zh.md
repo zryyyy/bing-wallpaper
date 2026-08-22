@@ -94,6 +94,9 @@
       <img src="https://www.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_UHD.jpg" alt="尤利尔山口蜿蜒的公路，瑞士 (© Westend61/Getty Images)" /><br>
       2026-08-20 <a href="https://www.bing.com/th?id=OHR.JulierPass_ZH-CN3064797820_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_UHD.jpg" alt="普通蓝灰蝶，德文郡，英格兰 (© Ross Hoddinott/Nature Picture Library)" /><br>
+      2026-08-21 <a href="https://www.bing.com/th?id=OHR.CommonBlue_ZH-CN8521430009_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

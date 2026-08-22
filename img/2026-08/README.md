@@ -94,6 +94,9 @@
       <img src="https://www.bing.com/th?id=OHR.LynnCanalOrca_ROW8459582696_UHD.jpg" alt="An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska, United States (© John Hyde/Alamy)" /><br>
       2026-08-20 <a href="https://www.bing.com/th?id=OHR.LynnCanalOrca_ROW8459582696_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.JulierPass_ROW4042203913_UHD.jpg" alt="Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)" /><br>
+      2026-08-21 <a href="https://www.bing.com/th?id=OHR.JulierPass_ROW4042203913_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
