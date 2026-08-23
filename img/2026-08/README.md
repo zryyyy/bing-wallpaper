@@ -99,4 +99,12 @@
       2026-08-21 <a href="https://www.bing.com/th?id=OHR.JulierPass_ROW4042203913_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.CommonBlue_ROW4481033991_UHD.jpg" alt="Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)" /><br>
+      2026-08-22 <a href="https://www.bing.com/th?id=OHR.CommonBlue_ROW4481033991_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
