@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260724",
-    "url": "https://www.bing.com/th?id=OHR.GalapagosFlamingos_ROW2731476245_UHD.jpg",
-    "copyright": "Flock of American flamingos, Isabela Island, Galápagos Islands, Ecuador (© Tui De Roy/Nature Picture Library)"
-  },
-  {
     "date": "20260725",
     "url": "https://www.bing.com/th?id=OHR.IslaCristina_ROW3744341515_UHD.jpg",
     "copyright": "Isla Cristina, Huelva, Spain (© MEDITERRANEAN/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260822",
     "url": "https://www.bing.com/th?id=OHR.CommonBlue_ROW4481033991_UHD.jpg",
     "copyright": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)"
+  },
+  {
+    "date": "20260823",
+    "url": "https://www.bing.com/th?id=OHR.KatmaiBear_ROW4890016899_UHD.jpg",
+    "copyright": "Brown bear fishing in river, Katmai National Park, Alaska, United States (© Pal Hermansen/Nature Picture Library)"
   }
 ]

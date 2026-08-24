@@ -104,7 +104,10 @@
       <img src="https://www.bing.com/th?id=OHR.EndofHeatY26_ZH-CN8936468848_UHD.jpg" alt="在处暑时节的村庄田野与寺庙佛塔，江阴市，江苏省，中国 (© jia yu/Getty Images)" /><br>
       2026-08-22 <a href="https://www.bing.com/th?id=OHR.EndofHeatY26_ZH-CN8936468848_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BKBridge_ZH-CN3870511222_UHD.jpg" alt="布鲁克林大桥，纽约市，美国 (© shayes17/Getty Images)" /><br>
+      2026-08-23 <a href="https://www.bing.com/th?id=OHR.BKBridge_ZH-CN3870511222_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
