@@ -108,6 +108,9 @@
       <img src="https://www.bing.com/th?id=OHR.KatmaiBear_ROW4890016899_UHD.jpg" alt="Brown bear fishing in river, Katmai National Park, Alaska, United States (© Pal Hermansen/Nature Picture Library)" /><br>
       2026-08-23 <a href="https://www.bing.com/th?id=OHR.KatmaiBear_ROW4890016899_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BKBridge_ROW5406513289_UHD.jpg" alt="Brooklyn Bridge, New York City, United States (© shayes17/Getty Images)" /><br>
+      2026-08-24 <a href="https://www.bing.com/th?id=OHR.BKBridge_ROW5406513289_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

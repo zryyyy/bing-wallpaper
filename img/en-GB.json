@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260725",
-    "url": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_EN-GB5065847965_UHD.jpg",
-    "copyright": "Red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)"
-  },
-  {
     "date": "20260726",
     "url": "https://www.bing.com/th?id=OHR.ChicagoTiffany_EN-GB5292533317_UHD.jpg",
     "copyright": "Tiffany Dome, Chicago Cultural Center, Illinois, United States (© Felix Lipov/Shutterstock)"
@@ -148,5 +143,10 @@
     "date": "20260823",
     "url": "https://www.bing.com/th?id=OHR.BKBridge_EN-GB1324235273_UHD.jpg",
     "copyright": "Brooklyn Bridge, New York City, United States (© shayes17/Getty Images)"
+  },
+  {
+    "date": "20260824",
+    "url": "https://www.bing.com/th?id=OHR.SantaCatarina_EN-GB1458336075_UHD.jpg",
+    "copyright": "Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)"
   }
 ]
