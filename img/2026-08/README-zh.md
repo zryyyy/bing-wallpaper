@@ -113,4 +113,12 @@
       2026-08-24 <a href="https://www.bing.com/th?id=OHR.RedwoodPark_ZH-CN9513051062_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg" alt="基尔丘山上空的极光，冰岛 (© Cavan Images/Alamy)" /><br>
+      2026-08-25 <a href="https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

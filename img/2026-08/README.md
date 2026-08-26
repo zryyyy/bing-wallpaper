@@ -113,4 +113,12 @@
       2026-08-24 <a href="https://www.bing.com/th?id=OHR.BKBridge_ROW5406513289_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.RedwoodPark_ROW5740708229_UHD.jpg" alt="Sunrise in Redwood National and State Parks, California, United States (© HadelProductions/Getty Images)" /><br>
+      2026-08-25 <a href="https://www.bing.com/th?id=OHR.RedwoodPark_ROW5740708229_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

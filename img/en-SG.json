@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260726",
-    "url": "https://www.bing.com/th?id=OHR.RedMangroveSunrise_ROW3783408236_UHD.jpg",
-    "copyright": "Sunrise on a red mangrove in the Pig Keys, Honduras (© Mac Stone/Tandem Stills + Motion)"
-  },
-  {
     "date": "20260727",
     "url": "https://www.bing.com/th?id=OHR.SummerBC_ROW3830675043_UHD.jpg",
     "copyright": "Emerald Lake, Yoho National Park, British Columbia, Canada (© Olga Matveeva/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260824",
     "url": "https://www.bing.com/th?id=OHR.BKBridge_ROW5406513289_UHD.jpg",
     "copyright": "Brooklyn Bridge, New York City, United States (© shayes17/Getty Images)"
+  },
+  {
+    "date": "20260825",
+    "url": "https://www.bing.com/th?id=OHR.RedwoodPark_ROW5740708229_UHD.jpg",
+    "copyright": "Sunrise in Redwood National and State Parks, California, United States (© HadelProductions/Getty Images)"
   }
 ]
