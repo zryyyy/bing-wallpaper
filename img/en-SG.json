@@ -1,15 +1,5 @@
 [
   {
-    "date": "20260727",
-    "url": "https://www.bing.com/th?id=OHR.SummerBC_ROW3830675043_UHD.jpg",
-    "copyright": "Emerald Lake, Yoho National Park, British Columbia, Canada (© Olga Matveeva/Getty Images)"
-  },
-  {
-    "date": "20260728",
-    "url": "https://www.bing.com/th?id=OHR.ChannelKelp_ROW4859123626_UHD.jpg",
-    "copyright": "A kelp forest off Anacapa Island, Channel Islands National Park, California, USA (© Ian Shive/Tandem Stills + Motion)"
-  },
-  {
     "date": "20260729",
     "url": "https://www.bing.com/th?id=OHR.TigerFamily_ROW4948587422_UHD.jpg",
     "copyright": "A family of Bengal tigers at Ranthambore National Park, Rajasthan, India (© Archna Singh/Shutterstock)"
@@ -148,5 +138,15 @@
     "date": "20260825",
     "url": "https://www.bing.com/th?id=OHR.RedwoodPark_ROW5740708229_UHD.jpg",
     "copyright": "Sunrise in Redwood National and State Parks, California, United States (© HadelProductions/Getty Images)"
+  },
+  {
+    "date": "20260826",
+    "url": "https://www.bing.com/th?id=OHR.AurorasIceland_ROW6294379114_UHD.jpg",
+    "copyright": "Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)"
+  },
+  {
+    "date": "20260827",
+    "url": "https://www.bing.com/th?id=OHR.LakeMagadi_ROW6887242207_UHD.jpg",
+    "copyright": "Lesser flamingo flock at sunrise, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)"
   }
 ]

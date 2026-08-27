@@ -118,7 +118,13 @@
       <img src="https://www.bing.com/th?id=OHR.RedwoodPark_ROW5740708229_UHD.jpg" alt="Sunrise in Redwood National and State Parks, California, United States (© HadelProductions/Getty Images)" /><br>
       2026-08-25 <a href="https://www.bing.com/th?id=OHR.RedwoodPark_ROW5740708229_UHD.jpg">Download</a>
     </td>
-    <td></td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AurorasIceland_ROW6294379114_UHD.jpg" alt="Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)" /><br>
+      2026-08-26 <a href="https://www.bing.com/th?id=OHR.AurorasIceland_ROW6294379114_UHD.jpg">Download</a>
+    </td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.LakeMagadi_ROW6887242207_UHD.jpg" alt="Lesser flamingo flock at sunrise, Lake Magadi, Kenya (© Denis-Huot/Nature Picture Library)" /><br>
+      2026-08-27 <a href="https://www.bing.com/th?id=OHR.LakeMagadi_ROW6887242207_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

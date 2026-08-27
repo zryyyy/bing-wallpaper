@@ -118,7 +118,10 @@
       <img src="https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg" alt="基尔丘山上空的极光，冰岛 (© Cavan Images/Alamy)" /><br>
       2026-08-25 <a href="https://www.bing.com/th?id=OHR.AurorasIceland_ZH-CN9781322454_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_UHD.jpg" alt="日出时的小红鹳群，马加迪湖，肯尼亚 (© Denis-Huot/Nature Picture Library)" /><br>
+      2026-08-26 <a href="https://www.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
