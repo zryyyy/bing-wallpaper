@@ -122,6 +122,9 @@
       <img src="https://www.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_UHD.jpg" alt="日出时的小红鹳群，马加迪湖，肯尼亚 (© Denis-Huot/Nature Picture Library)" /><br>
       2026-08-26 <a href="https://www.bing.com/th?id=OHR.LakeMagadi_ZH-CN0601527009_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MichelSunset_ZH-CN0822968543_UHD.jpg" alt="涨潮时的圣米歇尔山，芒什省，诺曼底，法国 (© Clement LEONARD/Getty Images)" /><br>
+      2026-08-27 <a href="https://www.bing.com/th?id=OHR.MichelSunset_ZH-CN0822968543_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

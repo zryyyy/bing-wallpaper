@@ -127,4 +127,12 @@
       2026-08-27 <a href="https://www.bing.com/th?id=OHR.LakeMagadi_ROW6887242207_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MichelSunset_ROW7306712328_UHD.jpg" alt="Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)" /><br>
+      2026-08-28 <a href="https://www.bing.com/th?id=OHR.MichelSunset_ROW7306712328_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
