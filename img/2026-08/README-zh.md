@@ -127,4 +127,12 @@
       2026-08-27 <a href="https://www.bing.com/th?id=OHR.MichelSunset_ZH-CN0822968543_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_UHD.jpg" alt="冲浪者航拍图，圣卡塔琳娜州，巴西 (© Wonderful Nature/Shutterstock)" /><br>
+      2026-08-28 <a href="https://www.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260729",
-    "url": "https://www.bing.com/th?id=OHR.NavajoNation_EN-GB6080318819_UHD.jpg",
-    "copyright": "Monument Valley, Navajo Nation, Arizona, United States (© Westend61/Adobe Stock)"
-  },
-  {
     "date": "20260730",
     "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_EN-GB6394833598_UHD.jpg",
     "copyright": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260827",
     "url": "https://www.bing.com/th?id=OHR.MichelSunset_EN-GB1738815139_UHD.jpg",
     "copyright": "Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)"
+  },
+  {
+    "date": "20260828",
+    "url": "https://www.bing.com/th?id=OHR.NottingHillCarnival2026_EN-GB1828107135_UHD.jpg",
+    "copyright": "Notting Hill Carnival, London (© Sebastian Remme/Alamy Live News)"
   }
 ]

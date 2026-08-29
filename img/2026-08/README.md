@@ -132,7 +132,10 @@
       <img src="https://www.bing.com/th?id=OHR.MichelSunset_ROW7306712328_UHD.jpg" alt="Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)" /><br>
       2026-08-28 <a href="https://www.bing.com/th?id=OHR.MichelSunset_ROW7306712328_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.LloretdeMar_ROW9048268267_UHD.jpg" alt="Camí de Ronda, Lloret de Mar, Catalonia, Spain (© MEDITERRANEAN/Getty Images)" /><br>
+      2026-08-29 <a href="https://www.bing.com/th?id=OHR.LloretdeMar_ROW9048268267_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
