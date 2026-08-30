@@ -132,7 +132,10 @@
       <img src="https://www.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_UHD.jpg" alt="冲浪者航拍图，圣卡塔琳娜州，巴西 (© Wonderful Nature/Shutterstock)" /><br>
       2026-08-28 <a href="https://www.bing.com/th?id=OHR.SantaCatarina_ZH-CN4170292043_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg" alt="鲸鲨与黄金鲹，极乐鸟湾，西巴布亚，印度尼西亚 (© Pete Oxford/Nature Picture Library)" /><br>
+      2026-08-29 <a href="https://www.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
