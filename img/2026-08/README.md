@@ -136,6 +136,9 @@
       <img src="https://www.bing.com/th?id=OHR.LloretdeMar_ROW9048268267_UHD.jpg" alt="Camí de Ronda, Lloret de Mar, Catalonia, Spain (© MEDITERRANEAN/Getty Images)" /><br>
       2026-08-29 <a href="https://www.bing.com/th?id=OHR.LloretdeMar_ROW9048268267_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.YellowShark_ROW3439446140_UHD.jpg" alt="Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)" /><br>
+      2026-08-30 <a href="https://www.bing.com/th?id=OHR.YellowShark_ROW3439446140_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

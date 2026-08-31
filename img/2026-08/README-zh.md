@@ -136,6 +136,9 @@
       <img src="https://www.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg" alt="鲸鲨与黄金鲹，极乐鸟湾，西巴布亚，印度尼西亚 (© Pete Oxford/Nature Picture Library)" /><br>
       2026-08-29 <a href="https://www.bing.com/th?id=OHR.YellowShark_ZH-CN1570569826_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_UHD.jpg" alt="雷吉斯坦广场的建筑细节，撒马尔罕，乌兹别克斯坦 (© Piero M. Bianchi/Getty Images)" /><br>
+      2026-08-30 <a href="https://www.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

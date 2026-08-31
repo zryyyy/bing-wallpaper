@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260731",
-    "url": "https://www.bing.com/th?id=OHR.BrightonPride2026_EN-GB6665333938_UHD.jpg",
-    "copyright": "Rainbow balloons at the pride parade in Brighton, East Sussex, England (© Joel Sharpe/Getty Images)"
-  },
-  {
     "date": "20260801",
     "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-GB6980168660_UHD.jpg",
     "copyright": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260829",
     "url": "https://www.bing.com/th?id=OHR.YellowShark_EN-GB1905405727_UHD.jpg",
     "copyright": "Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)"
+  },
+  {
+    "date": "20260830",
+    "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-GB2027090405_UHD.jpg",
+    "copyright": "Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)"
   }
 ]

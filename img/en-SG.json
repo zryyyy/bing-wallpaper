@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260731",
-    "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_ROW8255476190_UHD.jpg",
-    "copyright": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images)"
-  },
-  {
     "date": "20260801",
     "url": "https://www.bing.com/th?id=OHR.HawaiiLava_ROW7372744216_UHD.jpg",
     "copyright": "A series of lava flows spill into the ocean, Big Island, Hawaii, United States (© Ken McCurdy/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260829",
     "url": "https://www.bing.com/th?id=OHR.LloretdeMar_ROW9048268267_UHD.jpg",
     "copyright": "Camí de Ronda, Lloret de Mar, Catalonia, Spain (© MEDITERRANEAN/Getty Images)"
+  },
+  {
+    "date": "20260830",
+    "url": "https://www.bing.com/th?id=OHR.YellowShark_ROW3439446140_UHD.jpg",
+    "copyright": "Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)"
   }
 ]
