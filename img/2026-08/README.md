@@ -141,4 +141,12 @@
       2026-08-30 <a href="https://www.bing.com/th?id=OHR.YellowShark_ROW3439446140_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SellinSunrise_ROW9214234977_UHD.jpg" alt="Sellin Pier, Rügen, Germany (© bluejayphoto/Getty Images)" /><br>
+      2026-08-31 <a href="https://www.bing.com/th?id=OHR.SellinSunrise_ROW9214234977_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

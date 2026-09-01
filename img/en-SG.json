@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260801",
-    "url": "https://www.bing.com/th?id=OHR.HawaiiLava_ROW7372744216_UHD.jpg",
-    "copyright": "A series of lava flows spill into the ocean, Big Island, Hawaii, United States (© Ken McCurdy/Getty Images)"
-  },
-  {
     "date": "20260802",
     "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_ROW0990097537_UHD.jpg",
     "copyright": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260830",
     "url": "https://www.bing.com/th?id=OHR.YellowShark_ROW3439446140_UHD.jpg",
     "copyright": "Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)"
+  },
+  {
+    "date": "20260831",
+    "url": "https://www.bing.com/th?id=OHR.SellinSunrise_ROW9214234977_UHD.jpg",
+    "copyright": "Sellin Pier, Rügen, Germany (© bluejayphoto/Getty Images)"
   }
 ]

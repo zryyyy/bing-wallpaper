@@ -141,4 +141,12 @@
       2026-08-30 <a href="https://www.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg" alt="马鬃小皮伞，白俄罗斯 (© Máté/Nature Picture Library)" /><br>
+      2026-08-31 <a href="https://www.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
