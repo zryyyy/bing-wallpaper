@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260802",
-    "url": "https://www.bing.com/th?id=OHR.HelsinkiBlue_EN-US4898215906_UHD.jpg",
-    "copyright": "Helsinki's shoreline during blue hour, Uusimaa, Finland (© Miemo Penttinen/Getty Images)"
-  },
-  {
     "date": "20260803",
     "url": "https://www.bing.com/th?id=OHR.BoatsMalta_EN-US5373607495_UHD.jpg",
     "copyright": "Colorful boats in Marsaxlokk Harbor, Malta (© Klubovy/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260831",
     "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_UHD.jpg",
     "copyright": "Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)"
+  },
+  {
+    "date": "20260901",
+    "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_EN-US3885857486_UHD.jpg",
+    "copyright": "Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)"
   }
 ]
