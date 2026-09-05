@@ -15,4 +15,12 @@
       2026-09-03 <a href="https://www.bing.com/th?id=OHR.Westerheversand_ZH-CN0517707643_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.GreenCrowned_ZH-CN0697075036_UHD.jpg" alt="龙虾爪花上取食的绿顶辉蜂鸟，哥斯达黎加 (© Paul Hobson/Nature Picture Library)" /><br>
+      2026-09-04 <a href="https://www.bing.com/th?id=OHR.GreenCrowned_ZH-CN0697075036_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

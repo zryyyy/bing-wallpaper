@@ -15,4 +15,12 @@
       2026-09-03 <a href="https://www.bing.com/th?id=OHR.AZWilderness_ROW6879233352_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Westerheversand_ROW0428047340_UHD.jpg" alt="Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)" /><br>
+      2026-09-04 <a href="https://www.bing.com/th?id=OHR.Westerheversand_ROW0428047340_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

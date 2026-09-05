@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260805",
-    "url": "https://www.bing.com/th?id=OHR.MaraCrossing_EN-GB8480696688_UHD.jpg",
-    "copyright": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)"
-  },
-  {
     "date": "20260806",
     "url": "https://www.bing.com/th?id=OHR.BristolBalloonFiesta2026_EN-GB3752871643_UHD.jpg",
     "copyright": "Hot air balloons above Bristol city centre, England (© Rich Jones Photography/Moment/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260903",
     "url": "https://www.bing.com/th?id=OHR.Westerheversand_EN-GB5592839708_UHD.jpg",
     "copyright": "Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)"
+  },
+  {
+    "date": "20260904",
+    "url": "https://www.bing.com/th?id=OHR.SardineBait_EN-GB5662354179_UHD.jpg",
+    "copyright": "California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)"
   }
 ]
