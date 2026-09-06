@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260806",
-    "url": "https://www.bing.com/th?id=OHR.MaraCrossing_ROW6582779125_UHD.jpg",
-    "copyright": "Migrating wildebeest crossing Mara River in Masai Mara, Kenya (© Manoj Shah/Getty Images)"
-  },
-  {
     "date": "20260807",
     "url": "https://www.bing.com/th?id=OHR.ColorfulCop_ROW6097405388_UHD.jpg",
     "copyright": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260904",
     "url": "https://www.bing.com/th?id=OHR.Westerheversand_ROW0428047340_UHD.jpg",
     "copyright": "Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)"
+  },
+  {
+    "date": "20260905",
+    "url": "https://www.bing.com/th?id=OHR.GreenCrowned_ROW0730008155_UHD.jpg",
+    "copyright": "Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)"
   }
 ]

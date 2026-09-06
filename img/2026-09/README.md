@@ -20,7 +20,10 @@
       <img src="https://www.bing.com/th?id=OHR.Westerheversand_ROW0428047340_UHD.jpg" alt="Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)" /><br>
       2026-09-04 <a href="https://www.bing.com/th?id=OHR.Westerheversand_ROW0428047340_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.GreenCrowned_ROW0730008155_UHD.jpg" alt="Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)" /><br>
+      2026-09-05 <a href="https://www.bing.com/th?id=OHR.GreenCrowned_ROW0730008155_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
