@@ -24,6 +24,9 @@
       <img src="https://www.bing.com/th?id=OHR.GreenCrowned_ROW0730008155_UHD.jpg" alt="Green-crowned brilliant hummingbirds feeding on lobster-claw flowers, Costa Rica (© Paul Hobson/Nature Picture Library)" /><br>
       2026-09-05 <a href="https://www.bing.com/th?id=OHR.GreenCrowned_ROW0730008155_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.LakeFyans_ROW1462162104_UHD.jpg" alt="Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)" /><br>
+      2026-09-06 <a href="https://www.bing.com/th?id=OHR.LakeFyans_ROW1462162104_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

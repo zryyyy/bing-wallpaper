@@ -24,6 +24,9 @@
       <img src="https://www.bing.com/th?id=OHR.LakeFyans_ZH-CN1067187791_UHD.jpg" alt="菲安斯湖，格兰屏国家公园，维多利亚州，澳大利亚 (© tracielouise/Getty Images)" /><br>
       2026-09-05 <a href="https://www.bing.com/th?id=OHR.LakeFyans_ZH-CN1067187791_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BambergTownhall_ZH-CN1407954732_UHD.jpg" alt="老市政厅，班贝格，德国 (© SCStock/Getty Images)" /><br>
+      2026-09-06 <a href="https://www.bing.com/th?id=OHR.BambergTownhall_ZH-CN1407954732_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
