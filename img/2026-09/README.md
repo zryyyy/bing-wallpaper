@@ -29,4 +29,12 @@
       2026-09-06 <a href="https://www.bing.com/th?id=OHR.LakeFyans_ROW1462162104_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BambergTownhall_ROW2569522095_UHD.jpg" alt="Old Town Hall, Bamberg, Germany (© SCStock/Getty Images)" /><br>
+      2026-09-07 <a href="https://www.bing.com/th?id=OHR.BambergTownhall_ROW2569522095_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

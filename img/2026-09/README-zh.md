@@ -29,4 +29,12 @@
       2026-09-06 <a href="https://www.bing.com/th?id=OHR.BambergTownhall_ZH-CN1407954732_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg" alt="东米恩南唐斯国家公园谷物田中的山毛榉树，汉普郡，英格兰 (© Guy Edwardes/Minden Pictures)" /><br>
+      2026-09-07 <a href="https://www.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
