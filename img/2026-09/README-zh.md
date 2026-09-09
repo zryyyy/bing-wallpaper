@@ -34,7 +34,10 @@
       <img src="https://www.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg" alt="东米恩南唐斯国家公园谷物田中的山毛榉树，汉普郡，英格兰 (© Guy Edwardes/Minden Pictures)" /><br>
       2026-09-07 <a href="https://www.bing.com/th?id=OHR.BeechEngland_ZH-CN1807343872_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg" alt="安科拉附近的加比特凯尼海滩，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)" /><br>
+      2026-09-08 <a href="https://www.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

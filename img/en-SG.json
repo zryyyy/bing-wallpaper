@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260809",
-    "url": "https://www.bing.com/th?id=OHR.JMTjibaou_ROW6533820010_UHD.jpg",
-    "copyright": "Jean-Marie Tjibaou Cultural Centre, New Caledonia (© Fabien Astre/Alamy)"
-  },
-  {
     "date": "20260810",
     "url": "https://www.bing.com/th?id=OHR.WhyteCliffP_ROW6700227959_UHD.jpg",
     "copyright": "Whytecliff Park, West Vancouver, Canada (© Aolin Chen/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260907",
     "url": "https://www.bing.com/th?id=OHR.BambergTownhall_ROW2569522095_UHD.jpg",
     "copyright": "Old Town Hall, Bamberg, Germany (© SCStock/Getty Images)"
+  },
+  {
+    "date": "20260908",
+    "url": "https://www.bing.com/th?id=OHR.BeechEngland_ROW3028721183_UHD.jpg",
+    "copyright": "Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)"
   }
 ]

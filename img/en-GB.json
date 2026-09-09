@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260809",
-    "url": "https://www.bing.com/th?id=OHR.SandPath_EN-GB4047990489_UHD.jpg",
-    "copyright": "Joshua Tree National Park, California, United States (© JJ Landscapes/Getty Images)"
-  },
-  {
     "date": "20260810",
     "url": "https://www.bing.com/th?id=OHR.ColorfulCop_EN-GB4254714055_UHD.jpg",
     "copyright": "Colourful homes line Nyhavn Canal, Copenhagen, Denmark (© emicristea/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260907",
     "url": "https://www.bing.com/th?id=OHR.BeechEngland_EN-GB6264734535_UHD.jpg",
     "copyright": "Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)"
+  },
+  {
+    "date": "20260908",
+    "url": "https://www.bing.com/th?id=OHR.GabitKeni_EN-GB6382808847_UHD.jpg",
+    "copyright": "Gabit Keni Beach near Ankola, Karnataka, India (© Amith Nag Photography/Getty Images)"
   }
 ]

@@ -34,7 +34,10 @@
       <img src="https://www.bing.com/th?id=OHR.BambergTownhall_ROW2569522095_UHD.jpg" alt="Old Town Hall, Bamberg, Germany (© SCStock/Getty Images)" /><br>
       2026-09-07 <a href="https://www.bing.com/th?id=OHR.BambergTownhall_ROW2569522095_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BeechEngland_ROW3028721183_UHD.jpg" alt="Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)" /><br>
+      2026-09-08 <a href="https://www.bing.com/th?id=OHR.BeechEngland_ROW3028721183_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
