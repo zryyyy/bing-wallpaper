@@ -38,6 +38,9 @@
       <img src="https://www.bing.com/th?id=OHR.BeechEngland_ROW3028721183_UHD.jpg" alt="Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)" /><br>
       2026-09-08 <a href="https://www.bing.com/th?id=OHR.BeechEngland_ROW3028721183_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.PurplePuffin_ROW7550028597_UHD.jpg" alt="Atlantic puffin holding a wild iris in his beak in Elliston, Newfoundland, Canada (© mlorenzphotography/Getty Images)" /><br>
+      2026-09-09 <a href="https://www.bing.com/th?id=OHR.PurplePuffin_ROW7550028597_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

@@ -38,6 +38,9 @@
       <img src="https://www.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg" alt="安科拉附近的加比特凯尼海滩，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)" /><br>
       2026-09-08 <a href="https://www.bing.com/th?id=OHR.GabitKeni_ZH-CN2314122948_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg" alt="奥尔韦拉航拍图，安达卢西亚，西班牙 (© Marco Bottigelli/Getty Images)" /><br>
+      2026-09-09 <a href="https://www.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
