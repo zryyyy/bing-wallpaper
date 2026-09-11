@@ -43,4 +43,12 @@
       2026-09-09 <a href="https://www.bing.com/th?id=OHR.Olvera_ZH-CN2727093856_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg" alt="滨海自由城，法国里维埃拉，法国 (© StockByM/Getty Images)" /><br>
+      2026-09-10 <a href="https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

@@ -43,4 +43,12 @@
       2026-09-09 <a href="https://www.bing.com/th?id=OHR.PurplePuffin_ROW7550028597_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Olvera_ROW4122833130_UHD.jpg" alt="Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)" /><br>
+      2026-09-10 <a href="https://www.bing.com/th?id=OHR.Olvera_ROW4122833130_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
