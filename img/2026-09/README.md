@@ -48,7 +48,10 @@
       <img src="https://www.bing.com/th?id=OHR.Olvera_ROW4122833130_UHD.jpg" alt="Aerial view of Olvera, Andalusia, Spain (© Marco Bottigelli/Getty Images)" /><br>
       2026-09-10 <a href="https://www.bing.com/th?id=OHR.Olvera_ROW4122833130_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ROW4972919500_UHD.jpg" alt="Villefranche-sur-Mer, French Riviera, France (© StockByM/Getty Images)" /><br>
+      2026-09-11 <a href="https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ROW4972919500_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

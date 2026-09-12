@@ -48,7 +48,10 @@
       <img src="https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg" alt="滨海自由城，法国里维埃拉，法国 (© StockByM/Getty Images)" /><br>
       2026-09-10 <a href="https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ZH-CN2888811422_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg" alt="墨西哥近海围猎沙丁鱼饵球的加州海狮，太平洋 (© Henley Spiers/Nature Picture Library)" /><br>
+      2026-09-11 <a href="https://www.bing.com/th?id=OHR.SardineBait_ZH-CN3256234033_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
