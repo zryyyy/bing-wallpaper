@@ -52,6 +52,9 @@
       <img src="https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ROW4972919500_UHD.jpg" alt="Villefranche-sur-Mer, French Riviera, France (© StockByM/Getty Images)" /><br>
       2026-09-11 <a href="https://www.bing.com/th?id=OHR.FrenchRivieraVillage_ROW4972919500_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SardineBait_ROW5275380080_UHD.jpg" alt="California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)" /><br>
+      2026-09-12 <a href="https://www.bing.com/th?id=OHR.SardineBait_ROW5275380080_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
