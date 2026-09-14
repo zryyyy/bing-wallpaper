@@ -57,4 +57,12 @@
       2026-09-12 <a href="https://www.bing.com/th?id=OHR.MisurinaPeak_ZH-CN3877105161_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg" alt="地肤田，中国 (© lingqi xie/Getty Images)" /><br>
+      2026-09-13 <a href="https://www.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
