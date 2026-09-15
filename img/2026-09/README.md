@@ -62,7 +62,10 @@
       <img src="https://www.bing.com/th?id=OHR.MisurinaPeak_ROW5646793381_UHD.jpg" alt="Cadini di Misurina, Dolomites, Veneto, Italy (© Vithun Khamsong/Getty Images)" /><br>
       2026-09-13 <a href="https://www.bing.com/th?id=OHR.MisurinaPeak_ROW5646793381_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.KochiaChina_ROW6162442762_UHD.jpg" alt="Field of kochia plants, China (© lingqi xie/Getty Images)" /><br>
+      2026-09-14 <a href="https://www.bing.com/th?id=OHR.KochiaChina_ROW6162442762_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

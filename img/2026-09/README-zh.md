@@ -62,7 +62,10 @@
       <img src="https://www.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg" alt="地肤田，中国 (© lingqi xie/Getty Images)" /><br>
       2026-09-13 <a href="https://www.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg" alt="红绿金刚鹦鹉 (© markes51/Getty Images)" /><br>
+      2026-09-14 <a href="https://www.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
