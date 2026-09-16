@@ -66,6 +66,9 @@
       <img src="https://www.bing.com/th?id=OHR.KochiaChina_ROW6162442762_UHD.jpg" alt="Field of kochia plants, China (© lingqi xie/Getty Images)" /><br>
       2026-09-14 <a href="https://www.bing.com/th?id=OHR.KochiaChina_ROW6162442762_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.RedMacawsFlight_ROW6429842138_UHD.jpg" alt="Red-and-green macaws (© markes51/Getty Images)" /><br>
+      2026-09-15 <a href="https://www.bing.com/th?id=OHR.RedMacawsFlight_ROW6429842138_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

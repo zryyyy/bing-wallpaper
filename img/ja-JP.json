@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260816",
-    "url": "https://www.bing.com/th?id=OHR.CabilaoClowns_JA-JP7034609036_UHD.jpg",
-    "copyright": "カクレクマノミ, フィリピン (© Franco Banfi/Nature Picture Library)"
-  },
-  {
     "date": "20260817",
     "url": "https://www.bing.com/th?id=OHR.Palmanova_JA-JP7271854286_UHD.jpg",
     "copyright": "パルマノーヴァ, イタリア (© Riccardo Saponi/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260914",
     "url": "https://www.bing.com/th?id=OHR.KochiaChina_JA-JP6121199727_UHD.jpg",
     "copyright": "コキア, 中国 (© lingqi xie/Getty Images)"
+  },
+  {
+    "date": "20260915",
+    "url": "https://www.bing.com/th?id=OHR.IcyCubs_JA-JP6302430788_UHD.jpg",
+    "copyright": "ホッキョクグマの子, ノルウェー (© Danny Green/Nature Picture Library)"
   }
 ]
