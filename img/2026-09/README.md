@@ -71,4 +71,12 @@
       2026-09-15 <a href="https://www.bing.com/th?id=OHR.RedMacawsFlight_ROW6429842138_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.IcyCubs_ROW6681401044_UHD.jpg" alt="Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)" /><br>
+      2026-09-16 <a href="https://www.bing.com/th?id=OHR.IcyCubs_ROW6681401044_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

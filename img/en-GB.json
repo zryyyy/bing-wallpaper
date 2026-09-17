@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260817",
-    "url": "https://www.bing.com/th?id=OHR.Palmanova_EN-GB5986280332_UHD.jpg",
-    "copyright": "Aerial view of Palmanova, a fortress city in Friuli, Italy (© Riccardo Saponi/Getty Images)"
-  },
-  {
     "date": "20260818",
     "url": "https://www.bing.com/th?id=OHR.WhyteCliffP_EN-GB6122204864_UHD.jpg",
     "copyright": "Whytecliff Park in West Vancouver, British Columbia, Canada (© Aolin Chen/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260915",
     "url": "https://www.bing.com/th?id=OHR.IcyCubs_EN-GB8373772893_UHD.jpg",
     "copyright": "Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)"
+  },
+  {
+    "date": "20260916",
+    "url": "https://www.bing.com/th?id=OHR.Santenay_EN-GB8477225756_UHD.jpg",
+    "copyright": "Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)"
   }
 ]

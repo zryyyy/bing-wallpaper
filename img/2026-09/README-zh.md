@@ -71,4 +71,12 @@
       2026-09-15 <a href="https://www.bing.com/th?id=OHR.IcyCubs_ZH-CN5287408951_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_UHD.jpg" alt="桑特奈葡萄酒产区葡萄园中的索林风车，伯恩丘，勃艮第，法国 (© Marco Bottigelli/Getty Images)" /><br>
+      2026-09-16 <a href="https://www.bing.com/th?id=OHR.Santenay_ZH-CN5676942384_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
