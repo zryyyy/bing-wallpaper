@@ -76,7 +76,10 @@
       <img src="https://www.bing.com/th?id=OHR.IcyCubs_ROW6681401044_UHD.jpg" alt="Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)" /><br>
       2026-09-16 <a href="https://www.bing.com/th?id=OHR.IcyCubs_ROW6681401044_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Santenay_ROW6963784310_UHD.jpg" alt="Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)" /><br>
+      2026-09-17 <a href="https://www.bing.com/th?id=OHR.Santenay_ROW6963784310_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
