@@ -80,6 +80,9 @@
       <img src="https://www.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_UHD.jpg" alt="温纳茨山口，峰区国家公园，英格兰 (© Daniel_Kay/Getty Images)" /><br>
       2026-09-17 <a href="https://www.bing.com/th?id=OHR.WinnatsPassPeak_ZH-CN4443458412_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AlphornBavaria_ZH-CN5896237112_UHD.jpg" alt="阿尔卑斯长号演奏者，巴伐利亚州，德国 (© U. J. Alexander/Shutterstock)" /><br>
+      2026-09-18 <a href="https://www.bing.com/th?id=OHR.AlphornBavaria_ZH-CN5896237112_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

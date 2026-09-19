@@ -80,6 +80,9 @@
       <img src="https://www.bing.com/th?id=OHR.Santenay_ROW6963784310_UHD.jpg" alt="Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)" /><br>
       2026-09-17 <a href="https://www.bing.com/th?id=OHR.Santenay_ROW6963784310_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.WinnatsPassPeak_ROW1327716506_UHD.jpg" alt="Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)" /><br>
+      2026-09-18 <a href="https://www.bing.com/th?id=OHR.WinnatsPassPeak_ROW1327716506_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

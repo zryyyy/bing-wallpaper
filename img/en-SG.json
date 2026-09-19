@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260819",
-    "url": "https://www.bing.com/th?id=OHR.SandPath_ROW8239489384_UHD.jpg",
-    "copyright": "Joshua Tree National Park, California, United States (© JJ Landscapes/Getty Images)"
-  },
-  {
     "date": "20260820",
     "url": "https://www.bing.com/th?id=OHR.LynnCanalOrca_ROW8459582696_UHD.jpg",
     "copyright": "An orca surfaces in Lynn Canal near the Chilkat Mountains, Alaska, United States (© John Hyde/Alamy)"
@@ -148,5 +143,10 @@
     "date": "20260917",
     "url": "https://www.bing.com/th?id=OHR.Santenay_ROW6963784310_UHD.jpg",
     "copyright": "Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)"
+  },
+  {
+    "date": "20260918",
+    "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_ROW1327716506_UHD.jpg",
+    "copyright": "Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)"
   }
 ]
