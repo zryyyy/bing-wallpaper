@@ -85,4 +85,12 @@
       2026-09-18 <a href="https://www.bing.com/th?id=OHR.AlphornBavaria_ZH-CN5896237112_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_UHD.jpg" alt="日落时分的埃菲尔铁塔，巴黎，法国 (© Alexander Spatari/Getty Images)" /><br>
+      2026-09-19 <a href="https://www.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

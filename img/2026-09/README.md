@@ -85,4 +85,12 @@
       2026-09-18 <a href="https://www.bing.com/th?id=OHR.WinnatsPassPeak_ROW1327716506_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Lencois_ROW1554257872_UHD.jpg" alt="Lençóis Maranhenses National Park, Brazil (© Ignacio Palacios/Getty Images)" /><br>
+      2026-09-19 <a href="https://www.bing.com/th?id=OHR.Lencois_ROW1554257872_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
