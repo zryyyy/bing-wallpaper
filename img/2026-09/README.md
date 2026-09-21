@@ -90,7 +90,10 @@
       <img src="https://www.bing.com/th?id=OHR.Lencois_ROW1554257872_UHD.jpg" alt="Lençóis Maranhenses National Park, Brazil (© Ignacio Palacios/Getty Images)" /><br>
       2026-09-19 <a href="https://www.bing.com/th?id=OHR.Lencois_ROW1554257872_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ParisSunset_ROW1775373883_UHD.jpg" alt="Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)" /><br>
+      2026-09-20 <a href="https://www.bing.com/th?id=OHR.ParisSunset_ROW1775373883_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

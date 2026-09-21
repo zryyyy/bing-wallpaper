@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260821",
-    "url": "https://www.bing.com/th?id=OHR.CommonBlue_JA-JP8682246058_UHD.jpg",
-    "copyright": "イカルスヒメシジミ, イングランド (© Ross Hoddinott/Nature Picture Library)"
-  },
-  {
     "date": "20260822",
     "url": "https://www.bing.com/th?id=OHR.ShizuokaSummer2026_JA-JP8848642076_UHD.jpg",
     "copyright": "夏の森を潤す清流, 静岡県 (© Keiji Komatsu/AFLO/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260919",
     "url": "https://www.bing.com/th?id=OHR.ParisSunset_JA-JP6560235841_UHD.jpg",
     "copyright": "パリ, フランス (© Alexander Spatari/Getty Images)"
+  },
+  {
+    "date": "20260920",
+    "url": "https://www.bing.com/th?id=OHR.GroomingOtter_JA-JP7012183872_UHD.jpg",
+    "copyright": "ラッコ, 米国 カリフォルニア州 (© Suzi Eszterhas/Minden Pictures)"
   }
 ]

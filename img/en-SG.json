@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260821",
-    "url": "https://www.bing.com/th?id=OHR.JulierPass_ROW4042203913_UHD.jpg",
-    "copyright": "Winding road of Julier Pass, Switzerland (© Westend61/Getty Images)"
-  },
-  {
     "date": "20260822",
     "url": "https://www.bing.com/th?id=OHR.CommonBlue_ROW4481033991_UHD.jpg",
     "copyright": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)"
@@ -148,5 +143,10 @@
     "date": "20260919",
     "url": "https://www.bing.com/th?id=OHR.Lencois_ROW1554257872_UHD.jpg",
     "copyright": "Lençóis Maranhenses National Park, Brazil (© Ignacio Palacios/Getty Images)"
+  },
+  {
+    "date": "20260920",
+    "url": "https://www.bing.com/th?id=OHR.ParisSunset_ROW1775373883_UHD.jpg",
+    "copyright": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)"
   }
 ]

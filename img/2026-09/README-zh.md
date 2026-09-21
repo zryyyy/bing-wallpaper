@@ -90,7 +90,10 @@
       <img src="https://www.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_UHD.jpg" alt="日落时分的埃菲尔铁塔，巴黎，法国 (© Alexander Spatari/Getty Images)" /><br>
       2026-09-19 <a href="https://www.bing.com/th?id=OHR.ParisSunset_ZH-CN6050686638_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_UHD.jpg" alt="正在梳理皮毛的海獭，蒙特雷湾，加利福尼亚州，美国 (© Suzi Eszterhas/Minden Pictures)" /><br>
+      2026-09-20 <a href="https://www.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
