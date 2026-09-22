@@ -94,6 +94,9 @@
       <img src="https://www.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_UHD.jpg" alt="正在梳理皮毛的海獭，蒙特雷湾，加利福尼亚州，美国 (© Suzi Eszterhas/Minden Pictures)" /><br>
       2026-09-20 <a href="https://www.bing.com/th?id=OHR.GroomingOtter_ZH-CN6969472572_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg" alt="瓜兹曼山口附近的秋日山杨林，犹他州，美国 (© Danita Delimont/Shutterstock)" /><br>
+      2026-09-21 <a href="https://www.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260822",
-    "url": "https://www.bing.com/th?id=OHR.KatmaiBear_EN-GB1247114173_UHD.jpg",
-    "copyright": "Brown bear fishing in river, Katmai National Park, Alaska, United States (© Pal Hermansen/Nature Picture Library)"
-  },
-  {
     "date": "20260823",
     "url": "https://www.bing.com/th?id=OHR.BKBridge_EN-GB1324235273_UHD.jpg",
     "copyright": "Brooklyn Bridge, New York City, United States (© shayes17/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260920",
     "url": "https://www.bing.com/th?id=OHR.GroomingOtter_EN-GB9079842121_UHD.jpg",
     "copyright": "Sea otter grooming fur, Monterey Bay, California, United States (© Suzi Eszterhas/Minden Pictures)"
+  },
+  {
+    "date": "20260921",
+    "url": "https://www.bing.com/th?id=OHR.ElGolfo_EN-GB9192637782_UHD.jpg",
+    "copyright": "Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)"
   }
 ]

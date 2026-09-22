@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260822",
-    "url": "https://www.bing.com/th?id=OHR.CommonBlue_EN-US2760688799_UHD.jpg",
-    "copyright": "Common blue butterfly, Devon, England (© Ross Hoddinott/Nature Picture Library)"
-  },
-  {
     "date": "20260823",
     "url": "https://www.bing.com/th?id=OHR.KatmaiBear_EN-US2844742219_UHD.jpg",
     "copyright": "Brown bear fishing in river, Katmai National Park, Alaska (© Pal Hermansen/Nature Picture Library)"
@@ -148,5 +143,10 @@
     "date": "20260920",
     "url": "https://www.bing.com/th?id=OHR.ParisSunset_EN-US6532307523_UHD.jpg",
     "copyright": "Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)"
+  },
+  {
+    "date": "20260921",
+    "url": "https://www.bing.com/th?id=OHR.GroomingOtter_EN-US6710084372_UHD.jpg",
+    "copyright": "Sea otter grooming fur, Monterey Bay, California (© Suzi Eszterhas/Minden Pictures)"
   }
 ]

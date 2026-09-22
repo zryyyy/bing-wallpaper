@@ -94,6 +94,9 @@
       <img src="https://www.bing.com/th?id=OHR.ParisSunset_ROW1775373883_UHD.jpg" alt="Eiffel Tower at sunset, Paris, France (© Alexander Spatari/Getty Images)" /><br>
       2026-09-20 <a href="https://www.bing.com/th?id=OHR.ParisSunset_ROW1775373883_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.GroomingOtter_ROW2104979669_UHD.jpg" alt="Sea otter grooming fur, Monterey Bay, California, United States (© Suzi Eszterhas/Minden Pictures)" /><br>
+      2026-09-21 <a href="https://www.bing.com/th?id=OHR.GroomingOtter_ROW2104979669_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
