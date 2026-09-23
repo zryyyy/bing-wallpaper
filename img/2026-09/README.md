@@ -99,4 +99,12 @@
       2026-09-21 <a href="https://www.bing.com/th?id=OHR.GroomingOtter_ROW2104979669_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.FallAspens_ROW2359837997_UHD.jpg" alt="Autumn aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock)" /><br>
+      2026-09-22 <a href="https://www.bing.com/th?id=OHR.FallAspens_ROW2359837997_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

@@ -99,4 +99,12 @@
       2026-09-21 <a href="https://www.bing.com/th?id=OHR.FallAspens_ZH-CN7235054933_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_UHD.jpg" alt="地坛公园秋日美景，北京，中国 (© by Wei/Adobestock)" /><br>
+      2026-09-22 <a href="https://www.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
