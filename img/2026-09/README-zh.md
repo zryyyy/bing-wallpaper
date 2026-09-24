@@ -104,7 +104,10 @@
       <img src="https://www.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_UHD.jpg" alt="地坛公园秋日美景，北京，中国 (© by Wei/Adobestock)" /><br>
       2026-09-22 <a href="https://www.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ElGolfo_ZH-CN8329995759_UHD.jpg" alt="黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙 (© Westend61/Adobe Stock)" /><br>
+      2026-09-23 <a href="https://www.bing.com/th?id=OHR.ElGolfo_ZH-CN8329995759_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260824",
-    "url": "https://www.bing.com/th?id=OHR.SantaCatarina_EN-GB1458336075_UHD.jpg",
-    "copyright": "Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)"
-  },
-  {
     "date": "20260825",
     "url": "https://www.bing.com/th?id=OHR.AurorasIceland_EN-GB1541173608_UHD.jpg",
     "copyright": "Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)"
@@ -148,5 +143,10 @@
     "date": "20260922",
     "url": "https://www.bing.com/th?id=OHR.FallAspens_EN-GB9268931266_UHD.jpg",
     "copyright": "Autumn aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock)"
+  },
+  {
+    "date": "20260923",
+    "url": "https://www.bing.com/th?id=OHR.TolkienWeek_EN-GB9361035480_UHD.jpg",
+    "copyright": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)"
   }
 ]

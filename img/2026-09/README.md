@@ -104,7 +104,10 @@
       <img src="https://www.bing.com/th?id=OHR.FallAspens_ROW2359837997_UHD.jpg" alt="Autumn aspen trees near Guardsman Pass, Utah, United States (© Danita Delimont/Shutterstock)" /><br>
       2026-09-22 <a href="https://www.bing.com/th?id=OHR.FallAspens_ROW2359837997_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.TolkienWeek_ROW2596246369_UHD.jpg" alt="Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)" /><br>
+      2026-09-23 <a href="https://www.bing.com/th?id=OHR.TolkienWeek_ROW2596246369_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
