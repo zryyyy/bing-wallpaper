@@ -108,6 +108,9 @@
       <img src="https://www.bing.com/th?id=OHR.ElGolfo_ZH-CN8329995759_UHD.jpg" alt="黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙 (© Westend61/Adobe Stock)" /><br>
       2026-09-23 <a href="https://www.bing.com/th?id=OHR.ElGolfo_ZH-CN8329995759_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_UHD.jpg" alt="庆祝中秋节的中国灯笼 (© LeeYiuTung/Getty Images)" /><br>
+      2026-09-24 <a href="https://www.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

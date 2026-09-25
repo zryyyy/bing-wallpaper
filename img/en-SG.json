@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260825",
-    "url": "https://www.bing.com/th?id=OHR.RedwoodPark_ROW5740708229_UHD.jpg",
-    "copyright": "Sunrise in Redwood National and State Parks, California, United States (© HadelProductions/Getty Images)"
-  },
-  {
     "date": "20260826",
     "url": "https://www.bing.com/th?id=OHR.AurorasIceland_ROW6294379114_UHD.jpg",
     "copyright": "Auroras over Kirkjufell, Iceland (© Cavan Images/Alamy)"
@@ -148,5 +143,10 @@
     "date": "20260923",
     "url": "https://www.bing.com/th?id=OHR.TolkienWeek_ROW2596246369_UHD.jpg",
     "copyright": "Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)"
+  },
+  {
+    "date": "20260924",
+    "url": "https://www.bing.com/th?id=OHR.CastelmezzanoItaly_ROW3044667748_UHD.jpg",
+    "copyright": "Castelmezzano, Basilicata, Italy (© Sean Pavone/Getty Images)"
   }
 ]

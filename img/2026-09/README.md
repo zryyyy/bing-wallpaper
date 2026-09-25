@@ -108,6 +108,9 @@
       <img src="https://www.bing.com/th?id=OHR.TolkienWeek_ROW2596246369_UHD.jpg" alt="Hobbit house at Hobbiton Movie Set, Matamata, New Zealand (© djr-photography/Shutterstock)" /><br>
       2026-09-23 <a href="https://www.bing.com/th?id=OHR.TolkienWeek_ROW2596246369_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.CastelmezzanoItaly_ROW3044667748_UHD.jpg" alt="Castelmezzano, Basilicata, Italy (© Sean Pavone/Getty Images)" /><br>
+      2026-09-24 <a href="https://www.bing.com/th?id=OHR.CastelmezzanoItaly_ROW3044667748_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
