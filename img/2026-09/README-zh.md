@@ -113,4 +113,12 @@
       2026-09-24 <a href="https://www.bing.com/th?id=OHR.MidAutumn2026_ZH-CN8947536773_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_UHD.jpg" alt="熊耳国家纪念区附近的雪松台地和骡子角，犹他州，美国 (© Jeff Clay/Tandem Stills + Motion)" /><br>
+      2026-09-25 <a href="https://www.bing.com/th?id=OHR.BearsEars_ZH-CN0496897450_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

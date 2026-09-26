@@ -113,4 +113,12 @@
       2026-09-24 <a href="https://www.bing.com/th?id=OHR.CastelmezzanoItaly_ROW3044667748_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.JogFalls2026_ROW3282923682_UHD.jpg" alt="Jog Falls, Sharavathi River, Karnataka, India (© Amith Nag Photography/Getty Images)" /><br>
+      2026-09-25 <a href="https://www.bing.com/th?id=OHR.JogFalls2026_ROW3282923682_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
