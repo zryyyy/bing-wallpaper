@@ -118,7 +118,10 @@
       <img src="https://www.bing.com/th?id=OHR.JogFalls2026_ROW3282923682_UHD.jpg" alt="Jog Falls, Sharavathi River, Karnataka, India (© Amith Nag Photography/Getty Images)" /><br>
       2026-09-25 <a href="https://www.bing.com/th?id=OHR.JogFalls2026_ROW3282923682_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BearsEars_ROW3487899068_UHD.jpg" alt="Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, United States (© Jeff Clay/Tandem Stills + Motion)" /><br>
+      2026-09-26 <a href="https://www.bing.com/th?id=OHR.BearsEars_ROW3487899068_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

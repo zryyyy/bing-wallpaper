@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260827",
-    "url": "https://www.bing.com/th?id=OHR.MichelSunset_JA-JP0274204340_UHD.jpg",
-    "copyright": "モン・サン＝ミシェル, フランス (© Clement LEONARD/Getty Images)"
-  },
-  {
     "date": "20260828",
     "url": "https://www.bing.com/th?id=OHR.OmagariFireworks2026_JA-JP0416831919_UHD.jpg",
     "copyright": "全国花火競技大会, 秋田県, 大仙市 (© Toru Hanai/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260925",
     "url": "https://www.bing.com/th?id=OHR.BearsEars_JA-JP8214752036_UHD.jpg",
     "copyright": "シーダーメサ, 米国 ユタ州 (© Jeff Clay/Tandem Stills + Motion)"
+  },
+  {
+    "date": "20260926",
+    "url": "https://www.bing.com/th?id=OHR.YokohamaBayBridge_JA-JP8812921625_UHD.jpg",
+    "copyright": "横浜ベイブリッジ, 神奈川県 横浜市 (© Yuga Kurita/Getty Images)"
   }
 ]
