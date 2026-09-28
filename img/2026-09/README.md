@@ -122,6 +122,9 @@
       <img src="https://www.bing.com/th?id=OHR.BearsEars_ROW3487899068_UHD.jpg" alt="Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, United States (© Jeff Clay/Tandem Stills + Motion)" /><br>
       2026-09-26 <a href="https://www.bing.com/th?id=OHR.BearsEars_ROW3487899068_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.NeckarVineyards_ROW5359254474_UHD.jpg" alt="Sunset over the vineyards of Steinhaldenfeld, Neckar valley, Stuttgart, Germany (© Cyril Gosselin/Getty Images)" /><br>
+      2026-09-27 <a href="https://www.bing.com/th?id=OHR.NeckarVineyards_ROW5359254474_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

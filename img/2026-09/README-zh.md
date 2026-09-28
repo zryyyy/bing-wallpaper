@@ -122,6 +122,9 @@
       <img src="https://www.bing.com/th?id=OHR.DecoCrab_ZH-CN0973306994_UHD.jpg" alt="海笔上的装饰蟹，科莫多国家公园，印度尼西亚 (© Alex Mustard/Nature Picture Library)" /><br>
       2026-09-26 <a href="https://www.bing.com/th?id=OHR.DecoCrab_ZH-CN0973306994_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AmberHall_ZH-CN1223127100_UHD.jpg" alt="斋浦尔附近琥珀堡内的 Sattais Katcheri 大厅，拉贾斯坦邦，印度 (© R.M. Nunes/Getty Images)" /><br>
+      2026-09-27 <a href="https://www.bing.com/th?id=OHR.AmberHall_ZH-CN1223127100_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

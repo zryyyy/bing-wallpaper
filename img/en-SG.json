@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260828",
-    "url": "https://www.bing.com/th?id=OHR.MichelSunset_ROW7306712328_UHD.jpg",
-    "copyright": "Mont-Saint-Michel during high tide, Manche, Normandy, France (© Clement LEONARD/Getty Images)"
-  },
-  {
     "date": "20260829",
     "url": "https://www.bing.com/th?id=OHR.LloretdeMar_ROW9048268267_UHD.jpg",
     "copyright": "Camí de Ronda, Lloret de Mar, Catalonia, Spain (© MEDITERRANEAN/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260926",
     "url": "https://www.bing.com/th?id=OHR.BearsEars_ROW3487899068_UHD.jpg",
     "copyright": "Cedar Mesa and Muley Point near Bears Ears National Monument, Utah, United States (© Jeff Clay/Tandem Stills + Motion)"
+  },
+  {
+    "date": "20260927",
+    "url": "https://www.bing.com/th?id=OHR.NeckarVineyards_ROW5359254474_UHD.jpg",
+    "copyright": "Sunset over the vineyards of Steinhaldenfeld, Neckar valley, Stuttgart, Germany (© Cyril Gosselin/Getty Images)"
   }
 ]
