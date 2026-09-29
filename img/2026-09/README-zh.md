@@ -127,4 +127,12 @@
       2026-09-27 <a href="https://www.bing.com/th?id=OHR.AmberHall_ZH-CN1223127100_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.KasilofRiver_ZH-CN2394091052_UHD.jpg" alt="卡西洛夫河冰川融水滋养的湛蓝河水，阿拉斯加州，美国 (© jared lloyd/Getty Images)" /><br>
+      2026-09-28 <a href="https://www.bing.com/th?id=OHR.KasilofRiver_ZH-CN2394091052_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

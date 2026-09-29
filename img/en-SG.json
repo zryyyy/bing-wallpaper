@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260829",
-    "url": "https://www.bing.com/th?id=OHR.LloretdeMar_ROW9048268267_UHD.jpg",
-    "copyright": "Camí de Ronda, Lloret de Mar, Catalonia, Spain (© MEDITERRANEAN/Getty Images)"
-  },
-  {
     "date": "20260830",
     "url": "https://www.bing.com/th?id=OHR.YellowShark_ROW3439446140_UHD.jpg",
     "copyright": "Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)"
@@ -148,5 +143,10 @@
     "date": "20260927",
     "url": "https://www.bing.com/th?id=OHR.NeckarVineyards_ROW5359254474_UHD.jpg",
     "copyright": "Sunset over the vineyards of Steinhaldenfeld, Neckar valley, Stuttgart, Germany (© Cyril Gosselin/Getty Images)"
+  },
+  {
+    "date": "20260928",
+    "url": "https://www.bing.com/th?id=OHR.AmberHall_ROW4225263688_UHD.jpg",
+    "copyright": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)"
   }
 ]

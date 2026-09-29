@@ -127,4 +127,12 @@
       2026-09-27 <a href="https://www.bing.com/th?id=OHR.NeckarVineyards_ROW5359254474_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AmberHall_ROW4225263688_UHD.jpg" alt="Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)" /><br>
+      2026-09-28 <a href="https://www.bing.com/th?id=OHR.AmberHall_ROW4225263688_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

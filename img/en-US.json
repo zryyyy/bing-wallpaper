@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260829",
-    "url": "https://www.bing.com/th?id=OHR.SantaCatarina_EN-US3600536393_UHD.jpg",
-    "copyright": "Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)"
-  },
-  {
     "date": "20260830",
     "url": "https://www.bing.com/th?id=OHR.YellowShark_EN-US3678567058_UHD.jpg",
     "copyright": "Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)"
@@ -148,5 +143,10 @@
     "date": "20260927",
     "url": "https://www.bing.com/th?id=OHR.DecoCrab_EN-US9587426678_UHD.jpg",
     "copyright": "Decorator crab on a sea pen, Komodo National Park, Indonesia (© Alex Mustard/Nature Picture Library)"
+  },
+  {
+    "date": "20260928",
+    "url": "https://www.bing.com/th?id=OHR.AmberHall_EN-US9930812541_UHD.jpg",
+    "copyright": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)"
   }
 ]
