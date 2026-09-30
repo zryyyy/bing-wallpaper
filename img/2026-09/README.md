@@ -132,7 +132,10 @@
       <img src="https://www.bing.com/th?id=OHR.AmberHall_ROW4225263688_UHD.jpg" alt="Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)" /><br>
       2026-09-28 <a href="https://www.bing.com/th?id=OHR.AmberHall_ROW4225263688_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.KasilofRiver_ROW4499047229_UHD.jpg" alt="The blue, glacier-fed waters of the Kasilof River, Alaska, United States (© jared lloyd/Getty Images)" /><br>
+      2026-09-29 <a href="https://www.bing.com/th?id=OHR.KasilofRiver_ROW4499047229_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

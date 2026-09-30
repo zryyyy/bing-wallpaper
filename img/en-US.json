@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260830",
-    "url": "https://www.bing.com/th?id=OHR.YellowShark_EN-US3678567058_UHD.jpg",
-    "copyright": "Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)"
-  },
-  {
     "date": "20260831",
     "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_UHD.jpg",
     "copyright": "Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20260928",
     "url": "https://www.bing.com/th?id=OHR.AmberHall_EN-US9930812541_UHD.jpg",
     "copyright": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)"
+  },
+  {
+    "date": "20260929",
+    "url": "https://www.bing.com/th?id=OHR.KasilofRiver_EN-US0047556055_UHD.jpg",
+    "copyright": "The blue, glacier-fed waters of the Kasilof River, Alaska, USA (© jared lloyd/Getty Images)"
   }
 ]

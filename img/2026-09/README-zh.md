@@ -132,7 +132,10 @@
       <img src="https://www.bing.com/th?id=OHR.KasilofRiver_ZH-CN2394091052_UHD.jpg" alt="卡西洛夫河冰川融水滋养的湛蓝河水，阿拉斯加州，美国 (© jared lloyd/Getty Images)" /><br>
       2026-09-28 <a href="https://www.bing.com/th?id=OHR.KasilofRiver_ZH-CN2394091052_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_UHD.jpg" alt="雄性文须雀，诺福克郡，英格兰 (© Andrew Sproule/Shutterstock)" /><br>
+      2026-09-29 <a href="https://www.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
