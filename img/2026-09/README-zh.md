@@ -136,6 +136,9 @@
       <img src="https://www.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_UHD.jpg" alt="雄性文须雀，诺福克郡，英格兰 (© Andrew Sproule/Shutterstock)" /><br>
       2026-09-29 <a href="https://www.bing.com/th?id=OHR.BeardReedling_ZH-CN2750632320_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.OlmstedPoint_ZH-CN4182671075_UHD.jpg" alt="奥姆斯特德观景点的日落，优胜美地国家公园，加利福尼亚州，美国 (© Robb Hirsch/Tandem Stills + Motion)" /><br>
+      2026-09-30 <a href="https://www.bing.com/th?id=OHR.OlmstedPoint_ZH-CN4182671075_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

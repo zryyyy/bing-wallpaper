@@ -136,6 +136,9 @@
       <img src="https://www.bing.com/th?id=OHR.KasilofRiver_ROW4499047229_UHD.jpg" alt="The blue, glacier-fed waters of the Kasilof River, Alaska, United States (© jared lloyd/Getty Images)" /><br>
       2026-09-29 <a href="https://www.bing.com/th?id=OHR.KasilofRiver_ROW4499047229_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BeardReedling_ROW4731809759_UHD.jpg" alt="Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)" /><br>
+      2026-09-30 <a href="https://www.bing.com/th?id=OHR.BeardReedling_ROW4731809759_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

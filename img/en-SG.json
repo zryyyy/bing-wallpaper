@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260831",
-    "url": "https://www.bing.com/th?id=OHR.SellinSunrise_ROW9214234977_UHD.jpg",
-    "copyright": "Sellin Pier, Rügen, Germany (© bluejayphoto/Getty Images)"
-  },
-  {
     "date": "20260901",
     "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_ROW4884226471_UHD.jpg",
     "copyright": "Horsehair parachute fungus, Belarus (© Máté/Nature Picture Library)"
@@ -148,5 +143,10 @@
     "date": "20260929",
     "url": "https://www.bing.com/th?id=OHR.KasilofRiver_ROW4499047229_UHD.jpg",
     "copyright": "The blue, glacier-fed waters of the Kasilof River, Alaska, United States (© jared lloyd/Getty Images)"
+  },
+  {
+    "date": "20260930",
+    "url": "https://www.bing.com/th?id=OHR.BeardReedling_ROW4731809759_UHD.jpg",
+    "copyright": "Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)"
   }
 ]
