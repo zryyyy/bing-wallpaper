@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260903",
-    "url": "https://www.bing.com/th?id=OHR.Westerheversand_EN-GB5592839708_UHD.jpg",
-    "copyright": "Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)"
-  },
-  {
     "date": "20260904",
     "url": "https://www.bing.com/th?id=OHR.SardineBait_EN-GB5662354179_UHD.jpg",
     "copyright": "California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)"
@@ -148,5 +143,10 @@
     "date": "20261002",
     "url": "https://www.bing.com/th?id=OHR.GrizzlySwim_EN-GB2587469687_UHD.jpg",
     "copyright": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)"
+  },
+  {
+    "date": "20261003",
+    "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_EN-GB2659306567_UHD.jpg",
+    "copyright": "Artemis I moon rocket at Launch Complex 39B, Kennedy Space Center, Florida, United States (© EVA MARIE UZCATEGUI/Getty Images)"
   }
 ]

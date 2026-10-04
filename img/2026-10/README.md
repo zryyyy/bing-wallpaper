@@ -10,6 +10,9 @@
       <img src="https://www.bing.com/th?id=OHR.ChattoogaRiver_ROW2393025936_UHD.jpg" alt="Chattooga River in the Appalachian Mountains, North Carolina, United States (© mtilghma/Getty Images)" /><br>
       2026-10-02 <a href="https://www.bing.com/th?id=OHR.ChattoogaRiver_ROW2393025936_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.GrizzlySwim_ROW2767752337_UHD.jpg" alt="Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)" /><br>
+      2026-10-03 <a href="https://www.bing.com/th?id=OHR.GrizzlySwim_ROW2767752337_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

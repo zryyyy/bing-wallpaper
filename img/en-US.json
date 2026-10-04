@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260903",
-    "url": "https://www.bing.com/th?id=OHR.AZWilderness_EN-US4070936347_UHD.jpg",
-    "copyright": "Coyote Buttes, Vermilion Cliffs National Monument, Arizona (© James Hager/Getty Images)"
-  },
-  {
     "date": "20260904",
     "url": "https://www.bing.com/th?id=OHR.Westerheversand_EN-US3028839945_UHD.jpg",
     "copyright": "Westerheversand Lighthouse in Westerhever, Schleswig-Holstein, Germany (© bluejayphoto/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20261002",
     "url": "https://www.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg",
     "copyright": "Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)"
+  },
+  {
+    "date": "20261003",
+    "url": "https://www.bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg",
+    "copyright": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)"
   }
 ]
