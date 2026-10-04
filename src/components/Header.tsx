@@ -1,9 +1,9 @@
 import { Globe, Search } from 'lucide-react';
-import { COUNTRIES, type CountryCode } from '@/types';
+import { COUNTRIES, type GallerySelection } from '@/types';
 
 interface HeaderProps {
-  country: CountryCode;
-  setCountry: (country: CountryCode) => void;
+  country: GallerySelection;
+  setCountry: (country: GallerySelection) => void;
   searchQuery: string;
   setSearchQuery: (query: string) => void;
 }
@@ -32,12 +32,12 @@ export default function Header({ country, setCountry, searchQuery, setSearchQuer
         <div className="relative flex cursor-pointer items-center gap-2 text-zinc-400 hover:text-zinc-200">
           <Globe className="hidden size-4 sm:block" />
           <span className="w-24 truncate font-medium text-sm sm:w-auto">
-            {COUNTRIES[country]} ({country})
+            {country === 'history' ? 'Global History' : `${COUNTRIES[country]} (${country})`}
           </span>
           <select
             value={country}
-            onChange={(e) => setCountry(e.target.value as CountryCode)}
-            aria-label="Country"
+            onChange={(e) => setCountry(e.target.value as GallerySelection)}
+            aria-label="Country or history"
             className="absolute inset-0 size-full cursor-pointer opacity-0"
           >
             {Object.entries(COUNTRIES).map(([code, name]) => (
@@ -45,6 +45,7 @@ export default function Header({ country, setCountry, searchQuery, setSearchQuer
                 {name} ({code})
               </option>
             ))}
+            <option value="history">Global History</option>
           </select>
         </div>
       </div>

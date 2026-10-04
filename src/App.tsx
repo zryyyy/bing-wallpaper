@@ -3,50 +3,50 @@ import { useEffect, useMemo, useState } from 'react';
 import Gallery from '@/components/Gallery.tsx';
 import Header from '@/components/Header.tsx';
 import Hero from '@/components/Hero.tsx';
+import HistoryGallery from '@/components/HistoryGallery.tsx';
 import ImageModal from '@/components/ImageModal.tsx';
-import type { CountryCode, Wallpaper } from '@/types.ts';
-
-const API_BASE_URL =
-  'https://raw.githubusercontent.com/zryyyy/bing-wallpaper/refs/heads/master/img';
+import { fetchWallpapers, filterWallpapers } from '@/lib/wallpapers.ts';
+import type { GallerySelection, Wallpaper } from '@/types.ts';
 
 function App() {
-  const [country, setCountry] = useState<CountryCode>('en-US');
+  const [country, setCountry] = useState<GallerySelection>('en-US');
   const [wallpapers, setWallpapers] = useState<Wallpaper[]>([]);
   const [loading, setLoading] = useState(true);
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedImage, setSelectedImage] = useState<Wallpaper | null>(null);
 
   useEffect(() => {
-    const fetchWallpapers = async () => {
-      setLoading(true);
-      const response = await fetch(`${API_BASE_URL}/${country}.json`);
-
-      if (!response.ok) {
-        throw new Error('Failed to fetch wallpapers');
-      }
-
-      const data: Wallpaper[] = await response.json();
-      const sortedData = data.sort((a, b) => b.date.localeCompare(a.date));
-      setWallpapers(sortedData);
-      setLoading(false);
-    };
-
-    fetchWallpapers()
+    if (country === 'history') return;
+    const controller = new AbortController();
+    setLoading(true);
+    fetchWallpapers(`${country}.json`, controller.signal)
+      .then((data) => {
+        if (!controller.signal.aborted) setWallpapers(data);
+      })
       .catch((error) => {
+        if (controller.signal.aborted) return;
         console.error('Error fetching wallpapers:', error);
         setWallpapers([]);
       })
-      .finally(() => setLoading(false));
+      .finally(() => {
+        if (!controller.signal.aborted) setLoading(false);
+      });
+    return () => controller.abort();
   }, [country]);
 
-  const filteredWallpapers = useMemo(() => {
-    if (!searchQuery.trim()) return wallpapers;
+  const filteredWallpapers = useMemo(
+    () => filterWallpapers(wallpapers, searchQuery),
+    [wallpapers, searchQuery],
+  );
 
-    const query = searchQuery.toLowerCase();
-    return wallpapers.filter(
-      (wp) => wp.copyright.toLowerCase().includes(query) || wp.date.includes(query),
-    );
-  }, [wallpapers, searchQuery]);
+  function changeSelection(selection: GallerySelection) {
+    if (selection === country) return;
+    setSelectedImage(null);
+    setWallpapers([]);
+    setLoading(true);
+    setCountry(selection);
+    window.scrollTo({ top: 0, behavior: 'instant' });
+  }
 
   const latestWallpaper = filteredWallpapers.length > 0 ? filteredWallpapers[0] : null;
   const galleryWallpapers = filteredWallpapers.slice(1);
@@ -55,13 +55,15 @@ function App() {
     <div className="min-h-screen bg-zinc-950 font-sans text-zinc-50 selection:bg-white/20">
       <Header
         country={country}
-        setCountry={setCountry}
+        setCountry={changeSelection}
         searchQuery={searchQuery}
         setSearchQuery={setSearchQuery}
       />
 
       <main className="pt-16">
-        {loading ? (
+        {country === 'history' ? (
+          <HistoryGallery searchQuery={searchQuery} onOpen={setSelectedImage} />
+        ) : loading ? (
           <div className="flex h-[85vh] flex-col items-center justify-center gap-4 text-zinc-500">
             <Loader2 className="size-8 animate-spin text-white/50" />
             <p className="font-medium tracking-wide">Loading gallery...</p>

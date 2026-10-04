@@ -8,12 +8,12 @@ This is the frontend branch of the [zryyyy/bing-wallpaper](https://github.com/zr
 
 This project is built with modern frontend technologies:
 
-- **Core Framework:** [React 19](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/)
-- **Styling:** [Tailwind CSS v4](https://tailwindcss.com/)
+- **Core Framework:** [React](https://react.dev/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 - **Animations:** [Motion](https://motion.dev/)
 - **Icons:** [Lucide React](https://lucide.dev/)
 - **Code Quality:** [Biome](https://biomejs.dev/)
-- **Optimization:** `babel-plugin-react-compiler`
+- **Optimization:** `oxc-transform-react`
 - **Deployment**: Automated deployment to GitHub Pages via GitHub Actions
 
 ## Local Development
