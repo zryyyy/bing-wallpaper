@@ -29,15 +29,19 @@ export default function Header({ country, setCountry, searchQuery, setSearchQuer
           />
         </div>
 
-        <div className="relative flex items-center gap-2">
-          <Globe className="hidden size-4 text-zinc-500 sm:block" />
+        <div className="relative flex cursor-pointer items-center gap-2 text-zinc-400 hover:text-zinc-200">
+          <Globe className="hidden size-4 sm:block" />
+          <span className="w-24 truncate font-medium text-sm sm:w-auto">
+            {COUNTRIES[country]} ({country})
+          </span>
           <select
             value={country}
             onChange={(e) => setCountry(e.target.value as CountryCode)}
-            className="w-24 cursor-pointer appearance-none overflow-hidden text-ellipsis bg-transparent font-medium text-sm text-zinc-300 hover:text-white focus:outline-none sm:w-auto"
+            aria-label="Country"
+            className="absolute inset-0 size-full cursor-pointer opacity-0"
           >
             {Object.entries(COUNTRIES).map(([code, name]) => (
-              <option key={code} value={code} className="bg-zinc-900 text-zinc-300">
+              <option key={code} value={code}>
                 {name} ({code})
               </option>
             ))}
