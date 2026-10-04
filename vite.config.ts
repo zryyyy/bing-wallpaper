@@ -8,9 +8,7 @@ export default defineConfig({
   base: '/bing-wallpaper/',
   plugins: [
     react({
-      babel: {
-        plugins: [['babel-plugin-react-compiler']],
-      },
+      compiler: true,
     }),
     tailwindcss(),
   ],
