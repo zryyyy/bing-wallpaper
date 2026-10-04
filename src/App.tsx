@@ -52,7 +52,7 @@ function App() {
   const galleryWallpapers = filteredWallpapers.slice(1);
 
   return (
-    <div className="min-h-screen bg-zinc-950 text-zinc-50 font-sans selection:bg-white/20">
+    <div className="min-h-screen bg-zinc-950 font-sans text-zinc-50 selection:bg-white/20">
       <Header
         country={country}
         setCountry={setCountry}
@@ -62,8 +62,8 @@ function App() {
 
       <main className="pt-16">
         {loading ? (
-          <div className="h-[85vh] flex flex-col items-center justify-center text-zinc-500 gap-4">
-            <Loader2 className="w-8 h-8 animate-spin text-white/50" />
+          <div className="flex h-[85vh] flex-col items-center justify-center gap-4 text-zinc-500">
+            <Loader2 className="size-8 animate-spin text-white/50" />
             <p className="font-medium tracking-wide">Loading gallery...</p>
           </div>
         ) : (
@@ -80,11 +80,11 @@ function App() {
 
       <ImageModal wallpaper={selectedImage} onClose={() => setSelectedImage(null)} />
 
-      <footer className="py-12 text-center border-t border-white/5 mt-12">
-        <p className="text-zinc-500 text-sm font-medium">
+      <footer className="mt-12 border-white/5 border-t py-12 text-center">
+        <p className="font-medium text-sm text-zinc-500">
           Bing Wallpapers Gallery &copy; 2026 - {new Date().getFullYear()}
         </p>
-        <p className="text-zinc-600 text-xs mt-2">
+        <p className="mt-2 text-xs text-zinc-600">
           All images are copyright to their respective owners.
         </p>
       </footer>

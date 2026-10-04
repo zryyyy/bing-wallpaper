@@ -17,7 +17,7 @@ export default function Hero({ wallpaper, onOpen }: HeroProps) {
     titleParts.length > 1 ? `© ${titleParts[1]?.replace(')', '')}` : wallpaper.copyright;
 
   return (
-    <section className="relative w-full h-[85vh] min-h-150 flex items-end overflow-hidden">
+    <section className="relative flex h-[85vh] min-h-150 w-full items-end overflow-hidden">
       <motion.div
         initial={{ opacity: 0, scale: 1.05 }}
         animate={{ opacity: 1, scale: 1 }}
@@ -27,26 +27,26 @@ export default function Hero({ wallpaper, onOpen }: HeroProps) {
         <img
           src={wallpaper.url}
           alt={title}
-          className="w-full h-full object-cover"
+          className="size-full object-cover"
           referrerPolicy="no-referrer"
         />
         <div className="absolute inset-0 bg-linear-to-t from-zinc-950 via-zinc-950/40 to-transparent" />
       </motion.div>
 
-      <div className="relative z-10 w-full max-w-7xl mx-auto px-6 pb-24 flex flex-col md:flex-row md:items-end justify-between gap-8">
+      <div className="relative z-10 mx-auto flex w-full max-w-7xl flex-col justify-between gap-8 px-6 pb-24 md:flex-row md:items-end">
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.4 }}
           className="max-w-3xl"
         >
-          <span className="inline-block px-3 py-1 mb-6 text-xs font-medium tracking-widest uppercase bg-white/10 backdrop-blur-md rounded-full border border-white/10 text-zinc-300">
+          <span className="mb-6 inline-block rounded-full border border-white/10 bg-white/10 px-3 py-1 font-medium text-xs text-zinc-300 uppercase tracking-widest backdrop-blur-md">
             Today's Feature
           </span>
-          <h2 className="text-4xl md:text-6xl lg:text-7xl font-serif font-medium leading-tight text-white mb-4 drop-shadow-lg">
+          <h2 className="mb-4 font-medium font-serif text-4xl text-white leading-tight drop-shadow-lg md:text-6xl lg:text-7xl">
             {title}
           </h2>
-          <p className="text-zinc-400 text-sm md:text-base font-light tracking-wide max-w-xl">
+          <p className="max-w-xl font-light text-sm text-zinc-400 tracking-wide md:text-base">
             {copyrightText}
           </p>
         </motion.div>
@@ -55,23 +55,23 @@ export default function Hero({ wallpaper, onOpen }: HeroProps) {
           initial={{ opacity: 0, x: 20 }}
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.8, delay: 0.6 }}
-          className="flex items-center gap-4 shrink-0"
+          className="flex shrink-0 items-center gap-4"
         >
           <button
             type="button"
             onClick={() => onOpen(wallpaper)}
-            className="w-12 h-12 flex items-center justify-center rounded-full bg-white/10 backdrop-blur-md border border-white/10 text-white hover:bg-white hover:text-zinc-950 transition-all group"
+            className="group flex size-12 items-center justify-center rounded-full border border-white/10 bg-white/10 text-white backdrop-blur-md transition-all hover:bg-white hover:text-zinc-950"
             aria-label="View Fullscreen"
           >
-            <Maximize2 className="w-5 h-5 group-hover:scale-110 transition-transform" />
+            <Maximize2 className="size-5 transition-transform group-hover:scale-110" />
           </button>
           <a
             href={wallpaper.url}
             target="_blank"
             rel="noreferrer"
-            className="h-12 px-6 flex items-center justify-center gap-2 rounded-full bg-white text-zinc-950 font-medium hover:bg-zinc-200 transition-colors"
+            className="flex h-12 items-center justify-center gap-2 rounded-full bg-white px-6 font-medium text-zinc-950 transition-colors hover:bg-zinc-200"
           >
-            <Download className="w-4 h-4" />
+            <Download className="size-4" />
             <span>Download</span>
           </a>
         </motion.div>

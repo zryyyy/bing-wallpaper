@@ -50,15 +50,15 @@ export default function ImageModal({ wallpaper, onClose }: ImageModalProps) {
           animate={{ opacity: 1 }}
           exit={{ opacity: 0 }}
           transition={{ duration: 0.3 }}
-          className="fixed inset-0 z-100 flex items-center justify-center bg-zinc-950/95 backdrop-blur-xl p-4 md:p-8"
+          className="fixed inset-0 z-100 flex items-center justify-center bg-zinc-950/95 p-4 backdrop-blur-xl md:p-8"
           onClick={onClose}
         >
           <button
             type="button"
             onClick={onClose}
-            className="absolute top-6 right-6 w-12 h-12 flex items-center justify-center rounded-full bg-white/10 text-white hover:bg-white/20 transition-colors z-50 border border-white/10"
+            className="absolute top-6 right-6 z-50 flex size-12 items-center justify-center rounded-full border border-white/10 bg-white/10 text-white transition-colors hover:bg-white/20"
           >
-            <X className="w-6 h-6" />
+            <X className="size-6" />
           </button>
 
           <motion.div
@@ -66,30 +66,30 @@ export default function ImageModal({ wallpaper, onClose }: ImageModalProps) {
             animate={{ scale: 1, opacity: 1, y: 0 }}
             exit={{ scale: 0.95, opacity: 0, y: 20 }}
             transition={{ type: 'spring', damping: 25, stiffness: 300 }}
-            className="relative w-fit h-fit max-w-[90vw] max-h-[90vh] flex flex-col bg-zinc-900 rounded-3xl overflow-hidden shadow-2xl border border-white/10"
+            className="relative flex size-fit max-h-[90vh] max-w-[90vw] flex-col overflow-hidden rounded-3xl border border-white/10 bg-zinc-900 shadow-2xl"
             onClick={(e) => e.stopPropagation()}
           >
-            <div className="relative grow min-h-0 bg-zinc-900/50 flex items-center justify-center">
+            <div className="relative flex min-h-0 grow items-center justify-center bg-zinc-900/50">
               <img
                 src={wallpaper.url}
                 alt={title}
-                className="max-w-full max-h-[70vh] h-auto w-auto object-contain"
+                className="size-auto max-h-[70vh] max-w-full object-contain"
                 referrerPolicy="no-referrer"
               />
             </div>
 
-            <div className="p-6 md:p-8 bg-zinc-900 flex flex-col md:flex-row justify-between items-start md:items-center gap-6 border-t border-white/5">
+            <div className="flex flex-col items-start justify-between gap-6 border-white/5 border-t bg-zinc-900 p-6 md:flex-row md:items-center md:p-8">
               <div className="max-w-3xl">
-                <h2 className="text-2xl md:text-3xl font-serif font-medium text-white mb-2">
+                <h2 className="mb-2 font-medium font-serif text-2xl text-white md:text-3xl">
                   {title}
                 </h2>
                 <div className="flex flex-wrap items-center gap-4 text-sm text-zinc-400">
                   <div className="flex items-center gap-1.5 font-mono">
-                    <Calendar className="w-4 h-4" />
+                    <Calendar className="size-4" />
                     <span>{formatDate(wallpaper.date)}</span>
                   </div>
                   <div className="flex items-center gap-1.5">
-                    <Info className="w-4 h-4" />
+                    <Info className="size-4" />
                     <span>{copyrightText}</span>
                   </div>
                 </div>
@@ -99,9 +99,9 @@ export default function ImageModal({ wallpaper, onClose }: ImageModalProps) {
                 href={wallpaper.url}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="shrink-0 px-6 py-3 flex items-center gap-2 rounded-full bg-white text-zinc-950 font-medium hover:bg-zinc-200 transition-colors"
+                className="flex shrink-0 items-center gap-2 rounded-full bg-white px-6 py-3 font-medium text-zinc-950 transition-colors hover:bg-zinc-200"
               >
-                <Download className="w-4 h-4" />
+                <Download className="size-4" />
                 <span>Download</span>
               </a>
             </div>

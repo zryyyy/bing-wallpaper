@@ -10,9 +10,9 @@ interface GalleryProps {
 export default function Gallery({ wallpapers, onOpen }: GalleryProps) {
   if (wallpapers.length === 0) {
     return (
-      <div className="w-full py-32 flex flex-col items-center justify-center text-zinc-500">
-        <p className="text-lg font-medium">No wallpapers found for your search.</p>
-        <p className="text-sm mt-2">Please try a different keyword or date.</p>
+      <div className="flex w-full flex-col items-center justify-center py-32 text-zinc-500">
+        <p className="font-medium text-lg">No wallpapers found for your search.</p>
+        <p className="mt-2 text-sm">Please try a different keyword or date.</p>
       </div>
     );
   }
@@ -30,13 +30,13 @@ export default function Gallery({ wallpapers, onOpen }: GalleryProps) {
   };
 
   return (
-    <section className="max-w-7xl mx-auto px-6 py-24">
+    <section className="mx-auto max-w-7xl px-6 py-24">
       <div className="mb-12 flex items-center justify-between">
-        <h3 className="text-3xl font-serif text-white/90">Recent Collection</h3>
-        <div className="h-px bg-white/10 grow ml-8" />
+        <h3 className="font-serif text-3xl text-white/90">Recent Collection</h3>
+        <div className="ml-8 h-px grow bg-white/10" />
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
         {wallpapers.map((wallpaper, index) => {
           const titleParts = wallpaper.copyright.split(' (©');
           const title = titleParts[0];
@@ -47,30 +47,30 @@ export default function Gallery({ wallpapers, onOpen }: GalleryProps) {
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: index * 0.05 }}
-              className="group relative aspect-4/3 rounded-2xl overflow-hidden cursor-pointer bg-zinc-900 border border-white/5"
+              className="group relative aspect-4/3 cursor-pointer overflow-hidden rounded-2xl border border-white/5 bg-zinc-900"
               onClick={() => onOpen(wallpaper)}
             >
               <img
                 src={wallpaper.url}
                 alt={title}
-                className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105"
+                className="size-full object-cover transition-transform duration-700 group-hover:scale-105"
                 referrerPolicy="no-referrer"
                 loading="lazy"
               />
-              <div className="absolute inset-0 bg-linear-to-t from-zinc-950/90 via-zinc-950/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
+              <div className="absolute inset-0 bg-linear-to-t from-zinc-950/90 via-zinc-950/20 to-transparent opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
 
-              <div className="absolute inset-0 p-6 flex flex-col justify-end translate-y-4 group-hover:translate-y-0 opacity-0 group-hover:opacity-100 transition-all duration-300">
-                <div className="flex items-center gap-2 text-zinc-400 text-xs font-mono mb-2">
-                  <Calendar className="w-3 h-3" />
+              <div className="absolute inset-0 flex translate-y-4 flex-col justify-end p-6 opacity-0 transition-all duration-300 group-hover:translate-y-0 group-hover:opacity-100">
+                <div className="mb-2 flex items-center gap-2 font-mono text-xs text-zinc-400">
+                  <Calendar className="size-3" />
                   <span>{formatDate(wallpaper.date)}</span>
                 </div>
-                <h4 className="text-white font-medium text-lg leading-snug line-clamp-2 mb-1">
+                <h4 className="mb-1 line-clamp-2 font-medium text-lg text-white leading-snug">
                   {title}
                 </h4>
               </div>
 
-              <div className="absolute top-4 right-4 w-8 h-8 rounded-full bg-black/40 backdrop-blur-md flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300 border border-white/10">
-                <Maximize2 className="w-4 h-4 text-white" />
+              <div className="absolute top-4 right-4 flex size-8 items-center justify-center rounded-full border border-white/10 bg-black/40 opacity-0 backdrop-blur-md transition-opacity duration-300 group-hover:opacity-100">
+                <Maximize2 className="size-4 text-white" />
               </div>
             </motion.div>
           );
