@@ -15,4 +15,12 @@
       2026-10-03 <a href="https://www.bing.com/th?id=OHR.ArtemisRocket_ZH-CN1768541365_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_UHD.jpg" alt="南极洲的阿德利企鹅 (© Otto Plantema/Minden Pictures)" /><br>
+      2026-10-04 <a href="https://www.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

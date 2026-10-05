@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260904",
-    "url": "https://www.bing.com/th?id=OHR.GreenCrowned_JA-JP4075782685_UHD.jpg",
-    "copyright": "ミドリボウシテリハチドリ, コスタリカ (© Paul Hobson/Nature Picture Library)"
-  },
-  {
     "date": "20260905",
     "url": "https://www.bing.com/th?id=OHR.LakeFyans_JA-JP2778092364_UHD.jpg",
     "copyright": "ファイアンズ湖, オーストラリア (© tracielouise/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20261003",
     "url": "https://www.bing.com/th?id=OHR.ArtemisRocket_JA-JP8925094178_UHD.jpg",
     "copyright": "アルテミス I のロケット, 米国 フロリダ州 (© EVA MARIE UZCATEGUI/Getty Images)"
+  },
+  {
+    "date": "20261004",
+    "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_JA-JP9090254921_UHD.jpg",
+    "copyright": "アデリーペンギンのグループ, 南極大陸 (© Otto Plantema/Minden Pictures)"
   }
 ]
