@@ -1,0 +1,17 @@
+#!/bin/sh
+
+commit_msg_file=$1
+first_line=$(head -n 1 "$commit_msg_file")
+case "$first_line" in
+  Merge\ *|Revert\ *)
+    exit 0
+    ;;
+esac
+
+pattern="^(fix|feat|build|chore|ci|docs|style|refactor|perf|test)(\([a-zA-Z0-9_-]+\))?!?: [^[:space:]].*"
+
+if ! printf "%s\n" "$first_line" | grep -qE "$pattern"; then
+  echo "❌ Incorrect commit message format!"
+  echo "Example: feat(login): add user login feature"
+  exit 1
+fi

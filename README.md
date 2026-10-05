@@ -1,22 +1,23 @@
 # Bing Wallpaper
 
-An automated tool and archive for fetching, storing, and releasing daily Bing wallpapers from multiple markets. Powered by Go and GitHub Actions.
+An automated tool and archive for fetching, storing, and releasing daily Bing wallpapers from multiple markets. Powered by Go and GitHub Actions, with a React gallery in `web/`.
 
 ## [Frontend](https://zryyyy.github.io/bing-wallpaper/)
 
-[Source Code](https://github.com/zryyyy/bing-wallpaper/tree/frontend)
+[Frontend source and development guide](./web/)
 
 ![Frontend Screenshot](./assets/screenshot.png)
 
 ## Features
 
-* **Multi-Market Support**: Fetches daily UHD wallpapers from Bing for various regions: `zh-CN`, `en-GB`, `en-US`, `en-WW`, and `ja-JP`.
+* **Multi-Market Support**: Fetches daily UHD wallpapers from Bing for various regions: `zh-CN`, `en-GB`, `en-US`, `en-SG` (Global), and `ja-JP`.
 * **Automated Daily Updates**: A GitHub Actions workflow runs daily to fetch new wallpapers, update the JSON data, and auto-generate markdown galleries.
 * **Monthly Releases**: Automatically downloads and packages each month's wallpapers into a `.zip` archive, creating a GitHub Release on the 2nd of every month.
 * **Markdown Galleries**: Generates visual `README.md` and `README-zh.md` galleries for each month, allowing easy browsing and direct downloads.
 
 ## Repository Structure
 
+* `web/`: React, TypeScript, and Vite gallery, including its own dependencies and build configuration.
 * `main.go`: The main entry point for the application.
 * `fetcher/`: Handles API requests to Bing's Image Archive to retrieve wallpaper metadata.
 * `storage/`: Manages reading, merging, and saving JSON metadata for the wallpapers.
@@ -47,12 +48,26 @@ go run main.go -action release -month YYYY-MM
 go run main.go -action release
 ```
 
+### Running the Frontend
+
+Use Node.js 24 or later. From the repository root:
+
+```bash
+npm --prefix web ci
+npm --prefix web run dev
+```
+
+The gallery reads JSON from `master/img` on GitHub at runtime. Updating the archive does not require rebuilding the website. See [web/README.md](./web/README.md) for checks, builds, and Git hook behavior.
+
 ## Automation (GitHub Actions)
 
-This repository includes two built-in GitHub Actions workflows to keep the archive up to date completely hands-off:
+This repository includes three GitHub Actions workflows to keep the archive up to date completely hands-off:
 
 1. **Daily Update (`daily.yml`)**: Runs automatically at 00:30 UTC every day. It executes the `update` action, commits the new JSON metadata and generated markdown files, and pushes them directly to the repository.
 2. **Monthly Release (`release.yml`)**: Runs automatically at 00:00 UTC on the 2nd of every month. It executes the `release` action, packages the previous month's wallpapers into a ZIP file, and publishes a new GitHub Release containing the archive.
+3. **Frontend CI and Pages (`deploy.yml`)**: Checks formatting, types, and the production build for frontend-related pull requests targeting `master`. Frontend-related pushes to `master` also deploy `web/dist` to GitHub Pages. Manual runs deploy only when `master` is selected. Changes limited to `img/` do not rebuild the website.
+
+GitHub Pages must use **GitHub Actions** as its build source. If the `github-pages` environment restricts deployment branches, allow `master`. The old `frontend` branch is retained for historical reference; ongoing frontend development belongs in `web/` on the main branch.
 
 ## Acknowledgments
 

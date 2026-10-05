@@ -27,3 +27,11 @@ vendor/
 # Node.js
 dist/
 node_modules/
+dist-ssr/
+.vite/
+coverage/
+*.local
+
+# Frontend logs
+logs/
+*.log

@@ -1,0 +1,18 @@
+#!/bin/sh
+set -eu
+
+root=$(git rev-parse --show-toplevel)
+cd "$root"
+
+# Archive-only and Go-only commits must not require a Node.js environment.
+if git diff --cached --quiet -- web/; then
+    exit 0
+fi
+
+if [ ! -d web/node_modules ]; then
+    echo "Frontend dependencies are missing. Run: npm --prefix web ci"
+    exit 1
+fi
+
+# Check without rewriting files or staging unrelated working-tree changes.
+npm --prefix web run ci
