@@ -20,7 +20,10 @@
       <img src="https://www.bing.com/th?id=OHR.CastelnaudPatrimoine_ROW3072375181_UHD.jpg" alt="Château de Castelnaud overlooking the river Dordogne, France (© garethkirklandphotogrphy/Getty Images)" /><br>
       2026-10-04 <a href="https://www.bing.com/th?id=OHR.CastelnaudPatrimoine_ROW3072375181_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AdelieTeacher_ROW3833533139_UHD.jpg" alt="Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)" /><br>
+      2026-10-05 <a href="https://www.bing.com/th?id=OHR.AdelieTeacher_ROW3833533139_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

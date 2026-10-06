@@ -20,7 +20,10 @@
       <img src="https://www.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_UHD.jpg" alt="南极洲的阿德利企鹅 (© Otto Plantema/Minden Pictures)" /><br>
       2026-10-04 <a href="https://www.bing.com/th?id=OHR.AdelieTeacher_ZH-CN2201820679_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_UHD.jpg" alt="丹霞地貌，张掖国家地质公园，甘肃省，中国 (© Weiquan Lin/Getty Images)" /><br>
+      2026-10-05 <a href="https://www.bing.com/th?id=OHR.DanxiaLandform_ZH-CN2386060246_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
