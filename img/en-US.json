@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260906",
-    "url": "https://www.bing.com/th?id=OHR.LakeFyans_EN-US4295341714_UHD.jpg",
-    "copyright": "Lake Fyans, Grampians National Park, Victoria, Australia (© tracielouise/Getty Images)"
-  },
-  {
     "date": "20260907",
     "url": "https://www.bing.com/th?id=OHR.RalphStackpole_EN-US4463800234_UHD.jpg",
     "copyright": "'Industries of California' mural by Ralph Stackpole at Coit Tower, San Francisco, California (© David R. Frazier Photolibrary, Inc./Alamy)"
@@ -148,5 +143,10 @@
     "date": "20261005",
     "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_EN-US5343194378_UHD.jpg",
     "copyright": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)"
+  },
+  {
+    "date": "20261006",
+    "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_EN-US5459628079_UHD.jpg",
+    "copyright": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)"
   }
 ]

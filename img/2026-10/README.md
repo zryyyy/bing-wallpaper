@@ -24,6 +24,9 @@
       <img src="https://www.bing.com/th?id=OHR.AdelieTeacher_ROW3833533139_UHD.jpg" alt="Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)" /><br>
       2026-10-05 <a href="https://www.bing.com/th?id=OHR.AdelieTeacher_ROW3833533139_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.DanxiaLandform_ROW6165298580_UHD.jpg" alt="Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)" /><br>
+      2026-10-06 <a href="https://www.bing.com/th?id=OHR.DanxiaLandform_ROW6165298580_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
