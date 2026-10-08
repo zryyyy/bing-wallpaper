@@ -29,4 +29,12 @@
       2026-10-06 <a href="https://www.bing.com/th?id=OHR.DanxiaLandform_ROW6165298580_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.ForestofDean_ROW6726223892_UHD.jpg" alt="Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)" /><br>
+      2026-10-07 <a href="https://www.bing.com/th?id=OHR.ForestofDean_ROW6726223892_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

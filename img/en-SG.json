@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260907",
-    "url": "https://www.bing.com/th?id=OHR.BambergTownhall_ROW2569522095_UHD.jpg",
-    "copyright": "Old Town Hall, Bamberg, Germany (© SCStock/Getty Images)"
-  },
-  {
     "date": "20260908",
     "url": "https://www.bing.com/th?id=OHR.BeechEngland_ROW3028721183_UHD.jpg",
     "copyright": "Beech tree in a cereal field, East Meon, South Downs National Park, Hampshire, England (© Guy Edwardes/Minden Pictures)"
@@ -148,5 +143,10 @@
     "date": "20261006",
     "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_ROW6165298580_UHD.jpg",
     "copyright": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)"
+  },
+  {
+    "date": "20261007",
+    "url": "https://www.bing.com/th?id=OHR.ForestofDean_ROW6726223892_UHD.jpg",
+    "copyright": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)"
   }
 ]

@@ -29,4 +29,12 @@
       2026-10-06 <a href="https://www.bing.com/th?id=OHR.ForestofDean_ZH-CN2654753621_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_UHD.jpg" alt="印度洋马约特岛，一只呈防御姿态的章鱼 (© Gabriel Barathieu/Minden Pictures)" /><br>
+      2026-10-07 <a href="https://www.bing.com/th?id=OHR.MayotteOctopus_ZH-CN2837659998_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
