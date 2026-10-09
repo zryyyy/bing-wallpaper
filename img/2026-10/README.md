@@ -34,7 +34,10 @@
       <img src="https://www.bing.com/th?id=OHR.ForestofDean_ROW6726223892_UHD.jpg" alt="Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)" /><br>
       2026-10-07 <a href="https://www.bing.com/th?id=OHR.ForestofDean_ROW6726223892_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MayotteOctopus_ROW7337263277_UHD.jpg" alt="Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)" /><br>
+      2026-10-08 <a href="https://www.bing.com/th?id=OHR.MayotteOctopus_ROW7337263277_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
