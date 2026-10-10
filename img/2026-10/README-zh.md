@@ -38,6 +38,9 @@
       <img src="https://www.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_UHD.jpg" alt="桑吉奈尔群岛景观，摄自科西嘉岛，法国 (© Francesco Riccardo Iacomino/Getty Images)" /><br>
       2026-10-08 <a href="https://www.bing.com/th?id=OHR.IlesSanguinaires_ZH-CN3149346035_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_UHD.jpg" alt="蒙特雷湾上空的双冠鸬鹚，加利福尼亚州，美国 (© Hiroya Minakuchi/Minden Pictures)" /><br>
+      2026-10-09 <a href="https://www.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

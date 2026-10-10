@@ -38,6 +38,9 @@
       <img src="https://www.bing.com/th?id=OHR.MayotteOctopus_ROW7337263277_UHD.jpg" alt="Octopus in defensive posture, Mayotte, Indian Ocean (© Gabriel Barathieu/Minden Pictures)" /><br>
       2026-10-08 <a href="https://www.bing.com/th?id=OHR.MayotteOctopus_ROW7337263277_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.IlesSanguinaires_ROW8228238206_UHD.jpg" alt="View of the Sanguinaires Islands from Corsica, France (© Francesco Riccardo Iacomino/Getty Images)" /><br>
+      2026-10-09 <a href="https://www.bing.com/th?id=OHR.IlesSanguinaires_ROW8228238206_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
