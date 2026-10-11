@@ -43,4 +43,12 @@
       2026-10-09 <a href="https://www.bing.com/th?id=OHR.IlesSanguinaires_ROW8228238206_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.CormorantsFlight_ROW8571720617_UHD.jpg" alt="Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)" /><br>
+      2026-10-10 <a href="https://www.bing.com/th?id=OHR.CormorantsFlight_ROW8571720617_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

@@ -43,4 +43,12 @@
       2026-10-09 <a href="https://www.bing.com/th?id=OHR.CormorantsFlight_ZH-CN0770863330_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_UHD.jpg" alt="格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国 (© dszc/Getty Images)" /><br>
+      2026-10-10 <a href="https://www.bing.com/th?id=OHR.BabcockSP_ZH-CN5266848536_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
