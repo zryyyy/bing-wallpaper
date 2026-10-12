@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260911",
-    "url": "https://www.bing.com/th?id=OHR.Flight93_EN-US5966783443_UHD.jpg",
-    "copyright": "The Flight 93 National Memorial Visitor Center near Shanksville, Pennsylvania (© Maurice Savage/Alamy)"
-  },
-  {
     "date": "20260912",
     "url": "https://www.bing.com/th?id=OHR.SardineBait_EN-US4802395270_UHD.jpg",
     "copyright": "California sea lions hunting a sardine bait ball, offshore Mexico, Pacific Ocean (© Henley Spiers/Nature Picture Library)"
@@ -148,5 +143,10 @@
     "date": "20261010",
     "url": "https://www.bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg",
     "copyright": "Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)"
+  },
+  {
+    "date": "20261011",
+    "url": "https://www.bing.com/th?id=OHR.BabcockSP_EN-US6068931791_UHD.jpg",
+    "copyright": "Glade Creek Grist Mill, Babcock State Park, West Virginia (© dszc/Getty Images)"
   }
 ]

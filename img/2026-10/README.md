@@ -48,7 +48,10 @@
       <img src="https://www.bing.com/th?id=OHR.CormorantsFlight_ROW8571720617_UHD.jpg" alt="Double-crested cormorants over Monterey Bay, California, United States (© Hiroya Minakuchi/Minden Pictures)" /><br>
       2026-10-10 <a href="https://www.bing.com/th?id=OHR.CormorantsFlight_ROW8571720617_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BabcockSP_ROW9110416835_UHD.jpg" alt="Glade Creek Grist Mill, Babcock State Park, West Virginia, United States (© dszc/Getty Images)" /><br>
+      2026-10-11 <a href="https://www.bing.com/th?id=OHR.BabcockSP_ROW9110416835_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
