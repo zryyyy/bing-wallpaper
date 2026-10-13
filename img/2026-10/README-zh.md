@@ -52,6 +52,9 @@
       <img src="https://www.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg" alt="曼布尔斯码头，斯旺西，威尔士 (© Helen Hotson/Shutterstock)" /><br>
       2026-10-11 <a href="https://www.bing.com/th?id=OHR.MumblesSwansea2026_ZH-CN5419531039_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg" alt="普利特维采湖群国家公园，克罗地亚 (© Jan Wlodarczyk/Alamy)" /><br>
+      2026-10-12 <a href="https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

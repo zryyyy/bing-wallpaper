@@ -52,6 +52,17 @@
       <img src="https://www.bing.com/th?id=OHR.BabcockSP_ROW9110416835_UHD.jpg" alt="Glade Creek Grist Mill, Babcock State Park, West Virginia, United States (© dszc/Getty Images)" /><br>
       2026-10-11 <a href="https://www.bing.com/th?id=OHR.BabcockSP_ROW9110416835_UHD.jpg">Download</a>
     </td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MumblesSwansea2026_ROW0047867144_UHD.jpg" alt="Mumbles Pier, Swansea, Wales (© Helen Hotson/Shutterstock)" /><br>
+      2026-10-12 <a href="https://www.bing.com/th?id=OHR.MumblesSwansea2026_ROW0047867144_UHD.jpg">Download</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.PlitviceAutumn_ROW0890292044_UHD.jpg" alt="Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)" /><br>
+      2026-10-13 <a href="https://www.bing.com/th?id=OHR.PlitviceAutumn_ROW0890292044_UHD.jpg">Download</a>
+    </td>
+    <td></td>
     <td></td>
   </tr>
 </table>
