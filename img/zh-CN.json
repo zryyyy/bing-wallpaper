@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260913",
-    "url": "https://www.bing.com/th?id=OHR.KochiaChina_ZH-CN4719995421_UHD.jpg",
-    "copyright": "地肤田，中国 (© lingqi xie/Getty Images)"
-  },
-  {
     "date": "20260914",
     "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_ZH-CN5045822113_UHD.jpg",
     "copyright": "红绿金刚鹦鹉 (© markes51/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20261012",
     "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg",
     "copyright": "普利特维采湖群国家公园，克罗地亚 (© Jan Wlodarczyk/Alamy)"
+  },
+  {
+    "date": "20261013",
+    "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg",
+    "copyright": "侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)"
   }
 ]

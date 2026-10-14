@@ -57,4 +57,12 @@
       2026-10-12 <a href="https://www.bing.com/th?id=OHR.PlitviceAutumn_ZH-CN5646237897_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg" alt="侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)" /><br>
+      2026-10-13 <a href="https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
