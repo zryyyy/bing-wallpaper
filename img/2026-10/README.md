@@ -62,7 +62,10 @@
       <img src="https://www.bing.com/th?id=OHR.PlitviceAutumn_ROW0890292044_UHD.jpg" alt="Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)" /><br>
       2026-10-13 <a href="https://www.bing.com/th?id=OHR.PlitviceAutumn_ROW0890292044_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AmmoniteFossils_ROW1149504413_UHD.jpg" alt="Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)" /><br>
+      2026-10-14 <a href="https://www.bing.com/th?id=OHR.AmmoniteFossils_ROW1149504413_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

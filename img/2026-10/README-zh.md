@@ -62,7 +62,10 @@
       <img src="https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg" alt="侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)" /><br>
       2026-10-13 <a href="https://www.bing.com/th?id=OHR.AmmoniteFossils_ZH-CN5825251327_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg" alt="弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰 (© Piotr Mitelski/Shutterstock)" /><br>
+      2026-10-14 <a href="https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
