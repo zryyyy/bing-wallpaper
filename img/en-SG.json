@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260915",
-    "url": "https://www.bing.com/th?id=OHR.RedMacawsFlight_ROW6429842138_UHD.jpg",
-    "copyright": "Red-and-green macaws (© markes51/Getty Images)"
-  },
-  {
     "date": "20260916",
     "url": "https://www.bing.com/th?id=OHR.IcyCubs_ROW6681401044_UHD.jpg",
     "copyright": "Polar bear cubs playing in Svalbard, Norway (© Danny Green/Nature Picture Library)"
@@ -148,5 +143,10 @@
     "date": "20261014",
     "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_ROW1149504413_UHD.jpg",
     "copyright": "Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)"
+  },
+  {
+    "date": "20261015",
+    "url": "https://www.bing.com/th?id=OHR.NiagaraOnt_ROW1418204353_UHD.jpg",
+    "copyright": "Horseshoe Falls illuminated at night in Niagara Falls, Ontario, Canada (© Jianmei Wang/Getty Images)"
   }
 ]

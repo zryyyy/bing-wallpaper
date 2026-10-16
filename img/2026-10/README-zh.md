@@ -66,6 +66,9 @@
       <img src="https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg" alt="弗罗茨瓦夫集市广场景观，摄自女巫桥，弗罗茨瓦夫，波兰 (© Piotr Mitelski/Shutterstock)" /><br>
       2026-10-14 <a href="https://www.bing.com/th?id=OHR.WroclawPoland_ZH-CN6042428292_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg" alt="斯奈费尔斯山，里奇韦附近的圣胡安山脉，科罗拉多州，美国 (© lightphoto/Getty Images)" /><br>
+      2026-10-15 <a href="https://www.bing.com/th?id=OHR.SneffelsAutumn_ZH-CN3002661429_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

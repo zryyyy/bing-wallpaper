@@ -66,6 +66,9 @@
       <img src="https://www.bing.com/th?id=OHR.AmmoniteFossils_ROW1149504413_UHD.jpg" alt="Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)" /><br>
       2026-10-14 <a href="https://www.bing.com/th?id=OHR.AmmoniteFossils_ROW1149504413_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.NiagaraOnt_ROW1418204353_UHD.jpg" alt="Horseshoe Falls illuminated at night in Niagara Falls, Ontario, Canada (© Jianmei Wang/Getty Images)" /><br>
+      2026-10-15 <a href="https://www.bing.com/th?id=OHR.NiagaraOnt_ROW1418204353_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
