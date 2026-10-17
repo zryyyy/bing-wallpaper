@@ -71,4 +71,12 @@
       2026-10-15 <a href="https://www.bing.com/th?id=OHR.NiagaraOnt_ROW1418204353_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SneffelsAutumn_ROW9027717849_UHD.jpg" alt="Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)" /><br>
+      2026-10-16 <a href="https://www.bing.com/th?id=OHR.SneffelsAutumn_ROW9027717849_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
