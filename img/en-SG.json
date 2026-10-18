@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260917",
-    "url": "https://www.bing.com/th?id=OHR.Santenay_ROW6963784310_UHD.jpg",
-    "copyright": "Sorine windmill and vineyards, Santenay wine region, Côte de Beaune, Burgundy, France (© Marco Bottigelli/Getty Images)"
-  },
-  {
     "date": "20260918",
     "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_ROW1327716506_UHD.jpg",
     "copyright": "Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20261016",
     "url": "https://www.bing.com/th?id=OHR.SneffelsAutumn_ROW9027717849_UHD.jpg",
     "copyright": "Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)"
+  },
+  {
+    "date": "20261017",
+    "url": "https://www.bing.com/th?id=OHR.PerugiaAqueduct_ROW9255897123_UHD.jpg",
+    "copyright": "Medieval Aqueduct, Perugia, Italy (© Marco Saracco/Getty Images)"
   }
 ]

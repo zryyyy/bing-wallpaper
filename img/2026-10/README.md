@@ -76,7 +76,10 @@
       <img src="https://www.bing.com/th?id=OHR.SneffelsAutumn_ROW9027717849_UHD.jpg" alt="Mount Sneffels in the San Juan Mountains near Ridgway, Colorado, United States (© lightphoto/Getty Images)" /><br>
       2026-10-16 <a href="https://www.bing.com/th?id=OHR.SneffelsAutumn_ROW9027717849_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.PerugiaAqueduct_ROW9255897123_UHD.jpg" alt="Medieval Aqueduct, Perugia, Italy (© Marco Saracco/Getty Images)" /><br>
+      2026-10-17 <a href="https://www.bing.com/th?id=OHR.PerugiaAqueduct_ROW9255897123_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

@@ -76,7 +76,10 @@
       <img src="https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_UHD.jpg" alt="肖维岩洞艺术作品等比例复制品，瓦隆蓬达尔克，法国 (© Audrey Poree/Alamy)" /><br>
       2026-10-16 <a href="https://www.bing.com/th?id=OHR.ChauvetPaintingsFrance_ZH-CN3150703955_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg" alt="多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士 (© joe daniel price/Getty Images)" /><br>
+      2026-10-17 <a href="https://www.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
