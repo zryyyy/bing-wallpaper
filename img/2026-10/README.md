@@ -80,6 +80,9 @@
       <img src="https://www.bing.com/th?id=OHR.PerugiaAqueduct_ROW9255897123_UHD.jpg" alt="Medieval Aqueduct, Perugia, Italy (© Marco Saracco/Getty Images)" /><br>
       2026-10-17 <a href="https://www.bing.com/th?id=OHR.PerugiaAqueduct_ROW9255897123_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.DolbadarnWales_ROW9422076532_UHD.jpg" alt="Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)" /><br>
+      2026-10-18 <a href="https://www.bing.com/th?id=OHR.DolbadarnWales_ROW9422076532_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

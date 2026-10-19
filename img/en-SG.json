@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260918",
-    "url": "https://www.bing.com/th?id=OHR.WinnatsPassPeak_ROW1327716506_UHD.jpg",
-    "copyright": "Winnats Pass, Peak District National Park, England (© Daniel_Kay/Getty Images)"
-  },
-  {
     "date": "20260919",
     "url": "https://www.bing.com/th?id=OHR.Lencois_ROW1554257872_UHD.jpg",
     "copyright": "Lençóis Maranhenses National Park, Brazil (© Ignacio Palacios/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20261017",
     "url": "https://www.bing.com/th?id=OHR.PerugiaAqueduct_ROW9255897123_UHD.jpg",
     "copyright": "Medieval Aqueduct, Perugia, Italy (© Marco Saracco/Getty Images)"
+  },
+  {
+    "date": "20261018",
+    "url": "https://www.bing.com/th?id=OHR.DolbadarnWales_ROW9422076532_UHD.jpg",
+    "copyright": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)"
   }
 ]

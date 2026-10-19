@@ -80,6 +80,9 @@
       <img src="https://www.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg" alt="多巴达恩城堡，兰贝里斯，斯诺登尼亚国家公园，威尔士 (© joe daniel price/Getty Images)" /><br>
       2026-10-17 <a href="https://www.bing.com/th?id=OHR.DolbadarnWales_ZH-CN3649667806_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_UHD.jpg" alt="大运河，威尼斯，意大利 (© Juan Romero/Cavan Images)" /><br>
+      2026-10-18 <a href="https://www.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
