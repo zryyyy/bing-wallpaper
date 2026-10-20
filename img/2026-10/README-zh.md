@@ -85,4 +85,12 @@
       2026-10-18 <a href="https://www.bing.com/th?id=OHR.VeniceSunrise_ZH-CN5251815339_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg" alt="褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures)" /><br>
+      2026-10-19 <a href="https://www.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
