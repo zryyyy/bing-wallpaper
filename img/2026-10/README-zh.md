@@ -90,7 +90,10 @@
       <img src="https://www.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg" alt="褐喉三趾树懒，塔拉曼卡旧港，哥斯达黎加 (© Suzi Eszterhas/Minden Pictures)" /><br>
       2026-10-19 <a href="https://www.bing.com/th?id=OHR.BrownSloth_ZH-CN5776383136_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg" alt="香江上的阮潢桥，顺化，越南 (© VU PHAM VAN/Getty Images)" /><br>
+      2026-10-20 <a href="https://www.bing.com/th?id=OHR.VietnamBridge_ZH-CN6134321119_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

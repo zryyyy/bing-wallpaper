@@ -90,7 +90,10 @@
       <img src="https://www.bing.com/th?id=OHR.VeniceSunrise_ROW9643744702_UHD.jpg" alt="Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)" /><br>
       2026-10-19 <a href="https://www.bing.com/th?id=OHR.VeniceSunrise_ROW9643744702_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BrownSloth_ROW9869731535_UHD.jpg" alt="Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)" /><br>
+      2026-10-20 <a href="https://www.bing.com/th?id=OHR.BrownSloth_ROW9869731535_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
