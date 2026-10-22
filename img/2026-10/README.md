@@ -94,6 +94,9 @@
       <img src="https://www.bing.com/th?id=OHR.BrownSloth_ROW9869731535_UHD.jpg" alt="Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)" /><br>
       2026-10-20 <a href="https://www.bing.com/th?id=OHR.BrownSloth_ROW9869731535_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.VietnamBridge_ROW0147548772_UHD.jpg" alt="Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)" /><br>
+      2026-10-21 <a href="https://www.bing.com/th?id=OHR.VietnamBridge_ROW0147548772_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
