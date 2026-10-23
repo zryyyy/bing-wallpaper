@@ -99,4 +99,12 @@
       2026-10-21 <a href="https://www.bing.com/th?id=OHR.NaejangsanNP_ZH-CN6538893004_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg" alt="两只灰狼，黄石国家公园，怀俄明州，美国 (© John Morrison/Getty Images)" /><br>
+      2026-10-22 <a href="https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

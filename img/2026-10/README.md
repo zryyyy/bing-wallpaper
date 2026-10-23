@@ -99,4 +99,12 @@
       2026-10-21 <a href="https://www.bing.com/th?id=OHR.VietnamBridge_ROW0147548772_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.NaejangsanNP_ROW0481262720_UHD.jpg" alt="Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)" /><br>
+      2026-10-22 <a href="https://www.bing.com/th?id=OHR.NaejangsanNP_ROW0481262720_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
