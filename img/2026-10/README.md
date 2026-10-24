@@ -104,7 +104,10 @@
       <img src="https://www.bing.com/th?id=OHR.NaejangsanNP_ROW0481262720_UHD.jpg" alt="Autumn in Naejangsan National Park, South Korea (© Twenty47studio/Getty Images)" /><br>
       2026-10-22 <a href="https://www.bing.com/th?id=OHR.NaejangsanNP_ROW0481262720_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.YellowstoneWolves_ROW0688697251_UHD.jpg" alt="Two grey wolves, Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images)" /><br>
+      2026-10-23 <a href="https://www.bing.com/th?id=OHR.YellowstoneWolves_ROW0688697251_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

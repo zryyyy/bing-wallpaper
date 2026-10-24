@@ -104,7 +104,10 @@
       <img src="https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg" alt="两只灰狼，黄石国家公园，怀俄明州，美国 (© John Morrison/Getty Images)" /><br>
       2026-10-22 <a href="https://www.bing.com/th?id=OHR.YellowstoneWolves_ZH-CN6767268961_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg" alt="皇家葡萄牙语阅览室，里约热内卢，巴西 (© Antonio Salaverry/Shutterstock)" /><br>
+      2026-10-23 <a href="https://www.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
