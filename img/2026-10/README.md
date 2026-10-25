@@ -108,6 +108,9 @@
       <img src="https://www.bing.com/th?id=OHR.YellowstoneWolves_ROW0688697251_UHD.jpg" alt="Two grey wolves, Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images)" /><br>
       2026-10-23 <a href="https://www.bing.com/th?id=OHR.YellowstoneWolves_ROW0688697251_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Tanager_ROW0977269473_UHD.jpg" alt="Green-headed tanager (© Juan Carlos Vindas/Getty Images)" /><br>
+      2026-10-24 <a href="https://www.bing.com/th?id=OHR.Tanager_ROW0977269473_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

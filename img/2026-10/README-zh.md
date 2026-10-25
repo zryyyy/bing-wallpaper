@@ -108,6 +108,9 @@
       <img src="https://www.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg" alt="皇家葡萄牙语阅览室，里约热内卢，巴西 (© Antonio Salaverry/Shutterstock)" /><br>
       2026-10-23 <a href="https://www.bing.com/th?id=OHR.PortugueseLibrary_ZH-CN7096893027_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg" alt="玛琳湖，贾斯珀国家公园，艾伯塔省，加拿大 (© Andrey Popov/Getty Images)" /><br>
+      2026-10-24 <a href="https://www.bing.com/th?id=OHR.MaligneFest_ZH-CN8343066766_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
