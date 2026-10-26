@@ -113,4 +113,12 @@
       2026-10-24 <a href="https://www.bing.com/th?id=OHR.Tanager_ROW0977269473_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MaligneFest_ROW1322674228_UHD.jpg" alt="Maligne Lake, Jasper National Park, Alberta, Canada (© Andrey Popov/Getty Images)" /><br>
+      2026-10-25 <a href="https://www.bing.com/th?id=OHR.MaligneFest_ROW1322674228_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
