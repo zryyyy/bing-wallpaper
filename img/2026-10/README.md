@@ -118,7 +118,10 @@
       <img src="https://www.bing.com/th?id=OHR.MaligneFest_ROW1322674228_UHD.jpg" alt="Maligne Lake, Jasper National Park, Alberta, Canada (© Andrey Popov/Getty Images)" /><br>
       2026-10-25 <a href="https://www.bing.com/th?id=OHR.MaligneFest_ROW1322674228_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SitovoWaterfall_ROW1586593105_UHD.jpg" alt="Autumn waterfalls near Sitovo, Plovdiv Province, Bulgaria (© Nadya85/Getty Images)" /><br>
+      2026-10-26 <a href="https://www.bing.com/th?id=OHR.SitovoWaterfall_ROW1586593105_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
