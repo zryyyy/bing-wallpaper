@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260927",
-    "url": "https://www.bing.com/th?id=OHR.AmberHall_EN-GB9719100676_UHD.jpg",
-    "copyright": "Sattais Katcheri Hall in Amber Fort near Jaipur, Rajasthan, India (© R.M. Nunes/Getty Images)"
-  },
-  {
     "date": "20260928",
     "url": "https://www.bing.com/th?id=OHR.KasilofRiver_EN-GB9796874794_UHD.jpg",
     "copyright": "The blue, glacier-fed waters of the Kasilof River, Alaska, United States (© jared lloyd/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20261027",
     "url": "https://www.bing.com/th?id=OHR.PondCypress_EN-GB5711949030_UHD.jpg",
     "copyright": "A grove of pond cypress trees with autumn foliage, Georgia, United States (© Chris Moore/Getty Images)"
+  },
+  {
+    "date": "20261028",
+    "url": "https://www.bing.com/th?id=OHR.KuneticeCastle_EN-GB5805400783_UHD.jpg",
+    "copyright": "Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)"
   }
 ]

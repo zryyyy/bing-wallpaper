@@ -122,6 +122,9 @@
       <img src="https://www.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg" alt="秋叶缤纷的池杉林，乔治亚州，美国 (© Chris Moore/Getty Images)" /><br>
       2026-10-26 <a href="https://www.bing.com/th?id=OHR.PondCypress_ZH-CN9472607734_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg" alt="库涅季采山城堡，波希米亚，捷克 (© Marek Saroch/Alamy)" /><br>
+      2026-10-27 <a href="https://www.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
