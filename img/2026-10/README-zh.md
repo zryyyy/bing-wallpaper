@@ -127,4 +127,12 @@
       2026-10-27 <a href="https://www.bing.com/th?id=OHR.KuneticeCastle_ZH-CN8895858920_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg" alt="立石，埃夫伯里，威尔特郡，英格兰 (© George W Johnson/Getty Images)" /><br>
+      2026-10-28 <a href="https://www.bing.com/th?id=OHR.AveburyStones_ZH-CN9127100951_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

@@ -127,4 +127,12 @@
       2026-10-27 <a href="https://www.bing.com/th?id=OHR.PondCypress_ROW1830221412_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.KuneticeCastle_ROW1907560324_UHD.jpg" alt="Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)" /><br>
+      2026-10-28 <a href="https://www.bing.com/th?id=OHR.KuneticeCastle_ROW1907560324_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
