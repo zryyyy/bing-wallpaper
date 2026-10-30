@@ -132,7 +132,10 @@
       <img src="https://www.bing.com/th?id=OHR.KuneticeCastle_ROW1907560324_UHD.jpg" alt="Kunětická hora Castle, Bohemia, Czechia (© Marek Saroch/Alamy)" /><br>
       2026-10-28 <a href="https://www.bing.com/th?id=OHR.KuneticeCastle_ROW1907560324_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AveburyStones_ROW2156116179_UHD.jpg" alt="Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)" /><br>
+      2026-10-29 <a href="https://www.bing.com/th?id=OHR.AveburyStones_ROW2156116179_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
