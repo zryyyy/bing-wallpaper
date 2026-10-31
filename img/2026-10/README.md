@@ -136,6 +136,9 @@
       <img src="https://www.bing.com/th?id=OHR.AveburyStones_ROW2156116179_UHD.jpg" alt="Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)" /><br>
       2026-10-29 <a href="https://www.bing.com/th?id=OHR.AveburyStones_ROW2156116179_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AutumnCranes_ROW2927926233_UHD.jpg" alt="Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)" /><br>
+      2026-10-30 <a href="https://www.bing.com/th?id=OHR.AutumnCranes_ROW2927926233_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

@@ -136,6 +136,9 @@
       <img src="https://www.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_UHD.jpg" alt="沙丘鹤，博斯克德尔阿帕奇国家野生动物保护区，新墨西哥州，美国 (© Terry St.Louis/Getty Images)" /><br>
       2026-10-29 <a href="https://www.bing.com/th?id=OHR.AutumnCranes_ZH-CN5772055404_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg" alt="圣巴尔多禄茂教堂，法兰克福，德国 (© AlxeyPnferov/Getty Images)" /><br>
+      2026-10-30 <a href="https://www.bing.com/th?id=OHR.FrankfurtHalloween_ZH-CN5998782698_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

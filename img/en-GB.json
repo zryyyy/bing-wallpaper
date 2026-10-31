@@ -1,10 +1,5 @@
 [
   {
-    "date": "20260930",
-    "url": "https://www.bing.com/th?id=OHR.BlackHistoryMonthUK2026_EN-GB9938862434_UHD.jpg",
-    "copyright": "Panorama of Parliament Square and Nelson Mandela memorial, London (© ansharphoto/Shutterstock)"
-  },
-  {
     "date": "20261001",
     "url": "https://www.bing.com/th?id=OHR.ChattoogaRiver_EN-GB2495394216_UHD.jpg",
     "copyright": "Chattooga River in the Appalachian Mountains, North Carolina, United States (© mtilghma/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20261030",
     "url": "https://www.bing.com/th?id=OHR.AutumnCranes_EN-GB1528709848_UHD.jpg",
     "copyright": "Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)"
+  },
+  {
+    "date": "20261031",
+    "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-GB3041218795_UHD.jpg",
+    "copyright": "St Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)"
   }
 ]
