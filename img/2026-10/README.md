@@ -141,4 +141,12 @@
       2026-10-30 <a href="https://www.bing.com/th?id=OHR.AutumnCranes_ROW2927926233_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AlpineBraies_ROW3051494546_UHD.jpg" alt="Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)" /><br>
+      2026-10-31 <a href="https://www.bing.com/th?id=OHR.AlpineBraies_ROW3051494546_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

@@ -1,10 +1,5 @@
 [
   {
-    "date": "20261001",
-    "url": "https://www.bing.com/th?id=OHR.OlmstedPoint_ROW5031185741_UHD.jpg",
-    "copyright": "Sunset from Olmsted Point, Yosemite National Park, California, United States (© Robb Hirsch/Tandem Stills + Motion)"
-  },
-  {
     "date": "20261002",
     "url": "https://www.bing.com/th?id=OHR.ChattoogaRiver_ROW2393025936_UHD.jpg",
     "copyright": "Chattooga River in the Appalachian Mountains, North Carolina, United States (© mtilghma/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20261030",
     "url": "https://www.bing.com/th?id=OHR.AutumnCranes_ROW2927926233_UHD.jpg",
     "copyright": "Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)"
+  },
+  {
+    "date": "20261031",
+    "url": "https://www.bing.com/th?id=OHR.AlpineBraies_ROW3051494546_UHD.jpg",
+    "copyright": "Lake Braies, Fanes‑Sennes‑Braies Nature Park, Dolomites, Italy (© leonid_tit/Getty Images)"
   }
 ]
