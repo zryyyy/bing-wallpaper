@@ -1,10 +1,5 @@
 [
   {
-    "date": "20261002",
-    "url": "https://www.bing.com/th?id=OHR.ChattoogaRiver_EN-US5042787453_UHD.jpg",
-    "copyright": "Chattooga River in the Appalachian Mountains, North Carolina (© mtilghma/Getty Images)"
-  },
-  {
     "date": "20261003",
     "url": "https://www.bing.com/th?id=OHR.GrizzlySwim_EN-US5133524829_UHD.jpg",
     "copyright": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska (© Danny Green/Nature Picture Library)"
@@ -148,5 +143,10 @@
     "date": "20261031",
     "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg",
     "copyright": "St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)"
+  },
+  {
+    "date": "20261101",
+    "url": "https://www.bing.com/th?id=OHR.NativeBaskets_EN-US0205712064_UHD.jpg",
+    "copyright": "Handmade baskets, Santa Fe, New Mexico (© Patrick Lane/Getty Images)"
   }
 ]
