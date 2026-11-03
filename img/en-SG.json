@@ -1,10 +1,5 @@
 [
   {
-    "date": "20261003",
-    "url": "https://www.bing.com/th?id=OHR.GrizzlySwim_ROW2767752337_UHD.jpg",
-    "copyright": "Brown bear in Silver Salmon Creek, Lake Clark National Park and Preserve, Alaska, United States (© Danny Green/Nature Picture Library)"
-  },
-  {
     "date": "20261004",
     "url": "https://www.bing.com/th?id=OHR.CastelnaudPatrimoine_ROW3072375181_UHD.jpg",
     "copyright": "Château de Castelnaud overlooking the river Dordogne, France (© garethkirklandphotogrphy/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20261101",
     "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ROW3364796116_UHD.jpg",
     "copyright": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)"
+  },
+  {
+    "date": "20261102",
+    "url": "https://www.bing.com/th?id=OHR.HudsonBear_ROW5956466149_UHD.jpg",
+    "copyright": "Polar bear and cubs by Hudson Bay, Manitoba, Canada (© Danita Delimont/Adobe Stock)"
   }
 ]
