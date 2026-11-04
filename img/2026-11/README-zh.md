@@ -10,6 +10,9 @@
       <img src="https://www.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg" alt="布莱埃斯湖，法内斯-塞内斯-布莱埃斯湖自然公园，多洛米蒂山脉，意大利 (© leonid_tit/Getty Images)" /><br>
       2026-11-02 <a href="https://www.bing.com/th?id=OHR.AlpineBraies_ZH-CN7307997866_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg" alt="五彩落羽杉间划船的人们，宣城，安徽省，中国 (© Jackal Pan/Getty Images)" /><br>
+      2026-11-03 <a href="https://www.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
