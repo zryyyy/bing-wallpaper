@@ -15,4 +15,12 @@
       2026-11-03 <a href="https://www.bing.com/th?id=OHR.Camburiu_ROW3589076688_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AutumnChina_ROW6919148725_UHD.jpg" alt="People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)" /><br>
+      2026-11-04 <a href="https://www.bing.com/th?id=OHR.AutumnChina_ROW6919148725_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

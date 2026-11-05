@@ -1,10 +1,5 @@
 [
   {
-    "date": "20261005",
-    "url": "https://www.bing.com/th?id=OHR.AdelieTeacher_ROW3833533139_UHD.jpg",
-    "copyright": "Adélie penguins, Antarctica (© Otto Plantema/Minden Pictures)"
-  },
-  {
     "date": "20261006",
     "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_ROW6165298580_UHD.jpg",
     "copyright": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20261103",
     "url": "https://www.bing.com/th?id=OHR.Camburiu_ROW3589076688_UHD.jpg",
     "copyright": "Taquaras Beach, Balneário Camboriú, Brazil (© MaRabelo/Getty Images)"
+  },
+  {
+    "date": "20261104",
+    "url": "https://www.bing.com/th?id=OHR.AutumnChina_ROW6919148725_UHD.jpg",
+    "copyright": "People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)"
   }
 ]

@@ -1,10 +1,5 @@
 [
   {
-    "date": "20261005",
-    "url": "https://www.bing.com/th?id=OHR.DanxiaLandform_EN-GB2873051697_UHD.jpg",
-    "copyright": "Danxia landform, Zhangye National Geopark, Gansu, China (© Weiquan Lin/Getty Images)"
-  },
-  {
     "date": "20261006",
     "url": "https://www.bing.com/th?id=OHR.ForestofDean_EN-GB3000076093_UHD.jpg",
     "copyright": "Moss-covered rocks in Puzzlewood, Forest of Dean, Gloucestershire, England (© Fulcanelli_AOS/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20261104",
     "url": "https://www.bing.com/th?id=OHR.AutumnChina_EN-GB4167994080_UHD.jpg",
     "copyright": "People rowing among colourful bald cypress, Xuancheng, Anhui, China (© Jackal Pan/Getty Images)"
+  },
+  {
+    "date": "20261105",
+    "url": "https://www.bing.com/th?id=OHR.FireworksBattersea_EN-GB4505786809_UHD.jpg",
+    "copyright": "Fireworks over Battersea Power Station, London (© Michael Lee/Getty Images)"
   }
 ]

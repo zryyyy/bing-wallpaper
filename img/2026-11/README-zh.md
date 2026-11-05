@@ -15,4 +15,12 @@
       2026-11-03 <a href="https://www.bing.com/th?id=OHR.AutumnChina_ZH-CN7665959692_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg" alt="石墙边的木制翻越梯，黑岩，湖区，英格兰 (© Alex Treadway/Getty Images)" /><br>
+      2026-11-04 <a href="https://www.bing.com/th?id=OHR.StileCrossing_ZH-CN9811465935_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
