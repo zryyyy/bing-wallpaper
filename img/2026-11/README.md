@@ -24,6 +24,9 @@
       <img src="https://www.bing.com/th?id=OHR.StileCrossing_ROW6996983847_UHD.jpg" alt="Wooden stile at a stone wall, Black Crag, Lake District, England (© Alex Treadway/Getty Images)" /><br>
       2026-11-05 <a href="https://www.bing.com/th?id=OHR.StileCrossing_ROW6996983847_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.PipiwaiTrail_ROW7076353112_UHD.jpg" alt="Bamboo forest, Pīpīwai Trail, Haleakalā National Park, Maui, Hawaii, USA (© MNStudio/Getty Images)" /><br>
+      2026-11-06 <a href="https://www.bing.com/th?id=OHR.PipiwaiTrail_ROW7076353112_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
