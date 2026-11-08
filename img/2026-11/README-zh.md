@@ -29,4 +29,12 @@
       2026-11-06 <a href="https://www.bing.com/th?id=OHR.DakotaBison_ZH-CN2302503868_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg" alt="排灯节灯笼，孟买，马哈拉施特拉邦，印度 (© Dinodia Photo/Getty Images)" /><br>
+      2026-11-07 <a href="https://www.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
