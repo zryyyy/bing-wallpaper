@@ -34,7 +34,10 @@
       <img src="https://www.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg" alt="排灯节灯笼，孟买，马哈拉施特拉邦，印度 (© Dinodia Photo/Getty Images)" /><br>
       2026-11-07 <a href="https://www.bing.com/th?id=OHR.DiwaliLamps_ZH-CN2462894749_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg" alt="特里亚纳历史街区，塞维利亚，西班牙 (© Andrzej Rostek/Getty Images)" /><br>
+      2026-11-08 <a href="https://www.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
