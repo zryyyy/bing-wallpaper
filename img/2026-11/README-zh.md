@@ -38,6 +38,9 @@
       <img src="https://www.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg" alt="特里亚纳历史街区，塞维利亚，西班牙 (© Andrzej Rostek/Getty Images)" /><br>
       2026-11-08 <a href="https://www.bing.com/th?id=OHR.TrianaSpain_ZH-CN6329291776_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg" alt="玫瑰岛航拍图，巴哈马 (© Abstract Aerial Art/Getty Images)" /><br>
+      2026-11-09 <a href="https://www.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

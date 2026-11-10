@@ -38,6 +38,9 @@
       <img src="https://www.bing.com/th?id=OHR.DeltaEbro_ROW7248981899_UHD.jpg" alt="Flamingos in Ebro Delta Natural Park, Catalonia, Spain (© mafrmcfa/Getty Images)" /><br>
       2026-11-08 <a href="https://www.bing.com/th?id=OHR.DeltaEbro_ROW7248981899_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.TrianaSpain_ROW7617415595_UHD.jpg" alt="Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)" /><br>
+      2026-11-09 <a href="https://www.bing.com/th?id=OHR.TrianaSpain_ROW7617415595_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

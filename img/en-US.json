@@ -1,10 +1,5 @@
 [
   {
-    "date": "20261010",
-    "url": "https://www.bing.com/th?id=OHR.CormorantsFlight_EN-US5972403355_UHD.jpg",
-    "copyright": "Double-crested cormorants over Monterey Bay, California (© Hiroya Minakuchi/Minden Pictures)"
-  },
-  {
     "date": "20261011",
     "url": "https://www.bing.com/th?id=OHR.BabcockSP_EN-US6068931791_UHD.jpg",
     "copyright": "Glade Creek Grist Mill, Babcock State Park, West Virginia (© dszc/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20261108",
     "url": "https://www.bing.com/th?id=OHR.DiwaliLamps_EN-US0788074051_UHD.jpg",
     "copyright": "Lanterns for Diwali, Mumbai, Maharashtra, India (© Dinodia Photo/Getty Images)"
+  },
+  {
+    "date": "20261109",
+    "url": "https://www.bing.com/th?id=OHR.TrianaSpain_EN-US0872031458_UHD.jpg",
+    "copyright": "Historic district of Triana, Seville, Spain (© Andrzej Rostek/Getty Images)"
   }
 ]
