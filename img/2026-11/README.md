@@ -43,4 +43,12 @@
       2026-11-09 <a href="https://www.bing.com/th?id=OHR.TrianaSpain_ROW7617415595_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.RoseIsland_ROW8217613794_UHD.jpg" alt="Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)" /><br>
+      2026-11-10 <a href="https://www.bing.com/th?id=OHR.RoseIsland_ROW8217613794_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

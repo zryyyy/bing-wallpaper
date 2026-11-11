@@ -43,4 +43,12 @@
       2026-11-09 <a href="https://www.bing.com/th?id=OHR.RoseIsland_ZH-CN6477140814_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg" alt="大西洋森林，巴西 (© FG Trade/Getty Images)" /><br>
+      2026-11-10 <a href="https://www.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
