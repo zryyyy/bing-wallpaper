@@ -48,7 +48,10 @@
       <img src="https://www.bing.com/th?id=OHR.RoseIsland_ROW8217613794_UHD.jpg" alt="Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)" /><br>
       2026-11-10 <a href="https://www.bing.com/th?id=OHR.RoseIsland_ROW8217613794_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Atlantica_ROW8494593651_UHD.jpg" alt="The Atlantic Forest, Brazil (© FG Trade/Getty Images)" /><br>
+      2026-11-11 <a href="https://www.bing.com/th?id=OHR.Atlantica_ROW8494593651_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

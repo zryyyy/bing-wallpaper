@@ -1,10 +1,5 @@
 [
   {
-    "date": "20261012",
-    "url": "https://www.bing.com/th?id=OHR.MumblesSwansea2026_ROW0047867144_UHD.jpg",
-    "copyright": "Mumbles Pier, Swansea, Wales (© Helen Hotson/Shutterstock)"
-  },
-  {
     "date": "20261013",
     "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_ROW0890292044_UHD.jpg",
     "copyright": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)"
@@ -148,5 +143,10 @@
     "date": "20261110",
     "url": "https://www.bing.com/th?id=OHR.RoseIsland_ROW8217613794_UHD.jpg",
     "copyright": "Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)"
+  },
+  {
+    "date": "20261111",
+    "url": "https://www.bing.com/th?id=OHR.Atlantica_ROW8494593651_UHD.jpg",
+    "copyright": "The Atlantic Forest, Brazil (© FG Trade/Getty Images)"
   }
 ]

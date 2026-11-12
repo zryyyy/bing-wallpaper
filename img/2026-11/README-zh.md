@@ -48,7 +48,10 @@
       <img src="https://www.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg" alt="大西洋森林，巴西 (© FG Trade/Getty Images)" /><br>
       2026-11-10 <a href="https://www.bing.com/th?id=OHR.Atlantica_ZH-CN6593995386_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg" alt="北窗，拱门国家公园，莫阿布，犹他州，美国 (© lightphoto/Getty Images)" /><br>
+      2026-11-11 <a href="https://www.bing.com/th?id=OHR.NorthWindow_ZH-CN6734579353_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

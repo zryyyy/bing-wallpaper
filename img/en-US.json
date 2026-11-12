@@ -1,10 +1,5 @@
 [
   {
-    "date": "20261012",
-    "url": "https://www.bing.com/th?id=OHR.WhiteHouse_EN-US6161912809_UHD.jpg",
-    "copyright": "White House Ruin at Canyon de Chelly National Monument in Arizona (© Ingo Arndt/Minden Pictures)"
-  },
-  {
     "date": "20261013",
     "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_EN-US6255909048_UHD.jpg",
     "copyright": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)"
@@ -148,5 +143,10 @@
     "date": "20261110",
     "url": "https://www.bing.com/th?id=OHR.RoseIsland_EN-US0952497192_UHD.jpg",
     "copyright": "Aerial view of Rose Island, The Bahamas (© Abstract Aerial Art/Getty Images)"
+  },
+  {
+    "date": "20261111",
+    "url": "https://www.bing.com/th?id=OHR.SunsetFlags_EN-US1046151448_UHD.jpg",
+    "copyright": "American flags in a public park in upstate New York (© Matt Champlin/Getty Images)"
   }
 ]
