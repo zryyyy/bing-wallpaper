@@ -1,10 +1,5 @@
 [
   {
-    "date": "20261013",
-    "url": "https://www.bing.com/th?id=OHR.PlitviceAutumn_ROW0890292044_UHD.jpg",
-    "copyright": "Plitvice Lakes National Park, Croatia (© Jan Wlodarczyk/Alamy)"
-  },
-  {
     "date": "20261014",
     "url": "https://www.bing.com/th?id=OHR.AmmoniteFossils_ROW1149504413_UHD.jpg",
     "copyright": "Ammonite fossils from the Jurassic Period (© J Nemchinova/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20261111",
     "url": "https://www.bing.com/th?id=OHR.Atlantica_ROW8494593651_UHD.jpg",
     "copyright": "The Atlantic Forest, Brazil (© FG Trade/Getty Images)"
+  },
+  {
+    "date": "20261112",
+    "url": "https://www.bing.com/th?id=OHR.NorthWindow_ROW5709754561_UHD.jpg",
+    "copyright": "North Window, Arches National Park, Moab, Utah, USA (© lightphoto/Getty Images)"
   }
 ]

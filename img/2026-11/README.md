@@ -52,6 +52,9 @@
       <img src="https://www.bing.com/th?id=OHR.Atlantica_ROW8494593651_UHD.jpg" alt="The Atlantic Forest, Brazil (© FG Trade/Getty Images)" /><br>
       2026-11-11 <a href="https://www.bing.com/th?id=OHR.Atlantica_ROW8494593651_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.NorthWindow_ROW5709754561_UHD.jpg" alt="North Window, Arches National Park, Moab, Utah, USA (© lightphoto/Getty Images)" /><br>
+      2026-11-12 <a href="https://www.bing.com/th?id=OHR.NorthWindow_ROW5709754561_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
