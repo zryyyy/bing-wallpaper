@@ -57,4 +57,12 @@
       2026-11-12 <a href="https://www.bing.com/th?id=OHR.NorthWindow_ROW5709754561_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.AbrahamCanada_ROW4975668347_UHD.jpg" alt="Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images)" /><br>
+      2026-11-13 <a href="https://www.bing.com/th?id=OHR.AbrahamCanada_ROW4975668347_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

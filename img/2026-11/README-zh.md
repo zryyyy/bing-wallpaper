@@ -57,4 +57,12 @@
       2026-11-12 <a href="https://www.bing.com/th?id=OHR.AbrahamCanada_ZH-CN0344365912_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg" alt="中国香港维多利亚港 (© Juan Romero/Cavan Images)" /><br>
+      2026-11-13 <a href="https://www.bing.com/th?id=OHR.BlueHK_ZH-CN1382345392_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
