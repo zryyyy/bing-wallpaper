@@ -62,7 +62,10 @@
       <img src="https://www.bing.com/th?id=OHR.AbrahamCanada_ROW4975668347_UHD.jpg" alt="Abraham Lake in Alberta, Canada (© Guang Cao/Getty Images)" /><br>
       2026-11-13 <a href="https://www.bing.com/th?id=OHR.AbrahamCanada_ROW4975668347_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BlueHK_ROW5600938316_UHD.jpg" alt="Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)" /><br>
+      2026-11-14 <a href="https://www.bing.com/th?id=OHR.BlueHK_ROW5600938316_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
