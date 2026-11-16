@@ -66,6 +66,9 @@
       <img src="https://www.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg" alt="覆霜的红叶杜鹃 (© avoferten/Shutterstock)" /><br>
       2026-11-14 <a href="https://www.bing.com/th?id=OHR.FirstFrost_ZH-CN2219029557_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg" alt="美国新墨西哥州吉拉悬崖民居国家纪念地 (© Chiara Salvadori/Getty Images)" /><br>
+      2026-11-15 <a href="https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

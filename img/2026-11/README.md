@@ -66,6 +66,9 @@
       <img src="https://www.bing.com/th?id=OHR.BlueHK_ROW5600938316_UHD.jpg" alt="Victoria Harbour, Hong Kong, China (© Juan Romero/Cavan Images)" /><br>
       2026-11-14 <a href="https://www.bing.com/th?id=OHR.BlueHK_ROW5600938316_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.FirstFrost_ROW5798320108_UHD.jpg" alt="Frozen azalea with red leaves (© avoferten/Shutterstock)" /><br>
+      2026-11-15 <a href="https://www.bing.com/th?id=OHR.FirstFrost_ROW5798320108_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
