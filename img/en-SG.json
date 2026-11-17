@@ -1,15 +1,5 @@
 [
   {
-    "date": "20261017",
-    "url": "https://www.bing.com/th?id=OHR.PerugiaAqueduct_ROW9255897123_UHD.jpg",
-    "copyright": "Medieval Aqueduct, Perugia, Italy (© Marco Saracco/Getty Images)"
-  },
-  {
-    "date": "20261018",
-    "url": "https://www.bing.com/th?id=OHR.DolbadarnWales_ROW9422076532_UHD.jpg",
-    "copyright": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)"
-  },
-  {
     "date": "20261019",
     "url": "https://www.bing.com/th?id=OHR.VeniceSunrise_ROW9643744702_UHD.jpg",
     "copyright": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)"
@@ -148,5 +138,15 @@
     "date": "20261115",
     "url": "https://www.bing.com/th?id=OHR.FirstFrost_ROW5798320108_UHD.jpg",
     "copyright": "Frozen azalea with red leaves (© avoferten/Shutterstock)"
+  },
+  {
+    "date": "20261116",
+    "url": "https://www.bing.com/th?id=OHR.GilaCliff_ROW5960011422_UHD.jpg",
+    "copyright": "Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images)"
+  },
+  {
+    "date": "20261117",
+    "url": "https://www.bing.com/th?id=OHR.TrailCedars_ROW6107816047_UHD.jpg",
+    "copyright": "Trail of the Cedars, Glacier National Park, Montana, USA (© DBushue Photography/Getty Images)"
   }
 ]

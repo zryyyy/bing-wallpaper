@@ -1,10 +1,5 @@
 [
   {
-    "date": "20261017",
-    "url": "https://www.bing.com/th?id=OHR.DolbadarnWales_EN-GB4918405829_UHD.jpg",
-    "copyright": "Dolbadarn Castle, Llanberis, Eryri National Park (Snowdonia), Wales (© joe daniel price/Getty Images)"
-  },
-  {
     "date": "20261018",
     "url": "https://www.bing.com/th?id=OHR.VeniceSunrise_EN-GB5027785704_UHD.jpg",
     "copyright": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)"
@@ -148,5 +143,10 @@
     "date": "20261116",
     "url": "https://www.bing.com/th?id=OHR.GilaCliff_EN-GB1863069273_UHD.jpg",
     "copyright": "Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images)"
+  },
+  {
+    "date": "20261117",
+    "url": "https://www.bing.com/th?id=OHR.TrailCedars_EN-GB2504891943_UHD.jpg",
+    "copyright": "Trail of the Cedars, Glacier National Park, Montana, USA (© DBushue Photography/Getty Images)"
   }
 ]

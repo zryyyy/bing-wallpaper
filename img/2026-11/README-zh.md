@@ -71,4 +71,12 @@
       2026-11-15 <a href="https://www.bing.com/th?id=OHR.GilaCliff_ZH-CN2393001519_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg" alt="雪松林步道，冰川国家公园，蒙大拿州，美国 (© DBushue Photography/Getty Images)" /><br>
+      2026-11-16 <a href="https://www.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

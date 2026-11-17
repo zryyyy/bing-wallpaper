@@ -71,4 +71,15 @@
       2026-11-15 <a href="https://www.bing.com/th?id=OHR.FirstFrost_ROW5798320108_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.GilaCliff_ROW5960011422_UHD.jpg" alt="Gila Cliff Dwellings National Monument, New Mexico, USA (© Chiara Salvadori/Getty Images)" /><br>
+      2026-11-16 <a href="https://www.bing.com/th?id=OHR.GilaCliff_ROW5960011422_UHD.jpg">Download</a>
+    </td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.TrailCedars_ROW6107816047_UHD.jpg" alt="Trail of the Cedars, Glacier National Park, Montana, USA (© DBushue Photography/Getty Images)" /><br>
+      2026-11-17 <a href="https://www.bing.com/th?id=OHR.TrailCedars_ROW6107816047_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+  </tr>
 </table>
