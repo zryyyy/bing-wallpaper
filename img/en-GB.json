@@ -1,10 +1,5 @@
 [
   {
-    "date": "20261018",
-    "url": "https://www.bing.com/th?id=OHR.VeniceSunrise_EN-GB5027785704_UHD.jpg",
-    "copyright": "Grand Canal in Venice, Italy (© Juan Romero/Cavan Images)"
-  },
-  {
     "date": "20261019",
     "url": "https://www.bing.com/th?id=OHR.BrownSloth_EN-GB5100181368_UHD.jpg",
     "copyright": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)"
@@ -148,5 +143,10 @@
     "date": "20261117",
     "url": "https://www.bing.com/th?id=OHR.TrailCedars_EN-GB2504891943_UHD.jpg",
     "copyright": "Trail of the Cedars, Glacier National Park, Montana, USA (© DBushue Photography/Getty Images)"
+  },
+  {
+    "date": "20261118",
+    "url": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-GB9873814926_UHD.jpg",
+    "copyright": "Pair of barn owls (© Zahoor Salmi/Getty Images)"
   }
 ]

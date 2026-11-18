@@ -76,7 +76,10 @@
       <img src="https://www.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg" alt="雪松林步道，冰川国家公园，蒙大拿州，美国 (© DBushue Photography/Getty Images)" /><br>
       2026-11-16 <a href="https://www.bing.com/th?id=OHR.TrailCedars_ZH-CN2670680285_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg" alt="一对仓鸮 (© Zahoor Salmi/Getty Images)" /><br>
+      2026-11-17 <a href="https://www.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
