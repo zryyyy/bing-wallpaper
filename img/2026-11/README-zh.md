@@ -80,6 +80,9 @@
       <img src="https://www.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg" alt="一对仓鸮 (© Zahoor Salmi/Getty Images)" /><br>
       2026-11-17 <a href="https://www.bing.com/th?id=OHR.BarnOwlsUnite_ZH-CN2930153291_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_UHD.jpg" alt="雕塑《知识之躯》，由豪梅·普兰萨创作，位于德国法兰克福的法兰克福歌德大学 (© Todamo/Shutterstock)" /><br>
+      2026-11-18 <a href="https://www.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

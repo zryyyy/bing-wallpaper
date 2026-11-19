@@ -80,6 +80,9 @@
       <img src="https://www.bing.com/th?id=OHR.TrailCedars_ROW6107816047_UHD.jpg" alt="Trail of the Cedars, Glacier National Park, Montana, USA (© DBushue Photography/Getty Images)" /><br>
       2026-11-17 <a href="https://www.bing.com/th?id=OHR.TrailCedars_ROW6107816047_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.BarnOwlsUnite_ROW6271604820_UHD.jpg" alt="Pair of barn owls (© Zahoor Salmi/Getty Images)" /><br>
+      2026-11-18 <a href="https://www.bing.com/th?id=OHR.BarnOwlsUnite_ROW6271604820_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
