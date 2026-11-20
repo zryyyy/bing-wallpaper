@@ -85,4 +85,12 @@
       2026-11-18 <a href="https://www.bing.com/th?id=OHR.BarnOwlsUnite_ROW6271604820_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.MelbourneRedwoods_ROW6372871248_UHD.jpg" alt="Coast redwoods near Melbourne, Victoria, Australia (© James Yu/Getty Images)" /><br>
+      2026-11-19 <a href="https://www.bing.com/th?id=OHR.MelbourneRedwoods_ROW6372871248_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

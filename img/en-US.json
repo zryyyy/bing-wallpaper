@@ -1,10 +1,5 @@
 [
   {
-    "date": "20261020",
-    "url": "https://www.bing.com/th?id=OHR.BrownSloth_EN-US6816754257_UHD.jpg",
-    "copyright": "Brown-throated sloth, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)"
-  },
-  {
     "date": "20261021",
     "url": "https://www.bing.com/th?id=OHR.VietnamBridge_EN-US6907946681_UHD.jpg",
     "copyright": "Nguyen Hoang Bridge over the Perfume River, Hue, Vietnam (© VU PHAM VAN/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20261118",
     "url": "https://www.bing.com/th?id=OHR.BarnOwlsUnite_EN-US9661992435_UHD.jpg",
     "copyright": "Pair of barn owls (© Zahoor Salmi/Getty Images)"
+  },
+  {
+    "date": "20261119",
+    "url": "https://www.bing.com/th?id=OHR.KnowledgeSculpture_EN-US9746703110_UHD.jpg",
+    "copyright": "The \"Body of Knowledge\" sculpture by Jaume Plensa at Goethe University in Frankfurt, Germany (© Todamo/Shutterstock)"
   }
 ]

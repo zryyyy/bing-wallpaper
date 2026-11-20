@@ -85,4 +85,12 @@
       2026-11-18 <a href="https://www.bing.com/th?id=OHR.KnowledgeSculpture_ZH-CN3168800853_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_UHD.jpg" alt="正在潜水的座头鲸，挪威北部特罗姆斯的克瓦尔岛 (© Espen Bergersen/Minden Pictures)" /><br>
+      2026-11-19 <a href="https://www.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
