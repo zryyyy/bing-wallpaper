@@ -90,7 +90,10 @@
       <img src="https://www.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_UHD.jpg" alt="正在潜水的座头鲸，挪威北部特罗姆斯的克瓦尔岛 (© Espen Bergersen/Minden Pictures)" /><br>
       2026-11-19 <a href="https://www.bing.com/th?id=OHR.Megaptera_ZH-CN3361807823_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg" alt="法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯 (© Siripong Kaewla-iad/Getty Images)" /><br>
+      2026-11-20 <a href="https://www.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>

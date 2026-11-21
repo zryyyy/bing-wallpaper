@@ -90,7 +90,10 @@
       <img src="https://www.bing.com/th?id=OHR.MelbourneRedwoods_ROW6372871248_UHD.jpg" alt="Coast redwoods near Melbourne, Victoria, Australia (© James Yu/Getty Images)" /><br>
       2026-11-19 <a href="https://www.bing.com/th?id=OHR.MelbourneRedwoods_ROW6372871248_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.Megaptera_ROW6602236016_UHD.jpg" alt="Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)" /><br>
+      2026-11-20 <a href="https://www.bing.com/th?id=OHR.Megaptera_ROW6602236016_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
