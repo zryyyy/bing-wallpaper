@@ -94,6 +94,9 @@
       <img src="https://www.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg" alt="法国普罗旺斯-阿尔卑斯-蔚蓝海岸大区尼斯 (© Siripong Kaewla-iad/Getty Images)" /><br>
       2026-11-20 <a href="https://www.bing.com/th?id=OHR.RedNice_ZH-CN3518429866_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_UHD.jpg" alt="西班牙坎塔布里亚自治区的圣胡斯塔隐修院与小教堂 (© Tramont_ana/Getty Images)" /><br>
+      2026-11-21 <a href="https://www.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

@@ -94,6 +94,9 @@
       <img src="https://www.bing.com/th?id=OHR.Megaptera_ROW6602236016_UHD.jpg" alt="Diving humpback whale, Kvaloya, Troms, Northern Norway (© Espen Bergersen/Minden Pictures)" /><br>
       2026-11-20 <a href="https://www.bing.com/th?id=OHR.Megaptera_ROW6602236016_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.RedNice_ROW6800043418_UHD.jpg" alt="Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)" /><br>
+      2026-11-21 <a href="https://www.bing.com/th?id=OHR.RedNice_ROW6800043418_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
