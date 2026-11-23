@@ -99,4 +99,15 @@
       2026-11-21 <a href="https://www.bing.com/th?id=OHR.RedNice_ROW6800043418_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.GreenIceberg_ROW6926688504_UHD.jpg" alt="Icebergs, Ilulissat, Greenland (© James Yu/Getty Images)" /><br>
+      2026-11-22 <a href="https://www.bing.com/th?id=OHR.GreenIceberg_ROW6926688504_UHD.jpg">Download</a>
+    </td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.FibonacciFern_ROW6425813382_UHD.jpg" alt="Fiddlehead fern (© Reza Saputra/Getty Images)" /><br>
+      2026-11-23 <a href="https://www.bing.com/th?id=OHR.FibonacciFern_ROW6425813382_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+  </tr>
 </table>

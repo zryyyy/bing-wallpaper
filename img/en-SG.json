@@ -1,15 +1,5 @@
 [
   {
-    "date": "20261023",
-    "url": "https://www.bing.com/th?id=OHR.YellowstoneWolves_ROW0688697251_UHD.jpg",
-    "copyright": "Two grey wolves, Yellowstone National Park, Wyoming, United States (© John Morrison/Getty Images)"
-  },
-  {
-    "date": "20261024",
-    "url": "https://www.bing.com/th?id=OHR.Tanager_ROW0977269473_UHD.jpg",
-    "copyright": "Green-headed tanager (© Juan Carlos Vindas/Getty Images)"
-  },
-  {
     "date": "20261025",
     "url": "https://www.bing.com/th?id=OHR.MaligneFest_ROW1322674228_UHD.jpg",
     "copyright": "Maligne Lake, Jasper National Park, Alberta, Canada (© Andrey Popov/Getty Images)"
@@ -148,5 +138,15 @@
     "date": "20261121",
     "url": "https://www.bing.com/th?id=OHR.RedNice_ROW6800043418_UHD.jpg",
     "copyright": "Nice, Provence-Alpes-Côte d'Azur, France (© Siripong Kaewla-iad/Getty Images)"
+  },
+  {
+    "date": "20261122",
+    "url": "https://www.bing.com/th?id=OHR.GreenIceberg_ROW6926688504_UHD.jpg",
+    "copyright": "Icebergs, Ilulissat, Greenland (© James Yu/Getty Images)"
+  },
+  {
+    "date": "20261123",
+    "url": "https://www.bing.com/th?id=OHR.FibonacciFern_ROW6425813382_UHD.jpg",
+    "copyright": "Fiddlehead fern (© Reza Saputra/Getty Images)"
   }
 ]

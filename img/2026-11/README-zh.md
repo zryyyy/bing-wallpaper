@@ -99,4 +99,12 @@
       2026-11-21 <a href="https://www.bing.com/th?id=OHR.JustaHermitage_ZH-CN3751022621_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg" alt="蕨类植物的卷曲嫩叶 (© Reza Saputra/Getty Images)" /><br>
+      2026-11-22 <a href="https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
