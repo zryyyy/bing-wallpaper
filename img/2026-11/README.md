@@ -108,6 +108,9 @@
       <img src="https://www.bing.com/th?id=OHR.FibonacciFern_ROW6425813382_UHD.jpg" alt="Fiddlehead fern (© Reza Saputra/Getty Images)" /><br>
       2026-11-23 <a href="https://www.bing.com/th?id=OHR.FibonacciFern_ROW6425813382_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.CairngormsSquirrel_ROW7336059810_UHD.jpg" alt="Red squirrel in Cairngorms National Park, Highlands, Scotland (© Scotland: The Big Picture/Minden Pictures)" /><br>
+      2026-11-24 <a href="https://www.bing.com/th?id=OHR.CairngormsSquirrel_ROW7336059810_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>

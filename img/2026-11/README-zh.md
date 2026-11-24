@@ -104,7 +104,10 @@
       <img src="https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg" alt="蕨类植物的卷曲嫩叶 (© Reza Saputra/Getty Images)" /><br>
       2026-11-22 <a href="https://www.bing.com/th?id=OHR.FibonacciFern_ZH-CN3882237848_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg" alt="红松鼠，凯恩戈姆斯国家公园，苏格兰高地 (© Scotland: The Big Picture/Minden Pictures)" /><br>
+      2026-11-23 <a href="https://www.bing.com/th?id=OHR.CairngormsSquirrel_ZH-CN0941302869_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
