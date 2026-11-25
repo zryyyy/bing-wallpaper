@@ -113,4 +113,12 @@
       2026-11-24 <a href="https://www.bing.com/th?id=OHR.CairngormsSquirrel_ROW7336059810_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.SunsetPoint_ROW8066208115_UHD.jpg" alt="Sunset Point, Bryce Canyon National Park, Utah, USA (© Colin D. Young/Alamy)" /><br>
+      2026-11-25 <a href="https://www.bing.com/th?id=OHR.SunsetPoint_ROW8066208115_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>
