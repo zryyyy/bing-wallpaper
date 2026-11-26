@@ -113,4 +113,12 @@
       2026-11-24 <a href="https://www.bing.com/th?id=OHR.SunsetPoint_ZH-CN5737034685_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_UHD.jpg" alt="怀卢库河上的彩虹瀑布，希洛市，夏威夷州，美国 (© Peter Unger/Getty Images)" /><br>
+      2026-11-25 <a href="https://www.bing.com/th?id=OHR.RFHilo_ZH-CN5962114314_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

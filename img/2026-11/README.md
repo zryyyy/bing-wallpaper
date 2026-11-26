@@ -118,7 +118,10 @@
       <img src="https://www.bing.com/th?id=OHR.SunsetPoint_ROW8066208115_UHD.jpg" alt="Sunset Point, Bryce Canyon National Park, Utah, USA (© Colin D. Young/Alamy)" /><br>
       2026-11-25 <a href="https://www.bing.com/th?id=OHR.SunsetPoint_ROW8066208115_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.RFHilo_ROW7802013714_UHD.jpg" alt="Rainbow Falls on the Wailuku River, Hilo, Hawaii, USA (© Peter Unger/Getty Images)" /><br>
+      2026-11-26 <a href="https://www.bing.com/th?id=OHR.RFHilo_ROW7802013714_UHD.jpg">Download</a>
+    </td>
     <td></td>
   </tr>
 </table>
