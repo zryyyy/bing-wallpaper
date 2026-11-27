@@ -122,6 +122,9 @@
       <img src="https://www.bing.com/th?id=OHR.RFHilo_ROW7802013714_UHD.jpg" alt="Rainbow Falls on the Wailuku River, Hilo, Hawaii, USA (© Peter Unger/Getty Images)" /><br>
       2026-11-26 <a href="https://www.bing.com/th?id=OHR.RFHilo_ROW7802013714_UHD.jpg">Download</a>
     </td>
-    <td></td>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.FaceCanyon_ROW8227302617_UHD.jpg" alt="Butte at sunset, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden)" /><br>
+      2026-11-27 <a href="https://www.bing.com/th?id=OHR.FaceCanyon_ROW8227302617_UHD.jpg">Download</a>
+    </td>
   </tr>
 </table>
