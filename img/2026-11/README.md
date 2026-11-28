@@ -127,4 +127,12 @@
       2026-11-27 <a href="https://www.bing.com/th?id=OHR.FaceCanyon_ROW8227302617_UHD.jpg">Download</a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.bing.com/th?id=OHR.VltavaPrague_ROW8370257581_UHD.jpg" alt="Old town and Vltava River, Prague, Czechia (© Lara_Uhryn/Getty Images)" /><br>
+      2026-11-28 <a href="https://www.bing.com/th?id=OHR.VltavaPrague_ROW8370257581_UHD.jpg">Download</a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
 </table>

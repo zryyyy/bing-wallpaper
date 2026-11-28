@@ -1,10 +1,5 @@
 [
   {
-    "date": "20261029",
-    "url": "https://www.bing.com/th?id=OHR.AveburyStones_ROW2156116179_UHD.jpg",
-    "copyright": "Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)"
-  },
-  {
     "date": "20261030",
     "url": "https://www.bing.com/th?id=OHR.AutumnCranes_ROW2927926233_UHD.jpg",
     "copyright": "Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)"
@@ -148,5 +143,10 @@
     "date": "20261127",
     "url": "https://www.bing.com/th?id=OHR.FaceCanyon_ROW8227302617_UHD.jpg",
     "copyright": "Butte at sunset, Face Canyon, Lake Powell, Utah, USA (© Jeff Foott/Minden)"
+  },
+  {
+    "date": "20261128",
+    "url": "https://www.bing.com/th?id=OHR.VltavaPrague_ROW8370257581_UHD.jpg",
+    "copyright": "Old town and Vltava River, Prague, Czechia (© Lara_Uhryn/Getty Images)"
   }
 ]
